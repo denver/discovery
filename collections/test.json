@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "1.0",
+  "slug": "test-videos",
+  "title": "Test Videos",
+  "description": "Denver's smoke-test collection: three real AI Engineer talks with light editorial metadata.",
+  "source": {
+    "type": "curated",
+    "homepage": "https://www.ai.engineer/"
+  },
+  "defaultRanking": "views",
+  "videos": [
+    {
+      "youtubeUrl": "https://youtu.be/JJGbw4ggaFs?si=-GClHFcDmS7I7z_6",
+      "speakers": [
+        { "name": "Alexander Embiricos", "slug": "alexander-embiricos" },
+        { "name": "Romain Huet", "slug": "romain-huet" }
+      ],
+      "event": { "name": "AI Engineer World's Fair", "year": 2026, "city": "San Francisco" },
+      "track": "Keynotes",
+      "topics": ["ai-engineering"],
+      "organizations": ["OpenAI"]
+    },
+    {
+      "youtubeUrl": "https://www.youtube.com/watch?v=pMggiOb18tc",
+      "speakers": [
+        { "name": "Garry Tan", "slug": "garry-tan" }
+      ],
+      "event": { "name": "AI Engineer World's Fair", "year": 2026, "city": "San Francisco" },
+      "track": "Keynotes",
+      "topics": ["startups", "ai-engineering"],
+      "organizations": ["Y Combinator"]
+    },
+    {
+      "youtubeUrl": "https://www.youtube.com/watch?v=eBUyTS7SzV4&t=2s",
+      "event": { "name": "AI Engineer World's Fair", "year": 2026, "city": "San Francisco" },
+      "track": "Agents",
+      "topics": ["agents", "performance"]
+    }
+  ]
+}
