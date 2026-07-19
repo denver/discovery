@@ -285,18 +285,21 @@ func TestSyncConfigError(t *testing.T) {
 }
 
 func TestSyncDatabaseModeOpenErrorIsClean(t *testing.T) {
-	// Real database.Open seam: errors until the postgres lane lands, and
-	// the CLI must surface that message cleanly.
+	// Unreachable database: the CLI must fail with exit 1 and surface a
+	// sanitized error (no credentials), regardless of local postgres.
 	path := writeFile(t, "good.json", goodCollection)
 	setSyncEnv(t, path, filepath.Join(t.TempDir(), "cache.json"))
-	t.Setenv("DATABASE_URL", "postgres://localhost/discovery")
+	t.Setenv("DATABASE_URL", "postgres://user:sekret@127.0.0.1:1/discovery?connect_timeout=1")
 
 	var stdout, stderr bytes.Buffer
 	if code := runSync(nil, &stdout, &stderr); code != exitErr {
 		t.Fatalf("exit = %d, want %d", code, exitErr)
 	}
-	if !strings.Contains(stderr.String(), "database mode not implemented yet") {
-		t.Errorf("stderr = %q, want database.Open's error", stderr.String())
+	if !strings.Contains(stderr.String(), "database") {
+		t.Errorf("stderr = %q, want a database error", stderr.String())
+	}
+	if strings.Contains(stderr.String(), "sekret") {
+		t.Errorf("stderr leaks the database password: %q", stderr.String())
 	}
 }
 
