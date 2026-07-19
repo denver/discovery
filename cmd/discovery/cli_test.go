@@ -91,7 +91,7 @@ func setSyncEnv(t *testing.T, collectionPath, cachePath string) {
 	t.Setenv("YOUTUBE_API_KEY", "test-key")
 	t.Setenv("DISCOVERY_COLLECTION_PATH", collectionPath)
 	t.Setenv("DISCOVERY_CACHE_PATH", cachePath)
-	t.Setenv("DATABASE_URL", "")
+	t.Setenv("DISCOVERY_DATABASE_URL", "")
 	t.Setenv("DISCOVERY_REFRESH_INTERVAL", "")
 	t.Setenv("PORT", "")
 }
@@ -273,7 +273,7 @@ func TestSyncInvalidCollectionFile(t *testing.T) {
 func TestSyncConfigError(t *testing.T) {
 	t.Setenv("YOUTUBE_API_KEY", "")
 	t.Setenv("DISCOVERY_COLLECTION_PATH", "")
-	t.Setenv("DATABASE_URL", "")
+	t.Setenv("DISCOVERY_DATABASE_URL", "")
 
 	var stdout, stderr bytes.Buffer
 	if code := runSync(nil, &stdout, &stderr); code != exitErr {
@@ -289,7 +289,7 @@ func TestSyncDatabaseModeOpenErrorIsClean(t *testing.T) {
 	// sanitized error (no credentials), regardless of local postgres.
 	path := writeFile(t, "good.json", goodCollection)
 	setSyncEnv(t, path, filepath.Join(t.TempDir(), "cache.json"))
-	t.Setenv("DATABASE_URL", "postgres://user:sekret@127.0.0.1:1/discovery?connect_timeout=1")
+	t.Setenv("DISCOVERY_DATABASE_URL", "postgres://user:sekret@127.0.0.1:1/discovery?connect_timeout=1")
 
 	var stdout, stderr bytes.Buffer
 	if code := runSync(nil, &stdout, &stderr); code != exitErr {
@@ -314,7 +314,7 @@ func TestSyncBadFlag(t *testing.T) {
 
 func TestImportFileModeValidatesAndNotes(t *testing.T) {
 	path := writeFile(t, "good.json", goodCollection)
-	t.Setenv("DATABASE_URL", "")
+	t.Setenv("DISCOVERY_DATABASE_URL", "")
 
 	var stdout, stderr bytes.Buffer
 	if code := runImport([]string{path}, &stdout, &stderr); code != exitOK {
@@ -330,7 +330,7 @@ func TestImportFileModeValidatesAndNotes(t *testing.T) {
 
 func TestImportInvalidFile(t *testing.T) {
 	path := writeFile(t, "bad.json", badCollection)
-	t.Setenv("DATABASE_URL", "")
+	t.Setenv("DISCOVERY_DATABASE_URL", "")
 
 	var stdout, stderr bytes.Buffer
 	if code := runImport([]string{path}, &stdout, &stderr); code != exitErr {
@@ -343,7 +343,7 @@ func TestImportInvalidFile(t *testing.T) {
 
 func TestImportDatabaseStoreError(t *testing.T) {
 	path := writeFile(t, "good.json", goodCollection)
-	t.Setenv("DATABASE_URL", "postgres://fake/db")
+	t.Setenv("DISCOVERY_DATABASE_URL", "postgres://fake/db")
 	setOpenDatabase(t, nil, errors.New("connection refused"))
 
 	var stdout, stderr bytes.Buffer
@@ -357,7 +357,7 @@ func TestImportDatabaseStoreError(t *testing.T) {
 
 func TestImportExportRoundTripPreservesEditorialContent(t *testing.T) {
 	path := writeFile(t, "good.json", goodCollection)
-	t.Setenv("DATABASE_URL", "postgres://fake/db")
+	t.Setenv("DISCOVERY_DATABASE_URL", "postgres://fake/db")
 	// One shared store stands in for the database across both commands.
 	store := collections.NewMemStore(collections.MemStoreOptions{})
 	setOpenDatabase(t, store, nil)
@@ -393,7 +393,7 @@ func TestImportExportRoundTripPreservesEditorialContent(t *testing.T) {
 }
 
 func TestExportDatabaseModeUnknownSlug(t *testing.T) {
-	t.Setenv("DATABASE_URL", "postgres://fake/db")
+	t.Setenv("DISCOVERY_DATABASE_URL", "postgres://fake/db")
 	setOpenDatabase(t, collections.NewMemStore(collections.MemStoreOptions{}), nil)
 
 	var stdout, stderr bytes.Buffer
@@ -407,7 +407,7 @@ func TestExportDatabaseModeUnknownSlug(t *testing.T) {
 
 func TestExportFileMode(t *testing.T) {
 	path := writeFile(t, "good.json", goodCollection)
-	t.Setenv("DATABASE_URL", "")
+	t.Setenv("DISCOVERY_DATABASE_URL", "")
 	t.Setenv("DISCOVERY_COLLECTION_PATH", path)
 
 	var stdout, stderr bytes.Buffer
@@ -425,7 +425,7 @@ func TestExportFileMode(t *testing.T) {
 
 func TestExportFileModeSlugMismatch(t *testing.T) {
 	path := writeFile(t, "good.json", goodCollection)
-	t.Setenv("DATABASE_URL", "")
+	t.Setenv("DISCOVERY_DATABASE_URL", "")
 	t.Setenv("DISCOVERY_COLLECTION_PATH", path)
 
 	var stdout, stderr bytes.Buffer
@@ -438,7 +438,7 @@ func TestExportFileModeSlugMismatch(t *testing.T) {
 }
 
 func TestExportFileModeUnconfigured(t *testing.T) {
-	t.Setenv("DATABASE_URL", "")
+	t.Setenv("DISCOVERY_DATABASE_URL", "")
 	t.Setenv("DISCOVERY_COLLECTION_PATH", "")
 
 	var stdout, stderr bytes.Buffer
@@ -455,7 +455,7 @@ func TestExportFileModeUnconfigured(t *testing.T) {
 func TestServeFailsCleanlyWithoutConfig(t *testing.T) {
 	t.Setenv("YOUTUBE_API_KEY", "")
 	t.Setenv("DISCOVERY_COLLECTION_PATH", "")
-	t.Setenv("DATABASE_URL", "")
+	t.Setenv("DISCOVERY_DATABASE_URL", "")
 	var stdout, stderr bytes.Buffer
 	if code := runServe(nil, &stdout, &stderr); code != exitErr {
 		t.Fatalf("exit = %d, want %d", code, exitErr)

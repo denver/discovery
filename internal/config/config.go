@@ -1,13 +1,14 @@
 // Package config loads Discovery Engine configuration from environment
-// variables and selects the operating mode: file mode by default,
-// database mode when DATABASE_URL is set. See .env.example for the full
-// list of variables.
+// variables (with ./.env as a fallback for unset variables) and selects
+// the operating mode: file mode by default, database mode when
+// DISCOVERY_DATABASE_URL is set. The unprefixed DATABASE_URL is
+// deliberately ignored: ambient values from other projects' shells must
+// never flip the mode. See .env.example for the full list of variables.
 package config
 
 import (
 	"fmt"
 	"net/url"
-	"os"
 	"strconv"
 	"strings"
 	"time"
@@ -22,7 +23,7 @@ const (
 	FileMode Mode = "file"
 
 	// DatabaseMode persists to PostgreSQL, enabling snapshots, history,
-	// and rank movement. Selected by DATABASE_URL presence.
+	// and rank movement. Selected by DISCOVERY_DATABASE_URL presence.
 	DatabaseMode Mode = "database"
 )
 
@@ -43,8 +44,8 @@ type Config struct {
 	// (DISCOVERY_COLLECTION_PATH). Required in file mode.
 	CollectionPath string
 
-	// DatabaseURL is the PostgreSQL connection string (DATABASE_URL).
-	// Optional; presence selects database mode.
+	// DatabaseURL is the PostgreSQL connection string
+	// (DISCOVERY_DATABASE_URL). Optional; presence selects database mode.
 	DatabaseURL string
 
 	// Port is the HTTP listen port (PORT, default 8080).
@@ -64,9 +65,9 @@ type Config struct {
 // variable so it can be fixed in one pass.
 func Load() (*Config, error) {
 	cfg := &Config{
-		YouTubeAPIKey:  os.Getenv("YOUTUBE_API_KEY"),
-		CollectionPath: os.Getenv("DISCOVERY_COLLECTION_PATH"),
-		DatabaseURL:    os.Getenv("DATABASE_URL"),
+		YouTubeAPIKey:  EnvLookup("YOUTUBE_API_KEY"),
+		CollectionPath: EnvLookup("DISCOVERY_COLLECTION_PATH"),
+		DatabaseURL:    EnvLookup("DISCOVERY_DATABASE_URL"),
 		Port:           DefaultPort,
 		CachePath:      DefaultCachePath,
 	}
@@ -78,9 +79,9 @@ func Load() (*Config, error) {
 	}
 	if cfg.DatabaseURL == "" && cfg.CollectionPath == "" {
 		problems = append(problems,
-			"DISCOVERY_COLLECTION_PATH is required in file mode: set it to your collection file (e.g. ./collections/example.json), or set DATABASE_URL to run in database mode")
+			"DISCOVERY_COLLECTION_PATH is required in file mode: set it to your collection file (e.g. ./collections/example.json), or set DISCOVERY_DATABASE_URL to run in database mode")
 	}
-	if v := os.Getenv("PORT"); v != "" {
+	if v := EnvLookup("PORT"); v != "" {
 		p, err := strconv.Atoi(v)
 		if err != nil || p < 1 || p > 65535 {
 			problems = append(problems,
@@ -89,10 +90,10 @@ func Load() (*Config, error) {
 			cfg.Port = p
 		}
 	}
-	if v := os.Getenv("DISCOVERY_CACHE_PATH"); v != "" {
+	if v := EnvLookup("DISCOVERY_CACHE_PATH"); v != "" {
 		cfg.CachePath = v
 	}
-	if v := os.Getenv("DISCOVERY_REFRESH_INTERVAL"); v != "" {
+	if v := EnvLookup("DISCOVERY_REFRESH_INTERVAL"); v != "" {
 		d, err := time.ParseDuration(v)
 		switch {
 		case err != nil:
@@ -112,7 +113,8 @@ func Load() (*Config, error) {
 	return cfg, nil
 }
 
-// Mode returns DatabaseMode when DATABASE_URL is set, FileMode otherwise.
+// Mode returns DatabaseMode when DISCOVERY_DATABASE_URL is set, FileMode
+// otherwise.
 func (c *Config) Mode() Mode {
 	if c.DatabaseURL != "" {
 		return DatabaseMode

@@ -85,7 +85,7 @@ File mode does not need to preserve a full historical time series.
 
 ### Database Mode
 
-Database mode is enabled when DATABASE_URL is present.
+Database mode is enabled when DISCOVERY_DATABASE_URL is present.
 
 The application:
 

@@ -79,6 +79,6 @@ Commands:
 
 Configuration comes from the environment (see .env.example):
 YOUTUBE_API_KEY, DISCOVERY_COLLECTION_PATH, DISCOVERY_CACHE_PATH,
-and DATABASE_URL (presence selects database mode).
+and DISCOVERY_DATABASE_URL (presence selects database mode).
 `, version)
 }

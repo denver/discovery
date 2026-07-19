@@ -14,7 +14,7 @@ func setEnv(t *testing.T, vars map[string]string) {
 	all := []string{
 		"YOUTUBE_API_KEY",
 		"DISCOVERY_COLLECTION_PATH",
-		"DATABASE_URL",
+		"DISCOVERY_DATABASE_URL",
 		"PORT",
 		"DISCOVERY_CACHE_PATH",
 		"DISCOVERY_REFRESH_INTERVAL",
@@ -78,8 +78,8 @@ func TestLoadDefaults(t *testing.T) {
 
 func TestLoadDatabaseMode(t *testing.T) {
 	setEnv(t, map[string]string{
-		"YOUTUBE_API_KEY": "test-key",
-		"DATABASE_URL":    "postgres://user:secretpass@localhost:5432/discovery?sslmode=disable",
+		"YOUTUBE_API_KEY":        "test-key",
+		"DISCOVERY_DATABASE_URL": "postgres://user:secretpass@localhost:5432/discovery?sslmode=disable",
 		// No DISCOVERY_COLLECTION_PATH: optional in database mode.
 	})
 	cfg, err := Load()
@@ -115,8 +115,8 @@ func TestLoadMissingCollectionPathInFileMode(t *testing.T) {
 	if !strings.Contains(err.Error(), "DISCOVERY_COLLECTION_PATH") {
 		t.Errorf("error does not name DISCOVERY_COLLECTION_PATH: %v", err)
 	}
-	if !strings.Contains(err.Error(), "DATABASE_URL") {
-		t.Errorf("error does not mention the DATABASE_URL alternative: %v", err)
+	if !strings.Contains(err.Error(), "DISCOVERY_DATABASE_URL") {
+		t.Errorf("error does not mention the DISCOVERY_DATABASE_URL alternative: %v", err)
 	}
 }
 
@@ -166,7 +166,7 @@ func TestRedactedNeverLeaksSecrets(t *testing.T) {
 	setEnv(t, map[string]string{
 		"YOUTUBE_API_KEY":            "super-secret-key",
 		"DISCOVERY_COLLECTION_PATH":  "./collections/example.json",
-		"DATABASE_URL":               "postgres://dbuser:dbpass@db.internal:5432/discovery?password=alsopass",
+		"DISCOVERY_DATABASE_URL":     "postgres://dbuser:dbpass@db.internal:5432/discovery?password=alsopass",
 		"DISCOVERY_REFRESH_INTERVAL": "30m",
 	})
 	cfg, err := Load()
@@ -190,8 +190,8 @@ func TestRedactedNeverLeaksSecrets(t *testing.T) {
 
 func TestRedactedUnparseableDatabaseURL(t *testing.T) {
 	setEnv(t, map[string]string{
-		"YOUTUBE_API_KEY": "k",
-		"DATABASE_URL":    "host=db password=hunter2 dbname=discovery",
+		"YOUTUBE_API_KEY":        "k",
+		"DISCOVERY_DATABASE_URL": "host=db password=hunter2 dbname=discovery",
 	})
 	cfg, err := Load()
 	if err != nil {
@@ -202,6 +202,6 @@ func TestRedactedUnparseableDatabaseURL(t *testing.T) {
 		t.Errorf("redacted output leaks DSN password: %s", out)
 	}
 	if !strings.Contains(out, "database=[set]") {
-		t.Errorf("unparseable DATABASE_URL should be fully masked: %s", out)
+		t.Errorf("unparseable DISCOVERY_DATABASE_URL should be fully masked: %s", out)
 	}
 }

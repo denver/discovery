@@ -52,7 +52,7 @@ cp .env.example .env
 The key stays server-side always. It never appears in API responses, logs,
 or error messages (tested).
 
-Database mode is a later decision: leave `DATABASE_URL` unset and you run
+Database mode is a later decision: leave `DISCOVERY_DATABASE_URL` unset and you run
 file mode with a local cache file. Set it and you get history, movers, and
 rank movement across restarts. Same binary, no other changes.
 

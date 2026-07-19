@@ -79,7 +79,7 @@ func runSync(args []string, stdout, stderr io.Writer) int {
 	return exitOK
 }
 
-// openStore selects the Store by operating mode: DATABASE_URL present →
+// openStore selects the Store by operating mode: DISCOVERY_DATABASE_URL present →
 // PostgreSQL, otherwise the in-memory store with the configured cache file
 // so provider data written by a CLI sync persists for the server process.
 func openStore(ctx context.Context, cfg *config.Config, stderr io.Writer) (collections.Store, int) {

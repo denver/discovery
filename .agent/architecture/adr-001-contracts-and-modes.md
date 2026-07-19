@@ -16,7 +16,7 @@ parallel agents that must not depend on each other's code.
    retains only the previous sync run (enough for previousPosition), returns
    `ErrHistoryUnavailable` from `History`. Database mode: PostgreSQL with
    append-only `video_snapshots`/`rank_snapshots`. Mode selected solely by
-   `DATABASE_URL` presence. Both implementations pass one shared conformance
+   `DISCOVERY_DATABASE_URL` presence. Both implementations pass one shared conformance
    test suite.
 
 2. **Contract-first fan-out.** Frozen after Wave 0: the collection JSON

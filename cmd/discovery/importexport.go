@@ -6,12 +6,12 @@ import (
 	"errors"
 	"fmt"
 	"io"
-	"os"
 
 	"github.com/denver/discovery/internal/collections"
+	"github.com/denver/discovery/internal/config"
 )
 
-// Import/export read DATABASE_URL (and DISCOVERY_COLLECTION_PATH in file
+// Import/export read DISCOVERY_DATABASE_URL (and DISCOVERY_COLLECTION_PATH in file
 // mode) directly rather than via config.Load: they are editorial-content
 // commands and must not demand a YouTube API key.
 
@@ -30,10 +30,10 @@ func runImport(args []string, stdout, stderr io.Writer) int {
 		return exitErr
 	}
 
-	dbURL := os.Getenv("DATABASE_URL")
+	dbURL := config.EnvLookup("DISCOVERY_DATABASE_URL")
 	if dbURL == "" {
 		fmt.Fprintf(stdout, "valid: %s (%d videos)\n", c.Slug, len(c.Videos))
-		fmt.Fprintln(stdout, "file mode reads the collection file directly; nothing to import. Set DATABASE_URL to import into PostgreSQL.")
+		fmt.Fprintln(stdout, "file mode reads the collection file directly; nothing to import. Set DISCOVERY_DATABASE_URL to import into PostgreSQL.")
 		return exitOK
 	}
 
@@ -66,7 +66,7 @@ func runExport(args []string, stdout, stderr io.Writer) int {
 	slug := args[0]
 
 	var c *collections.Collection
-	if dbURL := os.Getenv("DATABASE_URL"); dbURL != "" {
+	if dbURL := config.EnvLookup("DISCOVERY_DATABASE_URL"); dbURL != "" {
 		ctx := context.Background()
 		store, err := openDatabase(ctx, dbURL)
 		if err != nil {
@@ -85,9 +85,9 @@ func runExport(args []string, stdout, stderr io.Writer) int {
 		}
 		c = &info.Collection
 	} else {
-		path := os.Getenv("DISCOVERY_COLLECTION_PATH")
+		path := config.EnvLookup("DISCOVERY_COLLECTION_PATH")
 		if path == "" {
-			fmt.Fprintln(stderr, "export: set DISCOVERY_COLLECTION_PATH (file mode) or DATABASE_URL (database mode)")
+			fmt.Fprintln(stderr, "export: set DISCOVERY_COLLECTION_PATH (file mode) or DISCOVERY_DATABASE_URL (database mode)")
 			return exitErr
 		}
 		loaded, err := collections.LoadFile(path)
