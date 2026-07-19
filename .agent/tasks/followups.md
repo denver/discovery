@@ -29,6 +29,25 @@ Known gap: config supports one DISCOVERY_COLLECTION_PATH but the sync
 engine accepts multiple paths — the script works around it by syncing
 per-file. Config should grow multi-path support.
 
+## FE-4: Admin surface, staged (decided 2026-07-19)
+
+Question: should there be login + a web UI for the admin (Denver) to
+create collections that write to the db? Decision: not yet. Files + git
++ CLI are the admin surface: versioned, diffable, authenticated by repo
+ownership, and the import/export round-trip keeps the file canonical in
+db mode. Topics/tags are purely editorial and only come from collection
+files; nothing is inferred from YouTube's (boilerplate) tags.
+
+Staged path:
+1. Now: files + CLI (`discovery validate/import/export`), FE-2 drafter
+   removes the JSON hand-writing pain. No auth exists; keep it that way.
+2. Hosted single-admin: DISCOVERY_ADMIN_TOKEN bearer check on two write
+   endpoints (POST import collection, POST sync). ~30 lines, no
+   sessions, no user table. Remote admin = curl with the token.
+3. Multi-curator / multi-tenant "denver's list": real accounts and
+   per-collection ownership. A product phase (post-MVP by PRD), not a
+   bolt-on. Do not build sessions before this phase exists.
+
 ## FE-2: Collection drafter (playlist → draft collection file)
 
 Problem: YouTube metadata has NO event field — nothing marks a video as
