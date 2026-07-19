@@ -1,0 +1,10 @@
+{{define "title"}}{{.Heading}} · Discovery{{end}}
+
+{{define "content"}}
+    <section class="error-page">
+      <p class="error-code">{{.Status}}</p>
+      <h1>{{.Heading}}</h1>
+      <p class="sub">{{.Message}}</p>
+      <p><a class="button" href="/">Back to collections</a></p>
+    </section>
+{{end}}
