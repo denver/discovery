@@ -18,6 +18,12 @@ import (
 const (
 	DefaultLimit = 25
 	MaxLimit     = 100
+
+	// AllVideos as Filters.Limit disables the pagination cap. For
+	// in-process callers only (the web UI scans a whole collection to
+	// build filter chips); the HTTP API validates 1..MaxLimit and never
+	// passes it.
+	AllVideos = -1
 )
 
 // ErrBadRequest wraps caller errors (unknown strategy, bad pagination);
@@ -201,7 +207,7 @@ func (f Filters) bounds() (limit, offset int, err error) {
 	if limit == 0 {
 		limit = DefaultLimit
 	}
-	if limit < 0 || limit > MaxLimit {
+	if limit != AllVideos && (limit < 0 || limit > MaxLimit) {
 		return 0, 0, fmt.Errorf("%w: limit must be 1-%d", ErrBadRequest, MaxLimit)
 	}
 	if offset < 0 {
@@ -250,6 +256,9 @@ func hasSpeaker(speakers []collections.Speaker, slug string) bool {
 
 func paginate(videos []*collections.Video, limit, offset int) *VideoPage {
 	total := len(videos)
+	if limit == AllVideos {
+		limit = total
+	}
 	if offset > total {
 		offset = total
 	}

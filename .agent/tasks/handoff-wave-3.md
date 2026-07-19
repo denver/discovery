@@ -103,8 +103,9 @@ in `.agent/tasks/followups.md`.
   URLs for entries that never resolved — fix the comment only.
 - CLI could use a `-quiet` flag for cron (engine slog interleaves with
   the summary); optional, small.
-- Leaderboard renders max 100 videos, no pagination UI — fine for MVP;
-  ensure it's in followups.md, don't build it.
+- Leaderboard pagination: DONE (2026-07-19, post-handoff-authoring) —
+  25/50/100 size selector, prev/next, global rank continuity. Nothing
+  to do here.
 
 ### Explicitly OUT of scope
 Accounts, voting, submissions, semantic search, multi-tenant hosting,

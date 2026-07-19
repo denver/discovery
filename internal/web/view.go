@@ -1,6 +1,7 @@
 package web
 
 import (
+	"fmt"
 	"net/url"
 	"sort"
 	"strconv"
@@ -8,6 +9,7 @@ import (
 	"time"
 
 	"github.com/denver/discovery/internal/collections"
+	"github.com/denver/discovery/internal/service"
 )
 
 // sortOptions are the strategies offered as tabs. Windowed strategies are
@@ -52,7 +54,20 @@ type leaderboardData struct {
 	TopicLinks    []navLink
 	Cards         []videoCard
 	Notice        string
+	Pager         *pager
 }
+
+// pager feeds the pagination controls: prev/next, a range indicator, and
+// the page-size selector. Nil hides the controls entirely.
+type pager struct {
+	Showing   string // "1–25 of 919"
+	PrevURL   string // empty on the first page
+	NextURL   string // empty on the last page
+	SizeLinks []navLink
+}
+
+// pageSizes are the page-size selector options.
+var pageSizes = []int{25, 50, 100}
 
 // errorData feeds templates/error.html.
 type errorData struct {
@@ -126,9 +141,11 @@ func newVideoCard(v *collections.Video) videoCard {
 	return c
 }
 
-// leaderboardURL builds /c/{slug} with only the non-empty query params,
-// so switching one control preserves the others.
-func leaderboardURL(slug, sortName, track, topic string) string {
+// leaderboardURL builds /c/{slug} with only the non-default query
+// params, so switching one control preserves the others and default
+// URLs stay clean. Changing sort, filter, or page size resets the
+// offset; only the pager's own prev/next links pass a non-zero offset.
+func leaderboardURL(slug, sortName, track, topic string, limit, offset int) string {
 	q := url.Values{}
 	if sortName != "" {
 		q.Set("sort", sortName)
@@ -139,6 +156,12 @@ func leaderboardURL(slug, sortName, track, topic string) string {
 	if topic != "" {
 		q.Set("topic", topic)
 	}
+	if limit > 0 && limit != service.DefaultLimit {
+		q.Set("limit", strconv.Itoa(limit))
+	}
+	if offset > 0 {
+		q.Set("offset", strconv.Itoa(offset))
+	}
 	u := "/c/" + url.PathEscape(slug)
 	if enc := q.Encode(); enc != "" {
 		u += "?" + enc
@@ -147,18 +170,50 @@ func leaderboardURL(slug, sortName, track, topic string) string {
 }
 
 // sortLinks builds the sort tabs. Each tab carries an explicit ?sort=
-// while preserving the current track/topic; resolved is the strategy the
-// service actually used and drives the active state.
-func sortLinks(slug, resolved, track, topic string) []navLink {
+// while preserving the current track/topic and page size; resolved is
+// the strategy the service actually used and drives the active state.
+func sortLinks(slug, resolved, track, topic string, limit int) []navLink {
 	links := make([]navLink, 0, len(sortOptions))
 	for _, o := range sortOptions {
 		links = append(links, navLink{
 			Label:  o.label,
-			URL:    leaderboardURL(slug, o.name, track, topic),
+			URL:    leaderboardURL(slug, o.name, track, topic, limit, 0),
 			Active: o.name == resolved,
 		})
 	}
 	return links
+}
+
+// newPager builds the pagination controls, or nil when the whole result
+// fits the smallest page size (controls would be noise).
+func newPager(slug, rawSort, track, topic string, limit, offset, total, shown int) *pager {
+	if total <= pageSizes[0] {
+		return nil
+	}
+	p := &pager{}
+	if shown > 0 {
+		p.Showing = fmt.Sprintf("%d–%d of %d", offset+1, offset+shown, total)
+	} else {
+		p.Showing = fmt.Sprintf("0 of %d", total)
+	}
+	if offset > 0 {
+		prev := offset - limit
+		if prev < 0 {
+			prev = 0
+		}
+		p.PrevURL = leaderboardURL(slug, rawSort, track, topic, limit, prev)
+	}
+	if offset+shown < total {
+		p.NextURL = leaderboardURL(slug, rawSort, track, topic, limit, offset+shown)
+	}
+	for _, size := range pageSizes {
+		p.SizeLinks = append(p.SizeLinks, navLink{
+			Label:  strconv.Itoa(size),
+			URL:    leaderboardURL(slug, rawSort, track, topic, size, 0),
+			Active: size == limit,
+		})
+	}
+	return p
 }
 
 // filterLinks builds one filter chip row: an "All" chip plus one chip per

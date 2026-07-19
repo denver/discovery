@@ -7,6 +7,7 @@ import (
 	"html/template"
 	"log/slog"
 	"net/http"
+	"strconv"
 	"time"
 
 	"github.com/denver/discovery/internal/collections"
@@ -19,7 +20,7 @@ import (
 // (views_24h, ...) is requested in file mode.
 const historyNotice = "This sort needs database mode: historical strategies " +
 	"rank by change over time, which requires snapshot history. Run with " +
-	"DATABASE_URL set, or pick one of the sorts above."
+	"DISCOVERY_DATABASE_URL set, or pick one of the sorts above."
 
 // New returns the web UI handler. The server wiring mounts it at /.
 func New(svc *service.Service) (http.Handler, error) {
@@ -95,6 +96,19 @@ func (h *handler) leaderboard(w http.ResponseWriter, r *http.Request) {
 	q := r.URL.Query()
 	rawSort, track, topic := q.Get("sort"), q.Get("track"), q.Get("topic")
 
+	limit, ok := intParam(q.Get("limit"), service.DefaultLimit)
+	if !ok || limit < 1 || limit > service.MaxLimit {
+		h.errorPage(w, r, http.StatusBadRequest, "Bad request",
+			fmt.Sprintf("limit must be a number between 1 and %d.", service.MaxLimit))
+		return
+	}
+	offset, ok := intParam(q.Get("offset"), 0)
+	if !ok || offset < 0 {
+		h.errorPage(w, r, http.StatusBadRequest, "Bad request",
+			"offset must be a non-negative number.")
+		return
+	}
+
 	info, err := h.svc.Collection(ctx, slug)
 	if err != nil {
 		if errors.Is(err, collections.ErrNotFound) {
@@ -107,7 +121,7 @@ func (h *handler) leaderboard(w http.ResponseWriter, r *http.Request) {
 
 	// Filter chips are built from every value present in the collection,
 	// not just the currently filtered page.
-	all, err := h.svc.Videos(ctx, slug, service.Filters{Limit: service.MaxLimit})
+	all, err := h.svc.Videos(ctx, slug, service.Filters{Limit: service.AllVideos})
 	if err != nil {
 		h.serverError(w, r, err)
 		return
@@ -124,13 +138,14 @@ func (h *handler) leaderboard(w http.ResponseWriter, r *http.Request) {
 	}
 
 	page, resolved, err := h.svc.Rankings(ctx, slug, rawSort,
-		service.Filters{Track: track, Topic: topic, Limit: service.MaxLimit})
+		service.Filters{Track: track, Topic: topic, Limit: limit, Offset: offset})
 	switch {
 	case err == nil:
 		data.Cards = make([]videoCard, 0, len(page.Videos))
 		for _, v := range page.Videos {
 			data.Cards = append(data.Cards, newVideoCard(v))
 		}
+		data.Pager = newPager(slug, rawSort, track, topic, limit, offset, page.Total, len(page.Videos))
 	case errors.Is(err, rankings.ErrHistoryRequired),
 		errors.Is(err, collections.ErrHistoryUnavailable):
 		// Friendly notice, not an error page; keep controls usable.
@@ -151,15 +166,28 @@ func (h *handler) leaderboard(w http.ResponseWriter, r *http.Request) {
 	// Sort tabs always carry an explicit ?sort=; filter chips preserve
 	// only what the request actually asked for (rawSort), so the default
 	// sort's URLs stay clean.
-	data.SortLinks = sortLinks(slug, resolved, track, topic)
+	data.SortLinks = sortLinks(slug, resolved, track, topic, limit)
 	data.TrackLinks = filterLinks(tracks, track, func(v string) string {
-		return leaderboardURL(slug, rawSort, v, topic)
+		return leaderboardURL(slug, rawSort, v, topic, limit, 0)
 	})
 	data.TopicLinks = filterLinks(topics, topic, func(v string) string {
-		return leaderboardURL(slug, rawSort, track, v)
+		return leaderboardURL(slug, rawSort, track, v, limit, 0)
 	})
 
 	h.render(w, r, http.StatusOK, "leaderboard", data)
+}
+
+// intParam parses an optional integer query parameter; empty means the
+// default. ok is false on non-numeric input.
+func intParam(raw string, def int) (v int, ok bool) {
+	if raw == "" {
+		return def, true
+	}
+	n, err := strconv.Atoi(raw)
+	if err != nil {
+		return 0, false
+	}
+	return n, true
 }
 
 // notFoundPage renders the 404 page for unknown slugs and paths.

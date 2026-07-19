@@ -413,3 +413,47 @@ a { color: inherit; }
 
   .counts { gap: 10px; font-size: 0.8rem; }
 }
+
+/* --- pagination --- */
+.pager {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+.pager-info {
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+}
+.pager-sizes {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.pager-nav {
+  display: flex;
+  gap: 8px;
+  margin-left: auto;
+}
+.pager-btn {
+  display: inline-block;
+  padding: 6px 14px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+.pager-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+@media (max-width: 480px) {
+  .pager-nav { margin-left: 0; width: 100%; }
+  .pager-btn { flex: 1; text-align: center; }
+}

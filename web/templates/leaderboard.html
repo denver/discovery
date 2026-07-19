@@ -70,4 +70,18 @@
     {{else}}
     <p class="empty">No videos match these filters.</p>
     {{end}}
+
+    {{with .Pager}}
+    <nav class="pager" aria-label="Pagination">
+      <span class="pager-info">{{.Showing}}</span>
+      <span class="pager-sizes">
+        <span class="filter-label">Show</span>
+        {{range .SizeLinks}}<a class="chip{{if .Active}} active{{end}}" href="{{.URL}}">{{.Label}}</a>{{end}}
+      </span>
+      <span class="pager-nav">
+        {{if .PrevURL}}<a class="pager-btn" href="{{.PrevURL}}">&larr; Prev</a>{{end}}
+        {{if .NextURL}}<a class="pager-btn" href="{{.NextURL}}">Next &rarr;</a>{{end}}
+      </span>
+    </nav>
+    {{end}}
 {{end}}
