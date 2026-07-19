@@ -449,12 +449,15 @@ func TestExportFileModeUnconfigured(t *testing.T) {
 
 // --- serve ---
 
-func TestServeIsAStub(t *testing.T) {
+func TestServeFailsCleanlyWithoutConfig(t *testing.T) {
+	t.Setenv("YOUTUBE_API_KEY", "")
+	t.Setenv("DISCOVERY_COLLECTION_PATH", "")
+	t.Setenv("DATABASE_URL", "")
 	var stdout, stderr bytes.Buffer
-	if code := runServe(nil, &stdout, &stderr); code != exitUsage {
-		t.Fatalf("exit = %d, want %d", code, exitUsage)
+	if code := runServe(nil, &stdout, &stderr); code != exitErr {
+		t.Fatalf("exit = %d, want %d", code, exitErr)
 	}
-	if !strings.Contains(stderr.String(), "use cmd/server meanwhile") {
-		t.Errorf("stderr = %q, want stub message", stderr.String())
+	if !strings.Contains(stderr.String(), "YOUTUBE_API_KEY") {
+		t.Errorf("stderr = %q, want config error naming the missing variable", stderr.String())
 	}
 }
