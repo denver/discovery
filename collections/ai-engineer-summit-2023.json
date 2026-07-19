@@ -1,0 +1,395 @@
+{
+  "schemaVersion": "1.0",
+  "slug": "ai-engineer-summit-2023",
+  "title": "AI Engineer Summit 2023",
+  "description": "Talks from AI Engineer Summit 2023, drafted from the AI Engineer channel's own playlists. Editorial metadata is best-effort parsed and under review.",
+  "author": {
+    "name": "Denver Peterson",
+    "url": "https://denverpeterson.com"
+  },
+  "source": {
+    "type": "curated",
+    "homepage": "https://www.youtube.com/@aiDotEngineer"
+  },
+  "defaultRanking": "views",
+  "videos": [
+    {
+      "youtubeId": "dQmseZ6kz8w",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "qaJXBMwUkoE",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "ju73sWVtvU0",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "ZYoZSU58m_Y",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "lFMKXnpbhpQ",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "bNZV9s3_u44",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "cwjs1WAG9CM",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "yj-wSRJwrrc",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "LzeC1AQ-U5o",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "ieWT6X2Yh_g",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "PAy_GHUAICw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "MDxEXKkxf2Q",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "YvobVu1l7GI",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "bDQn1w0idXs",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "yLa3i3rAdEE",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "oJz4wveQ4oM",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "qpPgCA664xw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "UNKDAo8YNmg",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "cXPYtkosXG4",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "FDEmbYPgG-s",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "TRjq7t2Ms5I",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "OimPoLxioYg",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "MarPORTD8vo",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "MwqUYRQloGw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "9-vGxMoUM9Y",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "AjLVoAu-u-Q",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
+    },
+    {
+      "youtubeId": "atwSCxWFVMg",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
+    },
+    {
+      "youtubeId": "KnndhPSVF3E",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
+    },
+    {
+      "youtubeId": "_KFbT6eph5A",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
+    },
+    {
+      "youtubeId": "a0NwFm5NxGo",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
+    },
+    {
+      "youtubeId": "jpKCIVlS9wM",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
+    },
+    {
+      "youtubeId": "pj_hKFhnJCw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
+    },
+    {
+      "youtubeId": "LksXn4CLC0g",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
+    },
+    {
+      "youtubeId": "fiXjTif1nS4",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
+    },
+    {
+      "youtubeId": "wWRRs2zBr5I",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
+    },
+    {
+      "youtubeId": "7AYUCAuFYeA",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
+    },
+    {
+      "youtubeId": "pijYURicI1Y",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
+    },
+    {
+      "youtubeId": "6d60zVdcCV4",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "C0ZUdFg-iTo",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "d9Zbs98NhCA",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "zl4EdALzktU",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "N7lJY5IKVLE",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    }
+  ]
+}

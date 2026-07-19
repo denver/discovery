@@ -44,8 +44,24 @@ type Filters struct {
 	Topic   string
 	Track   string
 	Speaker string
-	Limit   int // 0 means DefaultLimit
-	Offset  int
+	// Event matches EventLabel case-insensitively ("AI Engineer
+	// World's Fair 2025"). Videos without event metadata never match.
+	Event  string
+	Limit  int // 0 means DefaultLimit
+	Offset int
+}
+
+// EventLabel is the canonical display/filter value for an event block:
+// "Name Year", or just the name when no year is set. Empty for nil.
+func EventLabel(e *collections.Event) string {
+	switch {
+	case e == nil || e.Name == "":
+		return ""
+	case e.Year == 0:
+		return e.Name
+	default:
+		return fmt.Sprintf("%s %d", e.Name, e.Year)
+	}
 }
 
 // VideoPage is one page of results plus pagination metadata.
@@ -217,7 +233,7 @@ func (f Filters) bounds() (limit, offset int, err error) {
 }
 
 func applyFilters(videos []*collections.Video, f Filters) []*collections.Video {
-	if f.Topic == "" && f.Track == "" && f.Speaker == "" {
+	if f.Topic == "" && f.Track == "" && f.Speaker == "" && f.Event == "" {
 		return videos
 	}
 	out := videos[:0:0]
@@ -229,6 +245,9 @@ func applyFilters(videos []*collections.Video, f Filters) []*collections.Video {
 			continue
 		}
 		if f.Speaker != "" && !hasSpeaker(v.Editorial.Speakers, f.Speaker) {
+			continue
+		}
+		if f.Event != "" && !strings.EqualFold(EventLabel(v.Editorial.Event), f.Event) {
 			continue
 		}
 		out = append(out, v)

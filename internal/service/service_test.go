@@ -188,3 +188,45 @@ func TestNotFoundPassthrough(t *testing.T) {
 		t.Errorf("want ErrNotFound, got %v", err)
 	}
 }
+
+func TestEventFilterAndLabel(t *testing.T) {
+	s := seed(t)
+	ctx := context.Background()
+	c, err := s.Store.GetCollection(ctx, "test")
+	if err != nil {
+		t.Fatal(err)
+	}
+	c.Videos[0].Event = &collections.Event{Name: "AI Engineer World's Fair", Year: 2026}
+	c.Videos[1].Event = &collections.Event{Name: "AIE CODE", Year: 2025}
+	if err := s.Store.UpsertCollection(ctx, &c.Collection); err != nil {
+		t.Fatal(err)
+	}
+
+	page, _, err := s.Rankings(ctx, "test", "views", Filters{Event: "ai engineer world's fair 2026"})
+	if err != nil {
+		t.Fatal(err)
+	}
+	eq(t, ids(page), []string{"aaaaaaaaaaa"})
+
+	page, _, err = s.Rankings(ctx, "test", "views", Filters{Event: "AIE CODE 2025"})
+	if err != nil {
+		t.Fatal(err)
+	}
+	eq(t, ids(page), []string{"bbbbbbbbbbb"})
+
+	// Videos without event metadata never match an event filter.
+	page, _, err = s.Rankings(ctx, "test", "views", Filters{Event: "Nonexistent Event 1999"})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if page.Total != 0 {
+		t.Errorf("total = %d, want 0", page.Total)
+	}
+
+	if got := EventLabel(&collections.Event{Name: "AI Engineer Melbourne"}); got != "AI Engineer Melbourne" {
+		t.Errorf("EventLabel no-year = %q", got)
+	}
+	if got := EventLabel(nil); got != "" {
+		t.Errorf("EventLabel(nil) = %q", got)
+	}
+}

@@ -1,0 +1,4061 @@
+{
+  "schemaVersion": "1.0",
+  "slug": "ai-engineer-worlds-fair-2025",
+  "title": "AI Engineer World's Fair 2025",
+  "description": "Talks from AI Engineer World's Fair 2025, drafted from the AI Engineer channel's own playlists. Editorial metadata is best-effort parsed and under review.",
+  "author": {
+    "name": "Denver Peterson",
+    "url": "https://denverpeterson.com"
+  },
+  "source": {
+    "type": "curated",
+    "homepage": "https://www.youtube.com/@aiDotEngineer"
+  },
+  "defaultRanking": "views",
+  "videos": [
+    {
+      "youtubeId": "tbDDYKRFjhk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "Lue8K2jqfKk",
+      "speakers": [
+        {
+          "name": "Boris Cherny",
+          "slug": "boris-cherny"
+        }
+      ],
+      "organizations": [
+        "Anthropic"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "Dc3qOA9WOnE",
+      "speakers": [
+        {
+          "name": "Chris Kelly",
+          "slug": "chris-kelly"
+        }
+      ],
+      "organizations": [
+        "Augment Code"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "F_RyElT_gJk",
+      "speakers": [
+        {
+          "name": "Beyang Liu",
+          "slug": "beyang-liu"
+        }
+      ],
+      "organizations": [
+        "Sourcegraph / Amp"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "o_hhkJtlbSs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "MI83buT_23o",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "eOxOzcw70f0",
+      "speakers": [
+        {
+          "name": "Harald Kirschner",
+          "slug": "harald-kirschner"
+        }
+      ],
+      "organizations": [
+        "Christopher Harrison"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "x_1EumTaXeE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "Dj0b_cEBHBI",
+      "speakers": [
+        {
+          "name": "Danielle Perszyk",
+          "slug": "danielle-perszyk"
+        }
+      ],
+      "organizations": [
+        "Amazon AGI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "JVuNPL5QO8Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "X4BwOu0GWb8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "iheWKg2Tkrk",
+      "speakers": [
+        {
+          "name": "Eno Reyes",
+          "slug": "eno-reyes"
+        }
+      ],
+      "organizations": [
+        "Factory"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "n991Yxo1aOI",
+      "speakers": [
+        {
+          "name": "Itamar Friedman",
+          "slug": "itamar-friedman"
+        }
+      ],
+      "organizations": [
+        "Qodo"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "TswQeKftnaw",
+      "speakers": [
+        {
+          "name": "Tomas Reimers",
+          "slug": "tomas-reimers"
+        }
+      ],
+      "organizations": [
+        "Graphite"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "Fzb1a24hF-o",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "6NIr_cYPglk",
+      "speakers": [
+        {
+          "name": "Forrest Brazeal",
+          "slug": "forrest-brazeal"
+        }
+      ],
+      "organizations": [
+        "Matt Ball"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "Zniw5c9_jx8",
+      "speakers": [
+        {
+          "name": "Eric Hou",
+          "slug": "eric-hou"
+        }
+      ],
+      "organizations": [
+        "Augment Code"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "tHJSZ1-ZqcA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "qdh_x-uRs9g",
+      "speakers": [
+        {
+          "name": "Filip Makraduli",
+          "slug": "filip-makraduli"
+        }
+      ],
+      "organizations": [
+        "Superlinked"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "Zz4QjZsYWK0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "y-UGrYbJsJk",
+      "speakers": [
+        {
+          "name": "Charles Frye",
+          "slug": "charles-frye"
+        }
+      ],
+      "organizations": [
+        "Modal"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "bUBF5V6oDKw",
+      "speakers": [
+        {
+          "name": "Solomon Hykes",
+          "slug": "solomon-hykes"
+        }
+      ],
+      "organizations": [
+        "Dagger"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "Wmp2Tku2PrI",
+      "speakers": [
+        {
+          "name": "Michael Arnaldi",
+          "slug": "michael-arnaldi"
+        }
+      ],
+      "organizations": [
+        "Effectful"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "svCnShDvgQg",
+      "speakers": [
+        {
+          "name": "Eric Allam",
+          "slug": "eric-allam"
+        }
+      ],
+      "organizations": [
+        "CEO, Trigger.dev"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "rD23-VZZHOo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "Ahtaha9fEM0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "M6Vbaig1TsM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "Y2qc0UhDSnc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "2goSS66XRBk",
+      "speakers": [
+        {
+          "name": "Jesse Han",
+          "slug": "jesse-han"
+        }
+      ],
+      "organizations": [
+        "Morph"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "P370D8Kmlkw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "-9E9_21tx04",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
+    },
+    {
+      "youtubeId": "PbHm2qKnu10",
+      "speakers": [
+        {
+          "name": "Will Brown",
+          "slug": "will-brown"
+        }
+      ],
+      "organizations": [
+        "Prime Intellect"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
+    },
+    {
+      "youtubeId": "QluDzKVfp6A",
+      "speakers": [
+        {
+          "name": "Aakanksha Chowdhery",
+          "slug": "aakanksha-chowdhery"
+        }
+      ],
+      "organizations": [
+        "Reflection.ai"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
+    },
+    {
+      "youtubeId": "3XmFPwjG8pg",
+      "speakers": [
+        {
+          "name": "Greg Kamradt",
+          "slug": "greg-kamradt"
+        }
+      ],
+      "organizations": [
+        "ARC Prize Foundation"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
+    },
+    {
+      "youtubeId": "liG97YXaTSA",
+      "speakers": [
+        {
+          "name": "Ryan Marten",
+          "slug": "ryan-marten"
+        }
+      ],
+      "organizations": [
+        "Bespoke Labs"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
+    },
+    {
+      "youtubeId": "gEDl9C8s_-4",
+      "speakers": [
+        {
+          "name": "Kyle Corbitt",
+          "slug": "kyle-corbitt"
+        }
+      ],
+      "organizations": [
+        "OpenPipe"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
+    },
+    {
+      "youtubeId": "jQcsVk0KWiQ",
+      "speakers": [
+        {
+          "name": "Nathan Lambert",
+          "slug": "nathan-lambert"
+        }
+      ],
+      "organizations": [
+        "Allen Institute (AI2) & Interconnects.ai"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
+    },
+    {
+      "youtubeId": "OkEGJ5G3foU",
+      "speakers": [
+        {
+          "name": "Daniel Han",
+          "slug": "daniel-han"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
+    },
+    {
+      "youtubeId": "TUnPNY4E2fw",
+      "speakers": [
+        {
+          "name": "Max Ryabinin",
+          "slug": "max-ryabinin"
+        }
+      ],
+      "organizations": [
+        "Together AI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
+    },
+    {
+      "youtubeId": "Z2Erdirpudo",
+      "speakers": [
+        {
+          "name": "Eve Bouffard",
+          "slug": "eve-bouffard"
+        }
+      ],
+      "organizations": [
+        "Head of Design, Y Combinator"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
+    },
+    {
+      "youtubeId": "WkBPX-oDMnA",
+      "speakers": [
+        {
+          "name": "Geoffrey Litt",
+          "slug": "geoffrey-litt"
+        }
+      ],
+      "organizations": [
+        "Notion"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
+    },
+    {
+      "youtubeId": "7CrPrHgoEYk",
+      "speakers": [
+        {
+          "name": "Mardu Swanepoel",
+          "slug": "mardu-swanepoel"
+        }
+      ],
+      "organizations": [
+        "Flinn AI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
+    },
+    {
+      "youtubeId": "CiMVKnX-CNI",
+      "speakers": [
+        {
+          "name": "Craig Wattrus",
+          "slug": "craig-wattrus"
+        }
+      ],
+      "organizations": [
+        "Flatfile"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
+    },
+    {
+      "youtubeId": "1C2TdPkj6aQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
+    },
+    {
+      "youtubeId": "aopgVJBQC0o",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
+    },
+    {
+      "youtubeId": "BZtD0yYAgCQ",
+      "speakers": [
+        {
+          "name": "Maximillian Piras",
+          "slug": "maximillian-piras"
+        }
+      ],
+      "organizations": [
+        "Yutori"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
+    },
+    {
+      "youtubeId": "fmZWvE7yDZo",
+      "speakers": [
+        {
+          "name": "Victor Dibia",
+          "slug": "victor-dibia"
+        }
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
+    },
+    {
+      "youtubeId": "7e7eVtcygCM",
+      "speakers": [
+        {
+          "name": "John Pham",
+          "slug": "john-pham"
+        }
+      ],
+      "organizations": [
+        "SF Compute"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
+    },
+    {
+      "youtubeId": "P_uhFGH4J9Y",
+      "speakers": [
+        {
+          "name": "Shafik Quoraishee",
+          "slug": "shafik-quoraishee"
+        }
+      ],
+      "organizations": [
+        "NYT Games"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
+    },
+    {
+      "youtubeId": "8kMaTybvDUw",
+      "speakers": [
+        {
+          "name": "Dex Horthy",
+          "slug": "dex-horthy"
+        }
+      ],
+      "organizations": [
+        "HumanLayer"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Agent Reliability"
+    },
+    {
+      "youtubeId": "kTnfJszFxCg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Agent Reliability"
+    },
+    {
+      "youtubeId": "8SUJEqQNClw",
+      "speakers": [
+        {
+          "name": "Sam Bhagwat",
+          "slug": "sam-bhagwat"
+        }
+      ],
+      "organizations": [
+        "Mastra.ai"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Agent Reliability"
+    },
+    {
+      "youtubeId": "1izYWsokr9s",
+      "speakers": [
+        {
+          "name": "Preeti Somal",
+          "slug": "preeti-somal"
+        }
+      ],
+      "organizations": [
+        "Temporal"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Agent Reliability"
+    },
+    {
+      "youtubeId": "sl3icG-IjHo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Agent Reliability"
+    },
+    {
+      "youtubeId": "WJjInLeaJjo",
+      "speakers": [
+        {
+          "name": "Antje Barth",
+          "slug": "antje-barth"
+        }
+      ],
+      "organizations": [
+        "AWS"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Agent Reliability"
+    },
+    {
+      "youtubeId": "pQz-PgA1eJw",
+      "speakers": [
+        {
+          "name": "Sid Bendre",
+          "slug": "sid-bendre"
+        }
+      ],
+      "organizations": [
+        "Oleve"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
+    },
+    {
+      "youtubeId": "s8RM8uYxkoY",
+      "speakers": [
+        {
+          "name": "Eric Simons",
+          "slug": "eric-simons"
+        }
+      ],
+      "organizations": [
+        "Bolt"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
+    },
+    {
+      "youtubeId": "q8zoXAbmJdI",
+      "speakers": [
+        {
+          "name": "Grant Lee",
+          "slug": "grant-lee"
+        }
+      ],
+      "organizations": [
+        "Gamma"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
+    },
+    {
+      "youtubeId": "gcseUQJ6Gbg",
+      "speakers": [
+        {
+          "name": "Hassan El Mghari",
+          "slug": "hassan-el-mghari"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
+    },
+    {
+      "youtubeId": "Qw9P1zvCupE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
+    },
+    {
+      "youtubeId": "K-iYKDMFKhE",
+      "speakers": [
+        {
+          "name": "Vik Paruchuri",
+          "slug": "vik-paruchuri"
+        }
+      ],
+      "organizations": [
+        "Datalab"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
+    },
+    {
+      "youtubeId": "W3khHzajE04",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
+    },
+    {
+      "youtubeId": "5YSJEP0HWzM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
+    },
+    {
+      "youtubeId": "LxQsQ3vZDqo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
+    },
+    {
+      "youtubeId": "PjaVHm_3Ljg",
+      "speakers": [
+        {
+          "name": "Tejaswi",
+          "slug": "tejaswi"
+        },
+        {
+          "name": "Vinesh",
+          "slug": "vinesh"
+        }
+      ],
+      "organizations": [
+        "Instacart"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
+    },
+    {
+      "youtubeId": "AbZ4IYGbfpQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
+    },
+    {
+      "youtubeId": "U0S6CfzAY5c",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
+    },
+    {
+      "youtubeId": "XdAWgO11zuk",
+      "speakers": [
+        {
+          "name": "Mukuntha Narayanan",
+          "slug": "mukuntha-narayanan"
+        }
+      ],
+      "organizations": [
+        "Han Wang, Pinterest"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
+    },
+    {
+      "youtubeId": "2vlCqD6igVA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
+    },
+    {
+      "youtubeId": "640KMYtxCeI",
+      "speakers": [
+        {
+          "name": "Apoorva Joshi",
+          "slug": "apoorva-joshi"
+        }
+      ],
+      "organizations": [
+        "MongoDB"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "bk0TmxoZlUY",
+      "speakers": [
+        {
+          "name": "Doug Guthrie",
+          "slug": "doug-guthrie"
+        }
+      ],
+      "organizations": [
+        "Braintrust"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "wXVvfFMTyzY",
+      "speakers": [
+        {
+          "name": "Damien Murphy",
+          "slug": "damien-murphy"
+        }
+      ],
+      "organizations": [
+        "Bench"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "JfaLQqfXqPA",
+      "speakers": [
+        {
+          "name": "Ilan Bigio",
+          "slug": "ilan-bigio"
+        }
+      ],
+      "organizations": [
+        "OpenAI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "89NuzmKokIk",
+      "speakers": [
+        {
+          "name": "Taylor Jordan Smith",
+          "slug": "taylor-jordan-smith"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "nxuTVd7v7dg",
+      "speakers": [
+        {
+          "name": "Mark Backman",
+          "slug": "mark-backman"
+        }
+      ],
+      "organizations": [
+        "Daily"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "2HNSG990Ew8",
+      "speakers": [
+        {
+          "name": "Aman Khan",
+          "slug": "aman-khan"
+        }
+      ],
+      "organizations": [
+        "Arize"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "ZuiJjkbX0Og",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "hwCmfThIiS4",
+      "speakers": [
+        {
+          "name": "Suman Debnath",
+          "slug": "suman-debnath"
+        }
+      ],
+      "organizations": [
+        "AWS"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "MPtCBaZn84A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "tzRvcTEapzo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "_FKeSzM9fPc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "6YdPI9YbjbI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "YYNXFsUutbM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "N4vCBM5YbN0",
+      "speakers": [
+        {
+          "name": "Cedric Vidal",
+          "slug": "cedric-vidal"
+        }
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "EAfP8pDs7h4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "G1hhmz6mXT0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "z4zXicOAF28",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "fcPUqxfrE6Y",
+      "speakers": [
+        {
+          "name": "Ahmad Awais",
+          "slug": "ahmad-awais"
+        }
+      ],
+      "organizations": [
+        "CHAI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "bbq0b_FpYEY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "9u6xvcNJaxc",
+      "speakers": [
+        {
+          "name": "Patrick Debois",
+          "slug": "patrick-debois"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "J3oJqan2Gv8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "2CXn-CByNoo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "wsFd22SL1s8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "EyZiAp0pelw",
+      "speakers": [
+        {
+          "name": "Kent C Dodds",
+          "slug": "kent-c-dodds"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "b0xlsQ_6wUQ",
+      "speakers": [
+        {
+          "name": "Junyang Lin",
+          "slug": "junyang-lin"
+        }
+      ],
+      "organizations": [
+        "Alibaba Qwen"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "uFPAtKIN-FQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "y6L5RkEqQ8g",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "nnktgWtfJHE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "wHhlvcQgi9M",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "A0PxE39xaMc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "tOou_GJ9Ddk",
+      "speakers": [
+        {
+          "name": "Henry Mao",
+          "slug": "henry-mao"
+        }
+      ],
+      "organizations": [
+        "Smithery"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "UcW_s4BmuD0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "n6wHJDqlS1I",
+      "speakers": [
+        {
+          "name": "Allie Howe",
+          "slug": "allie-howe"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Nqb7JTx0Pqo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "d7ds6m7fbqg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "dvft0Gp9sEE",
+      "speakers": [
+        {
+          "name": "Charlie Guo",
+          "slug": "charlie-guo"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Qvp9vw4jJQ8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "ZB7l4uxW3Yo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "u825uxb7LnA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "tYCu_57jzL8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "2Jom-4Brg6Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "5s6Q-y42ZZA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "1cQlnfwmIdU",
+      "speakers": [
+        {
+          "name": "Ofer Mendelevitch",
+          "slug": "ofer-mendelevitch"
+        }
+      ],
+      "organizations": [
+        "Vectara"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "CXsbjcrf_5g",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "6lTxD_oUjXQ",
+      "speakers": [
+        {
+          "name": "Sylendran Arunagiri",
+          "slug": "sylendran-arunagiri"
+        }
+      ],
+      "organizations": [
+        "NVIDIA"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "utxVvGJ4bcg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "3YRrBFeQ1aw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "y9YQc9a3gNw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "lp0pswT_FEI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "0ZPAvzhpGjw",
+      "speakers": [
+        {
+          "name": "Rick Blalock",
+          "slug": "rick-blalock"
+        }
+      ],
+      "organizations": [
+        "Agentuity"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Th5e4h-oVmc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "sXXl3YMU7ZI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Ywl4LsvHKzU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "0tVu-V3_fFw",
+      "speakers": [
+        {
+          "name": "Jun Yu Tan",
+          "slug": "jun-yu-tan"
+        }
+      ],
+      "organizations": [
+        "Tusk"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "pSqpC7fFLZA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "EnT4Wej5M5k",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "0uj9lMI-sIo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "9mzfioh1Zag",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "wAQK7O3WGEE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "eD_6jP1fkKs",
+      "speakers": [
+        {
+          "name": "Thabang Ledwaba",
+          "slug": "thabang-ledwaba"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "HIGpxVjGFBw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Djv8Sp11UjI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "_-oIuRH4oGA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "aDj9sY2RoG8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "8D_VdU6DBhI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "RVN9HWKmkNU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Bf71xMwd-Y0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Ghc-qalQFLw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "DjUIecgpYAo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "5_QWh4LGoxg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "MGzymaYBiss",
+      "speakers": [
+        {
+          "name": "Dan Shipper",
+          "slug": "dan-shipper"
+        }
+      ],
+      "organizations": [
+        "Every, AI & I"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "ehQFj6VmuI8",
+      "speakers": [
+        {
+          "name": "NLW",
+          "slug": "nlw"
+        }
+      ],
+      "organizations": [
+        "Superintelligent, @AIDailyBrief⁩"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "JV-wY5pxXLo",
+      "speakers": [
+        {
+          "name": "Kitze",
+          "slug": "kitze"
+        }
+      ],
+      "organizations": [
+        "Sizzy"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "TnSGx36Ly0Q",
+      "speakers": [
+        {
+          "name": "Mark Myshatyn",
+          "slug": "mark-myshatyn"
+        }
+      ],
+      "organizations": [
+        "Los Alamos National Lab"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "bCGbuyv8PMk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "12v5S1n1eOY",
+      "speakers": [
+        {
+          "name": "Ben Kus",
+          "slug": "ben-kus"
+        }
+      ],
+      "organizations": [
+        "CTO Box"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "a4BV0gGmXgA",
+      "speakers": [
+        {
+          "name": "Ankur Goyal",
+          "slug": "ankur-goyal"
+        }
+      ],
+      "organizations": [
+        "Braintrust"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "h5ItAJuB3Fc",
+      "speakers": [
+        {
+          "name": "Diego Rodriguez",
+          "slug": "diego-rodriguez"
+        }
+      ],
+      "organizations": [
+        "Krea.ai"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "08mH36_NVos",
+      "speakers": [
+        {
+          "name": "Vaibhav Page",
+          "slug": "vaibhav-page"
+        },
+        {
+          "name": "Infant Vasanth",
+          "slug": "infant-vasanth"
+        }
+      ],
+      "organizations": [
+        "BlackRock"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "OMGPvW8TBHc",
+      "speakers": [
+        {
+          "name": "Leonard Tang",
+          "slug": "leonard-tang"
+        }
+      ],
+      "organizations": [
+        "Haize Labs"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "m0dxZ-NDKHo",
+      "speakers": [
+        {
+          "name": "Ola Mabadeje",
+          "slug": "ola-mabadeje"
+        }
+      ],
+      "organizations": [
+        "Cisco"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "9AQOvT8LnMI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "L8-5ezsoI5A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "avWhreBUYF0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "MC55hdWLq4o",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "IHkyFhU6JEY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "jryZvCuA0Uc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "qdmxApz3EJI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "L8OoYeDI_ls",
+      "speakers": [
+        {
+          "name": "Ido Pesok",
+          "slug": "ido-pesok"
+        }
+      ],
+      "organizations": [
+        "Vercel v0"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "CQGuvf6gSrM",
+      "speakers": [
+        {
+          "name": "John Dickerson",
+          "slug": "john-dickerson"
+        }
+      ],
+      "organizations": [
+        "CEO Mozilla AI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "IQc05eCvNYE",
+      "speakers": [
+        {
+          "name": "Peter Robicheaux",
+          "slug": "peter-robicheaux"
+        }
+      ],
+      "organizations": [
+        "Roboflow"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "-T6uZYYzkWw",
+      "speakers": [
+        {
+          "name": "Dmitry Kuchin",
+          "slug": "dmitry-kuchin"
+        }
+      ],
+      "organizations": [
+        "Multinear"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "g03m-WFEu1U",
+      "speakers": [
+        {
+          "name": "Ian Butler",
+          "slug": "ian-butler"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "3MZS5gNElZM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "mQ7_Zje7WKE",
+      "speakers": [
+        {
+          "name": "Barr Yaron",
+          "slug": "barr-yaron"
+        }
+      ],
+      "organizations": [
+        "Amplify"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "IA4lZjh9sTs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "kDczF4wBh8s",
+      "speakers": [
+        {
+          "name": "Brooke Hopkins",
+          "slug": "brooke-hopkins"
+        }
+      ],
+      "organizations": [
+        "Coval"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "1v9zBiZKlIY",
+      "speakers": [
+        {
+          "name": "Dr. Tom Shapland",
+          "slug": "dr-tom-shapland"
+        }
+      ],
+      "organizations": [
+        "LiveKit"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "E71YtNbCFXY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Gi4V8viBGYQ",
+      "speakers": [
+        {
+          "name": "David Mytton",
+          "slug": "david-mytton"
+        }
+      ],
+      "organizations": [
+        "Arcjet"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "CCsWZ5bJlO8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "blmAkayzE8M",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "kv-QAuKWllQ",
+      "speakers": [
+        {
+          "name": "Rene Brandel",
+          "slug": "rene-brandel"
+        }
+      ],
+      "organizations": [
+        "Casco"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "w7IMuYsBNr8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "wRJD0inpmjU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "W1MiZChnkfA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "KWmkMV0FNwQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "w9u11ioHGA0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "xnXqpUW_Kp8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "jxrGodnopHo",
+      "speakers": [
+        {
+          "name": "David Karam",
+          "slug": "david-karam"
+        }
+      ],
+      "organizations": [
+        "Pi Labs (fmr Google Search)"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "MRM7oA3JsFs",
+      "speakers": [
+        {
+          "name": "Christopher Lovejoy",
+          "slug": "christopher-lovejoy"
+        }
+      ],
+      "organizations": [
+        "Anterior"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "PthmdT92qNg",
+      "speakers": [
+        {
+          "name": "Ben Stein",
+          "slug": "ben-stein"
+        }
+      ],
+      "organizations": [
+        "Teammates"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "mHzJhXppwUA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "xzJdSi2Tsqw",
+      "speakers": [
+        {
+          "name": "James Lowe",
+          "slug": "james-lowe"
+        }
+      ],
+      "organizations": [
+        "i.AI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "yG5d5UaGz1M",
+      "speakers": [
+        {
+          "name": "Raiza Martin",
+          "slug": "raiza-martin"
+        }
+      ],
+      "organizations": [
+        "Huxe (ex NotebookLM)"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "UG9IAdmi2Dg",
+      "speakers": [
+        {
+          "name": "Tom Moor",
+          "slug": "tom-moor"
+        }
+      ],
+      "organizations": [
+        "Linear"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "mWKYvT9Lc50",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "wNH3q9pqn0U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "cFxWPP1ik6A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "6AVMHZPjpTQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "4Xe_iMYxBQc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "cGLa8DsOYdk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "iS9YFW28XyM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "9k3xPh-40mo",
+      "speakers": [
+        {
+          "name": "VIbhu Sapra",
+          "slug": "vibhu-sapra"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "o_LRtAomJCs",
+      "speakers": [
+        {
+          "name": "Samuel Colvin",
+          "slug": "samuel-colvin"
+        }
+      ],
+      "organizations": [
+        "Pydantic"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "eSvXbb2EBYc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "C3geUfBR2js",
+      "speakers": [
+        {
+          "name": "Clay Bavor",
+          "slug": "clay-bavor"
+        }
+      ],
+      "organizations": [
+        "Cofounder, Sierra w/ Alessio Fanelli"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "TquUsN1QsWs",
+      "speakers": [
+        {
+          "name": "Nathan Wan",
+          "slug": "nathan-wan"
+        }
+      ],
+      "organizations": [
+        "Ensemble Health"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "SbUxRluVRwk",
+      "speakers": [
+        {
+          "name": "Denys Linkov",
+          "slug": "denys-linkov"
+        }
+      ],
+      "organizations": [
+        "Wisedocs"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "3WV1vT0B0cg",
+      "speakers": [
+        {
+          "name": "Amir Haghighat",
+          "slug": "amir-haghighat"
+        }
+      ],
+      "organizations": [
+        "Baseten"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "R30col3UPUg",
+      "speakers": [
+        {
+          "name": "Michael Albada",
+          "slug": "michael-albada"
+        }
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "e9sLVMN76qU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "hxFpUcvWPcU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "6WQYLQB0odc",
+      "speakers": [
+        {
+          "name": "Alvaro Morales",
+          "slug": "alvaro-morales"
+        }
+      ],
+      "organizations": [
+        "Orb"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Lqq_LcBaJCc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "_zl_zimMRak",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "3YGRcgZJ3yc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "zlZz0mDF2eg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "j_TKDweOsYE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "vW8wLsb3Nnc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "CB-4NKDYnRs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Wv1tAxKYLeE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "kDEvo2__Ijg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Zqu0VaJw3vo",
+      "speakers": [
+        {
+          "name": "Beth Glenfield",
+          "slug": "beth-glenfield"
+        }
+      ],
+      "organizations": [
+        "DevDay"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "5rMc-moNVx0",
+      "speakers": [
+        {
+          "name": "Josh Purtell",
+          "slug": "josh-purtell"
+        }
+      ],
+      "organizations": [
+        "Synth Labs"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Kcka7rzcxLk",
+      "speakers": [
+        {
+          "name": "Lukasz Gandecki",
+          "slug": "lukasz-gandecki"
+        }
+      ],
+      "organizations": [
+        "TheBrain.pro"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "6Tpm4m1YxHk",
+      "speakers": [
+        {
+          "name": "Sahil Yadav",
+          "slug": "sahil-yadav"
+        }
+      ],
+      "organizations": [
+        "Hariharan Ganesan, Telemetrak"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "coKKKKh8Vns",
+      "speakers": [
+        {
+          "name": "Muktesh Mishra",
+          "slug": "muktesh-mishra"
+        }
+      ],
+      "organizations": [
+        "Adobe"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "wt8gzWR6auQ",
+      "speakers": [
+        {
+          "name": "Matthias Loibl",
+          "slug": "matthias-loibl"
+        }
+      ],
+      "organizations": [
+        "Polar Signals"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "ypyvj_56sBU",
+      "speakers": [
+        {
+          "name": "Stephen Chin",
+          "slug": "stephen-chin"
+        }
+      ],
+      "organizations": [
+        "Andreas Kollegger"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "XNneh6-eyPg",
+      "speakers": [
+        {
+          "name": "Michael",
+          "slug": "michael"
+        }
+      ],
+      "organizations": [
+        "Jesus, and Stephen, Neo4j"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "yYxr6LdXNWM",
+      "speakers": [
+        {
+          "name": "Tom Smoker",
+          "slug": "tom-smoker"
+        }
+      ],
+      "organizations": [
+        "WhyHow"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "XlAIgmi_Vow",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "T5IMo5ntyhA",
+      "speakers": [
+        {
+          "name": "Daniel Chalef",
+          "slug": "daniel-chalef"
+        }
+      ],
+      "organizations": [
+        "Zep"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "-tgQa8Fzf80",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "D4Dswf-__RM",
+      "speakers": [
+        {
+          "name": "Michael Grinich",
+          "slug": "michael-grinich"
+        }
+      ],
+      "organizations": [
+        "CEO of WorkOS"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "-OXiljTJxQU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "MBWGiWJDlSo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "C13jiFWNuo8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "EY4O9M6AsWI",
+      "speakers": [
+        {
+          "name": "Keegan McCallum",
+          "slug": "keegan-mccallum"
+        }
+      ],
+      "organizations": [
+        "Luma AI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "huQPkrwVWwc",
+      "speakers": [
+        {
+          "name": "Zeke Sikelianos",
+          "slug": "zeke-sikelianos"
+        }
+      ],
+      "organizations": [
+        "Replicate"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "0F8mnGPUycY",
+      "speakers": [
+        {
+          "name": "Sharif Shameem",
+          "slug": "sharif-shameem"
+        }
+      ],
+      "organizations": [
+        "Lexica"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "RkVILz06y08",
+      "speakers": [
+        {
+          "name": "Jon Peck",
+          "slug": "jon-peck"
+        }
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "blW-lSd5CYQ",
+      "speakers": [
+        {
+          "name": "Jan Curn",
+          "slug": "jan-curn"
+        }
+      ],
+      "organizations": [
+        "Apify"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "ExeD-8gFUMM",
+      "speakers": [
+        {
+          "name": "Harald Kirschner",
+          "slug": "harald-kirschner"
+        }
+      ],
+      "organizations": [
+        "Microsoft/VSCode"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "HOYLZ7IVgJo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "_BRhRh7mOX0",
+      "speakers": [
+        {
+          "name": "Sander Schulhoff",
+          "slug": "sander-schulhoff"
+        }
+      ],
+      "organizations": [
+        "HackAPrompt/LearnPrompting"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "1MVh05GDydE",
+      "speakers": [
+        {
+          "name": "Brian Balfour",
+          "slug": "brian-balfour"
+        }
+      ],
+      "organizations": [
+        "Reforge"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "AXMdSqdoGHM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "FWlRHPZWyHE",
+      "speakers": [
+        {
+          "name": "Nick Nisi",
+          "slug": "nick-nisi"
+        }
+      ],
+      "organizations": [
+        "Zack Proser"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "zK9lYrLbjSg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "8rABwKRsec4",
+      "speakers": [
+        {
+          "name": "Sean Grove",
+          "slug": "sean-grove"
+        }
+      ],
+      "organizations": [
+        "OpenAI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "L6_NiGIEXZQ",
+      "speakers": [
+        {
+          "name": "Anish Agarwal",
+          "slug": "anish-agarwal"
+        }
+      ],
+      "organizations": [
+        "Traversal.ai"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "8EQo4J2BWKw",
+      "speakers": [
+        {
+          "name": "Jack Rae",
+          "slug": "jack-rae"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "wE1ZCmCLP5g",
+      "speakers": [
+        {
+          "name": "Logan Kilpatrick",
+          "slug": "logan-kilpatrick"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "YpY83-kA7Bo",
+      "speakers": [
+        {
+          "name": "Simon Willison",
+          "slug": "simon-willison"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "sRpqPgKeXNk",
+      "speakers": [
+        {
+          "name": "George Cameron",
+          "slug": "george-cameron"
+        }
+      ],
+      "organizations": [
+        "ArtificialAnalysis.ai"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "FCi4jT86gSw",
+      "speakers": [
+        {
+          "name": "David Cramer",
+          "slug": "david-cramer"
+        }
+      ],
+      "organizations": [
+        "Sentry"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "BS92RdBvI90",
+      "speakers": [
+        {
+          "name": "JX Mo",
+          "slug": "jx-mo"
+        }
+      ],
+      "organizations": [
+        "K-Scale Labs"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "1__V4KTv_Gw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "gmTHs5T_YAE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "yASxPZ-tZe0",
+      "speakers": [
+        {
+          "name": "Rick Blalock",
+          "slug": "rick-blalock"
+        }
+      ],
+      "organizations": [
+        "Agentuity"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "9iN-cPnp7xg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "J-9EbJBxcbg",
+      "speakers": [
+        {
+          "name": "Zach Blumenfeld",
+          "slug": "zach-blumenfeld"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "FZoMSupg37E",
+      "speakers": [
+        {
+          "name": "Bobby Tiernay",
+          "slug": "bobby-tiernay"
+        },
+        {
+          "name": "Kam Sween",
+          "slug": "kam-sween"
+        }
+      ],
+      "organizations": [
+        "Auth0"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "blrovBxxN9o",
+      "speakers": [
+        {
+          "name": "Rafal Willinski",
+          "slug": "rafal-willinski"
+        }
+      ],
+      "organizations": [
+        "Vitor Balocco, Zapier"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "iXhba366fQc",
+      "speakers": [
+        {
+          "name": "Dominik Kundel",
+          "slug": "dominik-kundel"
+        }
+      ],
+      "organizations": [
+        "OpenAI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "jJ45Yz1lJao",
+      "speakers": [
+        {
+          "name": "Manu Goyal",
+          "slug": "manu-goyal"
+        }
+      ],
+      "organizations": [
+        "Braintrust"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "spvXj9tnWAQ",
+      "speakers": [
+        {
+          "name": "Dat Ngo",
+          "slug": "dat-ngo"
+        }
+      ],
+      "organizations": [
+        "Aman Khan, Arize"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "knH3fmGAteQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "HT4l0DeP69I",
+      "speakers": [
+        {
+          "name": "Mike Chambers",
+          "slug": "mike-chambers"
+        }
+      ],
+      "organizations": [
+        "AWS"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Q3NreEAdKMc",
+      "speakers": [
+        {
+          "name": "Suman Debnath",
+          "slug": "suman-debnath"
+        }
+      ],
+      "organizations": [
+        "AWS"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "ROfHHJmumcc",
+      "speakers": [
+        {
+          "name": "Mani Khanuja",
+          "slug": "mani-khanuja"
+        }
+      ],
+      "organizations": [
+        "AWS"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "lArgRvBV3tQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "fWY1FQwpWkY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "ujt0da9Z29Q",
+      "speakers": [
+        {
+          "name": "Chad Bailey",
+          "slug": "chad-bailey"
+        },
+        {
+          "name": "Brian Johnson",
+          "slug": "brian-johnson"
+        }
+      ],
+      "organizations": [
+        "Daily & Tavus"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "YrUBFXa1KUY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "xJXm4Wcw4m8",
+      "speakers": [
+        {
+          "name": "Jim Bennett",
+          "slug": "jim-bennett"
+        }
+      ],
+      "organizations": [
+        "Galileo"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "d9rsC6_VLoA",
+      "speakers": [
+        {
+          "name": "Lou Bichard",
+          "slug": "lou-bichard"
+        }
+      ],
+      "organizations": [
+        "Gitpod"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "H6MrR5NbTZA",
+      "speakers": [
+        {
+          "name": "Tomas Reimers",
+          "slug": "tomas-reimers"
+        }
+      ],
+      "organizations": [
+        "Graphite"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "72XxWkd8Jrk",
+      "speakers": [
+        {
+          "name": "Laurie Voss",
+          "slug": "laurie-voss"
+        }
+      ],
+      "organizations": [
+        "LlamaIndex"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "l614N5W60ls",
+      "speakers": [
+        {
+          "name": "Emma Ning",
+          "slug": "emma-ning"
+        }
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "C1NivhYS1sI",
+      "speakers": [
+        {
+          "name": "Jon Peck",
+          "slug": "jon-peck"
+        }
+      ],
+      "organizations": [
+        "GitHub"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "i1uPAN6uW4s",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "JhJKgRAmfIU",
+      "speakers": [
+        {
+          "name": "Nagkumar Arkalgud",
+          "slug": "nagkumar-arkalgud"
+        },
+        {
+          "name": "Keiji Kanazawa",
+          "slug": "keiji-kanazawa"
+        }
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "J4vPq2i0QzE",
+      "speakers": [
+        {
+          "name": "Cedric Vidal",
+          "slug": "cedric-vidal"
+        }
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "DeFF3J8T5Pk",
+      "speakers": [
+        {
+          "name": "Charles Frye",
+          "slug": "charles-frye"
+        }
+      ],
+      "organizations": [
+        "Modal"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "W_CYk2ogcDI",
+      "speakers": [
+        {
+          "name": "Tengyu Ma",
+          "slug": "tengyu-ma"
+        }
+      ],
+      "organizations": [
+        "MongoDB (acq. Voyage AI)"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "pIPtpBZ6TKk",
+      "speakers": [
+        {
+          "name": "Frank Liu",
+          "slug": "frank-liu"
+        }
+      ],
+      "organizations": [
+        "MongoDB (prev Voyage AI)"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "W2HVdB4Jbjs",
+      "speakers": [
+        {
+          "name": "Richmond Alake",
+          "slug": "richmond-alake"
+        }
+      ],
+      "organizations": [
+        "MongoDB"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "CbiR9xS2skQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "gsedOXz8FX4",
+      "speakers": [
+        {
+          "name": "Mark Bain",
+          "slug": "mark-bain"
+        }
+      ],
+      "organizations": [
+        "AIUS"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "GGxAQVbwBL4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "c5qJHr3DnT4",
+      "speakers": [
+        {
+          "name": "Jonathan Larson",
+          "slug": "jonathan-larson"
+        }
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "CzM3cW6FdBs",
+      "speakers": [
+        {
+          "name": "Zach Blumenfeld",
+          "slug": "zach-blumenfeld"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "1C3sZbaxOmw",
+      "speakers": [
+        {
+          "name": "Kshitij Grover",
+          "slug": "kshitij-grover"
+        }
+      ],
+      "organizations": [
+        "Orb"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "1nOTQsfe1RU",
+      "speakers": [
+        {
+          "name": "Anushrut Gupta",
+          "slug": "anushrut-gupta"
+        }
+      ],
+      "organizations": [
+        "PromptQL"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "vRFqbEzzDsI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "KJ9eZYTWS1Y",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "jvKf6zXrNO4",
+      "speakers": [
+        {
+          "name": "Nir Gazit",
+          "slug": "nir-gazit"
+        }
+      ],
+      "organizations": [
+        "Traceloop"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "jUv5WSPo9fk",
+      "speakers": [
+        {
+          "name": "Sam Fertig",
+          "slug": "sam-fertig"
+        }
+      ],
+      "organizations": [
+        "Windsurf"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "W_5tzQY-hVs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "0MqYA52iWQU",
+      "speakers": [
+        {
+          "name": "Tobin South",
+          "slug": "tobin-south"
+        }
+      ],
+      "organizations": [
+        "WorkOS"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "WXy8Yy9xGss",
+      "speakers": [
+        {
+          "name": "Nathan Sobo",
+          "slug": "nathan-sobo"
+        }
+      ],
+      "organizations": [
+        "Zed"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "84Vtz2IL1Ug",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "jVGCulhBRZI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "sn79oS4MZFI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "hlcAZ2lX_ZI",
+      "speakers": [
+        {
+          "name": "Paige Bailey",
+          "slug": "paige-bailey"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "wFTVEDYVJT0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "YRGjll7uu5w",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Lcqat4iP_lE",
+      "speakers": [
+        {
+          "name": "Alex Volkov",
+          "slug": "alex-volkov"
+        },
+        {
+          "name": "Benjamin Eckel",
+          "slug": "benjamin-eckel"
+        }
+      ],
+      "organizations": [
+        "W&B and Dylibso"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "PHBGhUKAM-w",
+      "speakers": [
+        {
+          "name": "Den Delimarsky",
+          "slug": "den-delimarsky"
+        },
+        {
+          "name": "Julia Kasper",
+          "slug": "julia-kasper"
+        }
+      ],
+      "organizations": [
+        "MCP Steering Committee & Microsoft"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "0NHCyq8bBcM",
+      "speakers": [
+        {
+          "name": "John Welsh",
+          "slug": "john-welsh"
+        }
+      ],
+      "organizations": [
+        "Anthropic"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "1ZlO9Yu2ZiU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "x-8pBqWiTzk",
+      "speakers": [
+        {
+          "name": "Theodora Chu",
+          "slug": "theodora-chu"
+        }
+      ],
+      "organizations": [
+        "Model Context Protocol PM, Anthropic"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "7Hrw6rtXaHc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    }
+  ]
+}

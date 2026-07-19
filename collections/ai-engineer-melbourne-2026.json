@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "1.0",
+  "slug": "ai-engineer-melbourne-2026",
+  "title": "AI Engineer Melbourne 2026",
+  "description": "Talks from AI Engineer Melbourne 2026, drafted from the AI Engineer channel's own playlists. Editorial metadata is best-effort parsed and under review.",
+  "author": {
+    "name": "Denver Peterson",
+    "url": "https://denverpeterson.com"
+  },
+  "source": {
+    "type": "curated",
+    "homepage": "https://www.youtube.com/@aiDotEngineer"
+  },
+  "defaultRanking": "views",
+  "videos": [
+    {
+      "youtubeId": "wjXowoQ7E8c",
+      "event": {
+        "name": "AI Engineer Melbourne",
+        "year": 2026,
+        "city": "Melbourne"
+      }
+    },
+    {
+      "youtubeId": "NmjGfdZLNIs",
+      "event": {
+        "name": "AI Engineer Melbourne",
+        "year": 2026,
+        "city": "Melbourne"
+      }
+    }
+  ]
+}

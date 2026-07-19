@@ -88,6 +88,7 @@ paths:
         - $ref: "#/components/parameters/Topic"
         - $ref: "#/components/parameters/Track"
         - $ref: "#/components/parameters/Speaker"
+        - $ref: "#/components/parameters/Event"
         - $ref: "#/components/parameters/Limit"
         - $ref: "#/components/parameters/Offset"
       responses:
@@ -119,6 +120,7 @@ paths:
         - $ref: "#/components/parameters/Topic"
         - $ref: "#/components/parameters/Track"
         - $ref: "#/components/parameters/Speaker"
+        - $ref: "#/components/parameters/Event"
         - $ref: "#/components/parameters/Limit"
         - $ref: "#/components/parameters/Offset"
       responses:
@@ -299,6 +301,15 @@ components:
       name: speaker
       in: query
       description: Keep only videos featuring this speaker slug.
+      schema:
+        type: string
+    Event:
+      name: event
+      in: query
+      description: |
+        Keep only videos whose editorial event matches this label
+        (case-insensitive "Name Year", e.g. "AI Engineer World's Fair
+        2025"; name alone when the event has no year).
       schema:
         type: string
     Limit:

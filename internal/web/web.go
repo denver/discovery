@@ -94,7 +94,7 @@ func (h *handler) leaderboard(w http.ResponseWriter, r *http.Request) {
 	ctx := r.Context()
 	slug := r.PathValue("slug")
 	q := r.URL.Query()
-	rawSort, track, topic := q.Get("sort"), q.Get("track"), q.Get("topic")
+	rawSort, track, topic, event := q.Get("sort"), q.Get("track"), q.Get("topic"), q.Get("event")
 
 	limit, ok := intParam(q.Get("limit"), service.DefaultLimit)
 	if !ok || limit < 1 || limit > service.MaxLimit {
@@ -126,7 +126,7 @@ func (h *handler) leaderboard(w http.ResponseWriter, r *http.Request) {
 		h.serverError(w, r, err)
 		return
 	}
-	tracks, topics := distinctFilterValues(all.Videos)
+	tracks, topics, events := distinctFilterValues(all.Videos)
 
 	data := leaderboardData{
 		Title:         info.Title + " · Discovery",
@@ -138,14 +138,14 @@ func (h *handler) leaderboard(w http.ResponseWriter, r *http.Request) {
 	}
 
 	page, resolved, err := h.svc.Rankings(ctx, slug, rawSort,
-		service.Filters{Track: track, Topic: topic, Limit: limit, Offset: offset})
+		service.Filters{Track: track, Topic: topic, Event: event, Limit: limit, Offset: offset})
 	switch {
 	case err == nil:
 		data.Cards = make([]videoCard, 0, len(page.Videos))
 		for _, v := range page.Videos {
 			data.Cards = append(data.Cards, newVideoCard(v))
 		}
-		data.Pager = newPager(slug, rawSort, track, topic, limit, offset, page.Total, len(page.Videos))
+		data.Pager = newPager(slug, rawSort, track, topic, event, limit, offset, page.Total, len(page.Videos))
 	case errors.Is(err, rankings.ErrHistoryRequired),
 		errors.Is(err, collections.ErrHistoryUnavailable):
 		// Friendly notice, not an error page; keep controls usable.
@@ -166,12 +166,15 @@ func (h *handler) leaderboard(w http.ResponseWriter, r *http.Request) {
 	// Sort tabs always carry an explicit ?sort=; filter chips preserve
 	// only what the request actually asked for (rawSort), so the default
 	// sort's URLs stay clean.
-	data.SortLinks = sortLinks(slug, resolved, track, topic, limit)
+	data.SortLinks = sortLinks(slug, resolved, track, topic, event, limit)
+	data.EventLinks = filterLinks(events, event, func(v string) string {
+		return leaderboardURL(slug, rawSort, track, topic, v, limit, 0)
+	})
 	data.TrackLinks = filterLinks(tracks, track, func(v string) string {
-		return leaderboardURL(slug, rawSort, v, topic, limit, 0)
+		return leaderboardURL(slug, rawSort, v, topic, event, limit, 0)
 	})
 	data.TopicLinks = filterLinks(topics, topic, func(v string) string {
-		return leaderboardURL(slug, rawSort, track, v, limit, 0)
+		return leaderboardURL(slug, rawSort, track, v, event, limit, 0)
 	})
 
 	h.render(w, r, http.StatusOK, "leaderboard", data)

@@ -1,0 +1,2901 @@
+{
+  "schemaVersion": "1.0",
+  "slug": "aie-europe-2026",
+  "title": "AIE Europe 2026",
+  "description": "Talks from AIE Europe 2026, drafted from the AI Engineer channel's own playlists. Editorial metadata is best-effort parsed and under review.",
+  "author": {
+    "name": "Denver Peterson",
+    "url": "https://denverpeterson.com"
+  },
+  "source": {
+    "type": "curated",
+    "homepage": "https://www.youtube.com/@aiDotEngineer"
+  },
+  "defaultRanking": "views",
+  "videos": [
+    {
+      "youtubeId": "zepu8Kk6FBQ",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "WE_Gnowy3uw",
+      "speakers": [
+        {
+          "name": "David Gomes",
+          "slug": "david-gomes"
+        }
+      ],
+      "organizations": [
+        "Cursor"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "kR64LOqBBCU",
+      "speakers": [
+        {
+          "name": "Ido Salomon",
+          "slug": "ido-salomon"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "R7A8rX-09Zw",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "v4F1gFy-hqg",
+      "speakers": [
+        {
+          "name": "Matt Pocock",
+          "slug": "matt-pocock"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "4fntwuOoedA",
+      "speakers": [
+        {
+          "name": "Kitze",
+          "slug": "kitze"
+        }
+      ],
+      "organizations": [
+        "Sizzy.co"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "XNtkiQJ49Ps",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "CS5Cmz5FssI",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "wjk0ulMAkbc",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "_gVFUEdhCyI",
+      "speakers": [
+        {
+          "name": "Omar Sanseviero",
+          "slug": "omar-sanseviero"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "XKup1pj-34M",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "8txf05vVVl4",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "v3Fr2JR47KA",
+      "speakers": [
+        {
+          "name": "David Soria Parra",
+          "slug": "david-soria-parra"
+        }
+      ],
+      "organizations": [
+        "Anthropic"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "zZsTVBXcbow",
+      "speakers": [
+        {
+          "name": "Raia Hadsell",
+          "slug": "raia-hadsell"
+        }
+      ],
+      "organizations": [
+        "VP of Research"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "_Zcw_sVF6hU",
+      "speakers": [
+        {
+          "name": "Armin Ronacher",
+          "slug": "armin-ronacher"
+        },
+        {
+          "name": "Cristina Poncela Cubeiro",
+          "slug": "cristina-poncela-cubeiro"
+        }
+      ],
+      "organizations": [
+        "Earendil"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "zgNvts_2TUE",
+      "speakers": [
+        {
+          "name": "Peter Steinberger",
+          "slug": "peter-steinberger"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "am_oeAoUhew",
+      "speakers": [
+        {
+          "name": "Ryan Lopopolo",
+          "slug": "ryan-lopopolo"
+        }
+      ],
+      "organizations": [
+        "OpenAI"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "RjfbvDXpFls",
+      "speakers": [
+        {
+          "name": "Mario Zechner",
+          "slug": "mario-zechner"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "V-L0INGTEOg",
+      "speakers": [
+        {
+          "name": "Boris Starkov",
+          "slug": "boris-starkov"
+        }
+      ],
+      "organizations": [
+        "Eleven Labs"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "ESbWpPT_9-o",
+      "speakers": [
+        {
+          "name": "Alex Cheema",
+          "slug": "alex-cheema"
+        }
+      ],
+      "organizations": [
+        "EXO Labs"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "ns9f1fjLD7Y",
+      "speakers": [
+        {
+          "name": "Paige",
+          "slug": "paige"
+        },
+        {
+          "name": "Guillaume",
+          "slug": "guillaume"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "BcWFc3H7Khg",
+      "speakers": [
+        {
+          "name": "Guillaume Vernade",
+          "slug": "guillaume-vernade"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "mR-WAvEPRwE",
+      "speakers": [
+        {
+          "name": "Ash Prabaker",
+          "slug": "ash-prabaker"
+        },
+        {
+          "name": "Andrew Wilson",
+          "slug": "andrew-wilson"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "Xfl50508LZM",
+      "speakers": [
+        {
+          "name": "Laurie Voss",
+          "slug": "laurie-voss"
+        }
+      ],
+      "organizations": [
+        "Arize"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "iOXM3zE-2dk",
+      "speakers": [
+        {
+          "name": "Amy Boyd",
+          "slug": "amy-boyd"
+        },
+        {
+          "name": "Nitya Narasimhan",
+          "slug": "nitya-narasimhan"
+        }
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "vi-2nasppAg",
+      "speakers": [
+        {
+          "name": "Jonas Templestein",
+          "slug": "jonas-templestein"
+        }
+      ],
+      "organizations": [
+        "Iterate"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "wflNENRSUb4",
+      "speakers": [
+        {
+          "name": "Nico Albanese",
+          "slug": "nico-albanese"
+        }
+      ],
+      "organizations": [
+        "Vercel"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "ynJyIKwjonM",
+      "speakers": [
+        {
+          "name": "Leonie Monigatti",
+          "slug": "leonie-monigatti"
+        }
+      ],
+      "organizations": [
+        "Elastic"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "A48uhxfxbsM",
+      "speakers": [
+        {
+          "name": "Samuel Colvin",
+          "slug": "samuel-colvin"
+        }
+      ],
+      "organizations": [
+        "Pydantic"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "Wmp2Tku2PrI",
+      "speakers": [
+        {
+          "name": "Michael Arnaldi",
+          "slug": "michael-arnaldi"
+        }
+      ],
+      "organizations": [
+        "Effectful"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "-aM2EDTiaMs",
+      "speakers": [
+        {
+          "name": "Danny Gollapalli",
+          "slug": "danny-gollapalli"
+        },
+        {
+          "name": "Zubin Koticha",
+          "slug": "zubin-koticha"
+        }
+      ],
+      "organizations": [
+        "Raindrop"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "pFsfax19yOM",
+      "speakers": [
+        {
+          "name": "Nick Nisi",
+          "slug": "nick-nisi"
+        },
+        {
+          "name": "Zack Proser",
+          "slug": "zack-proser"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "_QAVExf_1uw",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "UsB70Tf5zcE",
+      "speakers": [
+        {
+          "name": "Angelos Perivolaropoulos",
+          "slug": "angelos-perivolaropoulos"
+        }
+      ],
+      "organizations": [
+        "ElevenLabs"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "GmAQKINjv1E",
+      "speakers": [
+        {
+          "name": "Pedro Rodrigues",
+          "slug": "pedro-rodrigues"
+        }
+      ],
+      "organizations": [
+        "Supabase"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "2TLXsxkz0zI",
+      "speakers": [
+        {
+          "name": "Chris Parsons",
+          "slug": "chris-parsons"
+        }
+      ],
+      "organizations": [
+        "Cherrypick"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "BKWpYIWvAo4",
+      "speakers": [
+        {
+          "name": "Cormac Brick",
+          "slug": "cormac-brick"
+        }
+      ],
+      "organizations": [
+        "Google"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "5ID22ACI7IM",
+      "speakers": [
+        {
+          "name": "Peter Werry",
+          "slug": "peter-werry"
+        }
+      ],
+      "organizations": [
+        "Unblocked"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "tDArkCqjA-c",
+      "speakers": [
+        {
+          "name": "Liam McGarrigle",
+          "slug": "liam-mcgarrigle"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "ZdheJTfLu-s",
+      "speakers": [
+        {
+          "name": "Braintrust",
+          "slug": "braintrust"
+        },
+        {
+          "name": "Trainline",
+          "slug": "trainline"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "cVzf49yg0D8",
+      "speakers": [
+        {
+          "name": "Thor Schaeff",
+          "slug": "thor-schaeff"
+        },
+        {
+          "name": "Philipp Schmid",
+          "slug": "philipp-schmid"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "MhHEGMFCEB0",
+      "speakers": [
+        {
+          "name": "Vaibhav Srivastav",
+          "slug": "vaibhav-srivastav"
+        },
+        {
+          "name": "Katia Gil Guzman",
+          "slug": "katia-gil-guzman"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "G_bHFmEAarM",
+      "speakers": [
+        {
+          "name": "Paige Bailey",
+          "slug": "paige-bailey"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "rnDm57Py54A",
+      "speakers": [
+        {
+          "name": "Eric Zakariasson",
+          "slug": "eric-zakariasson"
+        }
+      ],
+      "organizations": [
+        "Cursor"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "-QFHIoCo-Ko",
+      "speakers": [
+        {
+          "name": "Matt Pocock",
+          "slug": "matt-pocock"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "mYSRn6PC1mc",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "YZHPEkfy2kc",
+      "speakers": [
+        {
+          "name": "Diego Carpentero",
+          "slug": "diego-carpentero"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "h403btjldDQ",
+      "speakers": [
+        {
+          "name": "Dotta Bippa",
+          "slug": "dotta-bippa"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "VXfRt_H-V08",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "X4dEHRzBLmc",
+      "speakers": [
+        {
+          "name": "Mahmoud Mabrouk",
+          "slug": "mahmoud-mabrouk"
+        }
+      ],
+      "organizations": [
+        "Agenta AI"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "XZ0boOjtbNo",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "c5-kx2bwoCk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "IEF842ZEU5A",
+      "speakers": [
+        {
+          "name": "Dippu Singh",
+          "slug": "dippu-singh"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "4TxOBhDRRCM",
+      "speakers": [
+        {
+          "name": "Phil Nash",
+          "slug": "phil-nash"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "2czYyrTzILg",
+      "speakers": [
+        {
+          "name": "Sandipan Bhaumik",
+          "slug": "sandipan-bhaumik"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "u0TOSBbAw7c",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "cCRO3ChaYhM",
+      "speakers": [
+        {
+          "name": "Juan Herreros Elorza",
+          "slug": "juan-herreros-elorza"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "AHtGAgQ0Q_Q",
+      "speakers": [
+        {
+          "name": "Harshil Agrawal",
+          "slug": "harshil-agrawal"
+        }
+      ],
+      "organizations": [
+        "Cloudflare"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "BurJvbqFr4c",
+      "speakers": [
+        {
+          "name": "Tun Shwe",
+          "slug": "tun-shwe"
+        }
+      ],
+      "organizations": [
+        "Lenses"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "71V3fTaUp2Q",
+      "speakers": [
+        {
+          "name": "Stefano Fiorucci",
+          "slug": "stefano-fiorucci"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "U00AOI1eJUE",
+      "speakers": [
+        {
+          "name": "Nimrod Hauser",
+          "slug": "nimrod-hauser"
+        }
+      ],
+      "organizations": [
+        "Baz"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "BEKc4P87XKo",
+      "speakers": [
+        {
+          "name": "Brendan O'Leary",
+          "slug": "brendan-o-leary"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "nzjTB_O-il8",
+      "speakers": [
+        {
+          "name": "Ioana Ghita",
+          "slug": "ioana-ghita"
+        }
+      ],
+      "organizations": [
+        "AI Architect, Accesa"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "5192csoTkVo",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "xg1zNlzw7Jk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "GdvKNwMcfd0",
+      "speakers": [
+        {
+          "name": "Chris Noring",
+          "slug": "chris-noring"
+        }
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "grdoOC1BT1s",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "iRcX54EO5g8",
+      "speakers": [
+        {
+          "name": "Johan Lajili",
+          "slug": "johan-lajili"
+        }
+      ],
+      "organizations": [
+        "Poolside AI"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "HEFSExa0xl0",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "MpZzWMdmQCE",
+      "speakers": [
+        {
+          "name": "Talha Sheikh",
+          "slug": "talha-sheikh"
+        }
+      ],
+      "organizations": [
+        "Checkout.com"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "BqZrTdgBaPw",
+      "speakers": [
+        {
+          "name": "Stephan Steinfurt",
+          "slug": "stephan-steinfurt"
+        }
+      ],
+      "organizations": [
+        "TNG"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "ObTPqBGsEbA",
+      "speakers": [
+        {
+          "name": "Sandipan Bhaumik",
+          "slug": "sandipan-bhaumik"
+        }
+      ],
+      "organizations": [
+        "Databricks"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "btxGmN8RvNU",
+      "speakers": [
+        {
+          "name": "Rafael Levi",
+          "slug": "rafael-levi"
+        }
+      ],
+      "organizations": [
+        "Bright Data"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "gHs5ZiY80PM",
+      "speakers": [
+        {
+          "name": "Ziv Ilan",
+          "slug": "ziv-ilan"
+        }
+      ],
+      "organizations": [
+        "Nvidia"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "c-2eEv2ou7Y",
+      "speakers": [
+        {
+          "name": "Frédéric Barthelet",
+          "slug": "fr-d-ric-barthelet"
+        }
+      ],
+      "organizations": [
+        "Alpic"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "iUWwcG-C8OU",
+      "speakers": [
+        {
+          "name": "Garrett Galow",
+          "slug": "garrett-galow"
+        }
+      ],
+      "organizations": [
+        "WorkOS"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "ghJmWQCIHRM",
+      "speakers": [
+        {
+          "name": "Tara Agyemang",
+          "slug": "tara-agyemang"
+        }
+      ],
+      "organizations": [
+        "Google"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "so9l_MwS2yg",
+      "speakers": [
+        {
+          "name": "Zack Proser",
+          "slug": "zack-proser"
+        }
+      ],
+      "organizations": [
+        "WorkOS"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "TNwJ1LMiENk",
+      "speakers": [
+        {
+          "name": "Kobie Crawford",
+          "slug": "kobie-crawford"
+        }
+      ],
+      "organizations": [
+        "Snorkel"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "SS-A8sE7hkw",
+      "speakers": [
+        {
+          "name": "Gus Martins",
+          "slug": "gus-martins"
+        }
+      ],
+      "organizations": [
+        "& Ian Ballantyne, Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "zMiSRliEzv4",
+      "speakers": [
+        {
+          "name": "Joshua Snyder",
+          "slug": "joshua-snyder"
+        }
+      ],
+      "organizations": [
+        "PostHog"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "zDGHt0LB-dA",
+      "speakers": [
+        {
+          "name": "Audry Hsu",
+          "slug": "audry-hsu"
+        }
+      ],
+      "organizations": [
+        "RunPod"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "UM6sFg_jdlE",
+      "speakers": [
+        {
+          "name": "Kuba Rogut",
+          "slug": "kuba-rogut"
+        }
+      ],
+      "organizations": [
+        "Turbopuffer"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "Bc6Ojl2XS1w",
+      "speakers": [
+        {
+          "name": "Thor Schaeff",
+          "slug": "thor-schaeff"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "TUnPNY4E2fw",
+      "speakers": [
+        {
+          "name": "Max Ryabinin",
+          "slug": "max-ryabinin"
+        }
+      ],
+      "organizations": [
+        "Together AI"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "EcqMYoIV57A",
+      "speakers": [
+        {
+          "name": "Nupur Sharma",
+          "slug": "nupur-sharma"
+        }
+      ],
+      "organizations": [
+        "Qodo"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "SKDJo2CopRs",
+      "speakers": [
+        {
+          "name": "Sunil Pai",
+          "slug": "sunil-pai"
+        },
+        {
+          "name": "Matt Carey",
+          "slug": "matt-carey"
+        }
+      ],
+      "organizations": [
+        "Cloudflare"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "JsCCrBF7F1g",
+      "speakers": [
+        {
+          "name": "Dat Ngo",
+          "slug": "dat-ngo"
+        }
+      ],
+      "organizations": [
+        "Arize"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "ILdE7FaAjVA",
+      "speakers": [
+        {
+          "name": "Audry Hsu",
+          "slug": "audry-hsu"
+        }
+      ],
+      "organizations": [
+        "RunPod"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "zTZ0qunQXnM",
+      "speakers": [
+        {
+          "name": "Rafael Levi",
+          "slug": "rafael-levi"
+        }
+      ],
+      "organizations": [
+        "Bright Data"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "_xIwFcnHqp4",
+      "speakers": [
+        {
+          "name": "Marlene Mhangami",
+          "slug": "marlene-mhangami"
+        },
+        {
+          "name": "Liam Hampton",
+          "slug": "liam-hampton"
+        }
+      ],
+      "organizations": [
+        "GitHub"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "QuuIywMG4s8",
+      "speakers": [
+        {
+          "name": "Ara Khan",
+          "slug": "ara-khan"
+        }
+      ],
+      "organizations": [
+        "Cline"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "KLSuFPj2ld0",
+      "speakers": [
+        {
+          "name": "Steve Kaliski",
+          "slug": "steve-kaliski"
+        }
+      ],
+      "organizations": [
+        "Stripe"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "_B4Pv9ttFgY",
+      "speakers": [
+        {
+          "name": "Michael Hablich",
+          "slug": "michael-hablich"
+        }
+      ],
+      "organizations": [
+        "Google"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "pmoDeA3RBZY",
+      "speakers": [
+        {
+          "name": "Vincent Koc",
+          "slug": "vincent-koc"
+        }
+      ],
+      "organizations": [
+        "OpenClaw"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "mFLlVpnGpds",
+      "speakers": [
+        {
+          "name": "Hervé Bredin",
+          "slug": "herv-bredin"
+        }
+      ],
+      "organizations": [
+        "pyannoteAI"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "r305-aQTaU0",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "iNkFlCiij0U",
+      "speakers": [
+        {
+          "name": "Vincent Chen",
+          "slug": "vincent-chen"
+        }
+      ],
+      "organizations": [
+        "Snorkel AI"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "wcUJWP6WpGM",
+      "speakers": [
+        {
+          "name": "Ibragim Badertdinov",
+          "slug": "ibragim-badertdinov"
+        }
+      ],
+      "organizations": [
+        "Nebius"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "hCMrEfPG2Yg",
+      "speakers": [
+        {
+          "name": "Ruben Casas",
+          "slug": "ruben-casas"
+        }
+      ],
+      "organizations": [
+        "Postman"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "zKk7sDMGDEQ",
+      "speakers": [
+        {
+          "name": "Kuba Rogut",
+          "slug": "kuba-rogut"
+        }
+      ],
+      "organizations": [
+        "Turbopuffer"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "504PvfXou5Y",
+      "speakers": [
+        {
+          "name": "Michal Cichra",
+          "slug": "michal-cichra"
+        }
+      ],
+      "organizations": [
+        "Safe Intelligence"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "HvZXAOZ3iv8",
+      "speakers": [
+        {
+          "name": "Benjamin Cowen",
+          "slug": "benjamin-cowen"
+        }
+      ],
+      "organizations": [
+        "Modal"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "YYH0DMQr30A",
+      "speakers": [
+        {
+          "name": "Kobie Crawdord",
+          "slug": "kobie-crawdord"
+        }
+      ],
+      "organizations": [
+        "Snorkel"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "KA5kPbdkK2E",
+      "speakers": [
+        {
+          "name": "Benjamin Verbeek",
+          "slug": "benjamin-verbeek"
+        }
+      ],
+      "organizations": [
+        "Lovable"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "hqHC6Z_lXyo",
+      "speakers": [
+        {
+          "name": "Bertrand Charpentier",
+          "slug": "bertrand-charpentier"
+        }
+      ],
+      "organizations": [
+        "Pruna"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "BM2JX9hqsVQ",
+      "speakers": [
+        {
+          "name": "Remy Guercio",
+          "slug": "remy-guercio"
+        }
+      ],
+      "organizations": [
+        "Tailscale"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "u-rJwPPU3QA",
+      "speakers": [
+        {
+          "name": "Joe Reeve",
+          "slug": "joe-reeve"
+        }
+      ],
+      "organizations": [
+        "ElevenLabs"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "NuePCNMpWGc",
+      "speakers": [
+        {
+          "name": "Prasenjit Sarkar",
+          "slug": "prasenjit-sarkar"
+        }
+      ],
+      "organizations": [
+        "Sonar"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "UQKg0td-Bf4",
+      "speakers": [
+        {
+          "name": "Steven Willmott",
+          "slug": "steven-willmott"
+        }
+      ],
+      "organizations": [
+        "SafeIntelligence"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "vy7o1g2iHY8",
+      "speakers": [
+        {
+          "name": "Nick Nisi",
+          "slug": "nick-nisi"
+        }
+      ],
+      "organizations": [
+        "WorkOS"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "phchDt63qAA",
+      "speakers": [
+        {
+          "name": "Ben Kunkle",
+          "slug": "ben-kunkle"
+        }
+      ],
+      "organizations": [
+        "Zed"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "3_gYbhABcAE",
+      "speakers": [
+        {
+          "name": "Philipp Schmid",
+          "slug": "philipp-schmid"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "0jeZfjJMfmo",
+      "speakers": [
+        {
+          "name": "Andres Marafioti",
+          "slug": "andres-marafioti"
+        }
+      ],
+      "organizations": [
+        "Hugging Face"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "B9h9ovW5H9U",
+      "speakers": [
+        {
+          "name": "Zach Blumenfeld",
+          "slug": "zach-blumenfeld"
+        }
+      ],
+      "organizations": [
+        "Neo4j"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "XBaznoTRDFI",
+      "speakers": [
+        {
+          "name": "Phil Hetzel",
+          "slug": "phil-hetzel"
+        }
+      ],
+      "organizations": [
+        "Braintrust"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "AGkzpxMdPn8",
+      "speakers": [
+        {
+          "name": "Jess Grogan-Avignon",
+          "slug": "jess-grogan-avignon"
+        },
+        {
+          "name": "Jack Wang",
+          "slug": "jack-wang"
+        }
+      ],
+      "organizations": [
+        "Accenture"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "abvQEhvRI_c",
+      "speakers": [
+        {
+          "name": "Andreas Kollegger",
+          "slug": "andreas-kollegger"
+        },
+        {
+          "name": "Zaid Zaim",
+          "slug": "zaid-zaim"
+        }
+      ],
+      "organizations": [
+        "Neo4j"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "li0SaBt9RDM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "ugUeZ8-b-u0",
+      "speakers": [
+        {
+          "name": "Daniel Szoke",
+          "slug": "daniel-szoke"
+        }
+      ],
+      "organizations": [
+        "Sentry"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "FB-MLPhL9Ms",
+      "speakers": [
+        {
+          "name": "Phil Hetzel",
+          "slug": "phil-hetzel"
+        }
+      ],
+      "organizations": [
+        "Braintrust"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "7CrPrHgoEYk",
+      "speakers": [
+        {
+          "name": "Mardu Swanepoel",
+          "slug": "mardu-swanepoel"
+        }
+      ],
+      "organizations": [
+        "Flinn AI"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "BiG2ssibKGc",
+      "speakers": [
+        {
+          "name": "Brandon Waselnuk",
+          "slug": "brandon-waselnuk"
+        }
+      ],
+      "organizations": [
+        "Unblocked"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "Ubwb6NzegyA",
+      "speakers": [
+        {
+          "name": "Nicholas Kang",
+          "slug": "nicholas-kang"
+        },
+        {
+          "name": "Michael Aaron",
+          "slug": "michael-aaron"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "NKwIX3CiRgU",
+      "speakers": [
+        {
+          "name": "Phil Hetzel",
+          "slug": "phil-hetzel"
+        }
+      ],
+      "organizations": [
+        "Braintrust"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "t4359sKBu4w",
+      "speakers": [
+        {
+          "name": "Angus J. McLean",
+          "slug": "angus-j-mclean"
+        }
+      ],
+      "organizations": [
+        "Oliver"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "7gujZrJ9L5I",
+      "speakers": [
+        {
+          "name": "KP Sawhney",
+          "slug": "kp-sawhney"
+        },
+        {
+          "name": "Ian Ballantyne",
+          "slug": "ian-ballantyne"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "W-SX_srBa3Y",
+      "speakers": [
+        {
+          "name": "Michael Richman",
+          "slug": "michael-richman"
+        }
+      ],
+      "organizations": [
+        "Cmd+Ctrl"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "WRBNDpUhsJQ",
+      "speakers": [
+        {
+          "name": "Adrian Bertagnoli",
+          "slug": "adrian-bertagnoli"
+        }
+      ],
+      "organizations": [
+        "Callosum"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "LMbeDEQO6QM",
+      "speakers": [
+        {
+          "name": "RL Nabors",
+          "slug": "rl-nabors"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "5Sui_OnSRlY",
+      "speakers": [
+        {
+          "name": "Lou Bichard",
+          "slug": "lou-bichard"
+        }
+      ],
+      "organizations": [
+        "Ona"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "TeGsFFNqRLA",
+      "speakers": [
+        {
+          "name": "Sarah Chieng",
+          "slug": "sarah-chieng"
+        }
+      ],
+      "organizations": [
+        "Cerebras"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "F1DYkY1BlfM",
+      "speakers": [
+        {
+          "name": "Sally Ann O'Malley",
+          "slug": "sally-ann-o-malley"
+        }
+      ],
+      "organizations": [
+        "Red Hat"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "owH1f0N-keY",
+      "speakers": [
+        {
+          "name": "Florina Muntenescu",
+          "slug": "florina-muntenescu"
+        },
+        {
+          "name": "Oli Gaymond",
+          "slug": "oli-gaymond"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "dyHpnnlkTc8",
+      "speakers": [
+        {
+          "name": "Liam Hampton",
+          "slug": "liam-hampton"
+        }
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "VaS2h-dY1-4",
+      "speakers": [
+        {
+          "name": "Onur Solmaz",
+          "slug": "onur-solmaz"
+        }
+      ],
+      "organizations": [
+        "OpenClaw"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "JomVvNDjGb8",
+      "speakers": [
+        {
+          "name": "Ben Burtenshaw",
+          "slug": "ben-burtenshaw"
+        }
+      ],
+      "organizations": [
+        "Hugging Face"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "GIRpQEfYf3U",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "vNCY9kXXyDQ",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "-TiET_K-E_g",
+      "speakers": [
+        {
+          "name": "Cormac Brick",
+          "slug": "cormac-brick"
+        }
+      ],
+      "organizations": [
+        "Google"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "x2bH0RKPgdc",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "yUmS-F9IX90",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "5YSJEP0HWzM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "ObNKGf9YR0g",
+      "speakers": [
+        {
+          "name": "Eoin Mulgrew",
+          "slug": "eoin-mulgrew"
+        }
+      ],
+      "organizations": [
+        "No. 10 (Downing Street)"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "C_GG5g38vLU",
+      "speakers": [
+        {
+          "name": "Tejas Kumar",
+          "slug": "tejas-kumar"
+        }
+      ],
+      "organizations": [
+        "IBM"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "L2r6vLlLgs8",
+      "speakers": [
+        {
+          "name": "Lawrence Jones",
+          "slug": "lawrence-jones"
+        }
+      ],
+      "organizations": [
+        "Incident"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "YNJvm7t3yq8",
+      "speakers": [
+        {
+          "name": "Mike Christensen",
+          "slug": "mike-christensen"
+        }
+      ],
+      "organizations": [
+        "Ably"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "m12vGjfbNlo",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "FWEInOtngmM",
+      "speakers": [
+        {
+          "name": "Marlene Mhangami",
+          "slug": "marlene-mhangami"
+        }
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "kfSDc2eVLo4",
+      "speakers": [
+        {
+          "name": "Chris Lovejoy",
+          "slug": "chris-lovejoy"
+        }
+      ],
+      "organizations": [
+        "Notius Labs"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "eW_vxrjvERk",
+      "speakers": [
+        {
+          "name": "Stephen Chin",
+          "slug": "stephen-chin"
+        }
+      ],
+      "organizations": [
+        "Neo4j"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "VMemhtlsoNk",
+      "speakers": [
+        {
+          "name": "Mike Spitz",
+          "slug": "mike-spitz"
+        }
+      ],
+      "organizations": [
+        "PFF"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "JT3OzDKrucU",
+      "speakers": [
+        {
+          "name": "Pedro Rodrigues",
+          "slug": "pedro-rodrigues"
+        }
+      ],
+      "organizations": [
+        "Supabase"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "4_VQBbs2iQA",
+      "speakers": [
+        {
+          "name": "Brian Scanlan",
+          "slug": "brian-scanlan"
+        }
+      ],
+      "organizations": [
+        "Intercom"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "OV56RddyFuU",
+      "speakers": [
+        {
+          "name": "Merve Noyan",
+          "slug": "merve-noyan"
+        }
+      ],
+      "organizations": [
+        "Hugging Face"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "FlzpEGHNVKQ",
+      "speakers": [
+        {
+          "name": "Anant Dole",
+          "slug": "anant-dole"
+        },
+        {
+          "name": "Asbjorn Steinskog",
+          "slug": "asbjorn-steinskog"
+        }
+      ],
+      "organizations": [
+        "Take Take Take"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "VktrqzQgytY",
+      "speakers": [
+        {
+          "name": "Hugo Santos",
+          "slug": "hugo-santos"
+        },
+        {
+          "name": "Madison Faulkner",
+          "slug": "madison-faulkner"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "X6NShR2ccOg",
+      "speakers": [
+        {
+          "name": "Alessandro Cappelli",
+          "slug": "alessandro-cappelli"
+        }
+      ],
+      "organizations": [
+        "Adaptive ML"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "4VhbYlfC7Gs",
+      "speakers": [
+        {
+          "name": "Vincent Koc",
+          "slug": "vincent-koc"
+        }
+      ],
+      "organizations": [
+        "OpenClaw"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "vAIDdLKB6-w",
+      "speakers": [
+        {
+          "name": "Matthias Luebken",
+          "slug": "matthias-luebken"
+        }
+      ],
+      "organizations": [
+        "Tavon"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "ohKt066uFhg",
+      "speakers": [
+        {
+          "name": "Fryderyk Wiatrowski",
+          "slug": "fryderyk-wiatrowski"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "zTLJNHj0DeQ",
+      "speakers": [
+        {
+          "name": "Prince Canuma",
+          "slug": "prince-canuma"
+        }
+      ],
+      "organizations": [
+        "Neywa Labs"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "svCnShDvgQg",
+      "speakers": [
+        {
+          "name": "Eric Allam",
+          "slug": "eric-allam"
+        }
+      ],
+      "organizations": [
+        "CEO, Trigger.dev"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "esY99nYXxR4",
+      "speakers": [
+        {
+          "name": "Sally-Ann Delucia",
+          "slug": "sally-ann-delucia"
+        }
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "ON5LIT0M4do",
+      "speakers": [
+        {
+          "name": "Mehedi Hassan",
+          "slug": "mehedi-hassan"
+        }
+      ],
+      "organizations": [
+        "Granola"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "3jGAU2sbAyY",
+      "speakers": [
+        {
+          "name": "Samuel Humeau",
+          "slug": "samuel-humeau"
+        }
+      ],
+      "organizations": [
+        "Mistral"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "P_RI1kCkRbo",
+      "speakers": [
+        {
+          "name": "Neil Zeghidour",
+          "slug": "neil-zeghidour"
+        }
+      ],
+      "organizations": [
+        "CEO, Gradium AI"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "DCZZ3AJKzuc",
+      "speakers": [
+        {
+          "name": "Luke Harries",
+          "slug": "luke-harries"
+        }
+      ],
+      "organizations": [
+        "Head of Growth, ElevenLabs"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "VhfAVA3BG2I",
+      "speakers": [
+        {
+          "name": "Isaac Robinson",
+          "slug": "isaac-robinson"
+        }
+      ],
+      "organizations": [
+        "Roboflow"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "x8Yb4RidLgM",
+      "speakers": [
+        {
+          "name": "Stephen Batifol",
+          "slug": "stephen-batifol"
+        }
+      ],
+      "organizations": [
+        "Black Forest Labs"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "ow1we5PzK-o",
+      "speakers": [
+        {
+          "name": "Luke Alvoeiro",
+          "slug": "luke-alvoeiro"
+        }
+      ],
+      "organizations": [
+        "Factory"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "o-zkvb0iFDQ",
+      "speakers": [
+        {
+          "name": "Liad Yosef",
+          "slug": "liad-yosef"
+        },
+        {
+          "name": "Ido Salomon",
+          "slug": "ido-salomon"
+        }
+      ],
+      "organizations": [
+        "MCP Apps"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "qdh_x-uRs9g",
+      "speakers": [
+        {
+          "name": "Filip Makraduli",
+          "slug": "filip-makraduli"
+        }
+      ],
+      "organizations": [
+        "Superlinked"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "Lm8BLHkxiAo",
+      "speakers": [
+        {
+          "name": "Chintan Parikh",
+          "slug": "chintan-parikh"
+        },
+        {
+          "name": "Weiyi Wang",
+          "slug": "weiyi-wang"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "bSG9wUYaHWU",
+      "speakers": [
+        {
+          "name": "Patrick Debois",
+          "slug": "patrick-debois"
+        }
+      ],
+      "organizations": [
+        "Tessl"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "sJ2jc7leKBk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "W76woOYHlvY",
+      "speakers": [
+        {
+          "name": "Louis Knight-Webb",
+          "slug": "louis-knight-webb"
+        }
+      ],
+      "organizations": [
+        "Vibe Kanban"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "CrqPcIZOOXA",
+      "speakers": [
+        {
+          "name": "Mayank Pant",
+          "slug": "mayank-pant"
+        }
+      ],
+      "organizations": [
+        "Stripe"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "sPUjIBH5Cwg",
+      "speakers": [
+        {
+          "name": "Steve Ruiz",
+          "slug": "steve-ruiz"
+        }
+      ],
+      "organizations": [
+        "tldraw"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "fLUtUkqYHnQ",
+      "speakers": [
+        {
+          "name": "Maxime Labonne",
+          "slug": "maxime-labonne"
+        }
+      ],
+      "organizations": [
+        "Liquid AI"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "_fQ7Z_Wfouk",
+      "speakers": [
+        {
+          "name": "Phil Hetzel",
+          "slug": "phil-hetzel"
+        }
+      ],
+      "organizations": [
+        "Braintrust"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "EmhRyw6xeT0",
+      "speakers": [
+        {
+          "name": "Garrett Galow",
+          "slug": "garrett-galow"
+        }
+      ],
+      "organizations": [
+        "WorkOS"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "_A367W_qvc8",
+      "speakers": [
+        {
+          "name": "Cassidy Hardin",
+          "slug": "cassidy-hardin"
+        }
+      ],
+      "organizations": [
+        "Researcher, Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "0n3MKk7r60w",
+      "speakers": [
+        {
+          "name": "Sam Morrow",
+          "slug": "sam-morrow"
+        }
+      ],
+      "organizations": [
+        "GitHub"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "CD6R4Wf3jnY",
+      "speakers": [
+        {
+          "name": "Karan Sampath",
+          "slug": "karan-sampath"
+        }
+      ],
+      "organizations": [
+        "Anthropic"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "ClWD8OEYgp8",
+      "speakers": [
+        {
+          "name": "Maggie Appleton",
+          "slug": "maggie-appleton"
+        }
+      ],
+      "organizations": [
+        "GitHub"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "YBYUvGOuotE",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "DeM_u2Ik0sk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "xOP1PM8fwnk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "a2muGkT4WD4",
+      "speakers": [
+        {
+          "name": "Adrien Grondin",
+          "slug": "adrien-grondin"
+        }
+      ],
+      "organizations": [
+        "Locally AI"
+      ],
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "6IxSbMhT7v4",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "_zdroS0Hc74",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "O_IMsEg91g8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    },
+    {
+      "youtubeId": "xR2KS7K_sOg",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
+    }
+  ]
+}

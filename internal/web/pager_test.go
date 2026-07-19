@@ -152,3 +152,35 @@ func TestFilterChipsScanWholeCollection(t *testing.T) {
 		t.Error("filter chips should include values beyond the first 100 videos")
 	}
 }
+
+func TestEventChipsAndFilter(t *testing.T) {
+	ctx := context.Background()
+	store := collections.NewMemStore(collections.MemStoreOptions{})
+	t.Cleanup(func() { store.Close() })
+	coll := &collections.Collection{
+		SchemaVersion: "1.0", Slug: "ev", Title: "Events", DefaultRanking: "views",
+		Videos: []collections.VideoEntry{
+			{YouTubeID: "aaaaaaaaaaa", Event: &collections.Event{Name: "AI Engineer World's Fair", Year: 2026}},
+			{YouTubeID: "bbbbbbbbbbb", Event: &collections.Event{Name: "AIE CODE", Year: 2025}},
+			{YouTubeID: "ccccccccccc"},
+		},
+	}
+	if err := store.UpsertCollection(ctx, coll); err != nil {
+		t.Fatal(err)
+	}
+	svc := &service.Service{Store: store, Registry: rankings.DefaultRegistry(), Now: fixedNow}
+	h, err := newHandler(svc, fixedNow)
+	if err != nil {
+		t.Fatal(err)
+	}
+
+	_, body := get(t, h, "/c/ev")
+	if !strings.Contains(body, "AI Engineer World&#39;s Fair 2026") || !strings.Contains(body, "AIE CODE 2025") {
+		t.Error("event chips missing from leaderboard")
+	}
+
+	_, body = get(t, h, "/c/ev?event=AIE+CODE+2025")
+	if !strings.Contains(body, "bbbbbbbbbbb") || strings.Contains(body, "aaaaaaaaaaa") {
+		t.Error("event filter did not narrow results")
+	}
+}

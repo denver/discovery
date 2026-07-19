@@ -16,6 +16,12 @@
       {{range .SortLinks}}<a class="sort{{if .Active}} active{{end}}" href="{{.URL}}">{{.Label}}</a>{{end}}
     </nav>
 
+    {{if .EventLinks}}
+    <div class="filter-row">
+      <span class="filter-label">Event</span>
+      {{range .EventLinks}}<a class="chip{{if .Active}} active{{end}}" href="{{.URL}}">{{.Label}}</a>{{end}}
+    </div>
+    {{end}}
     {{if .TrackLinks}}
     <div class="filter-row">
       <span class="filter-label">Track</span>

@@ -1,0 +1,603 @@
+{
+  "schemaVersion": "1.0",
+  "slug": "ai-engineer-summit-ny-2025",
+  "title": "AI Engineer Summit NY 2025",
+  "description": "Talks from AI Engineer Summit NY 2025, drafted from the AI Engineer channel's own playlists. Editorial metadata is best-effort parsed and under review.",
+  "author": {
+    "name": "Denver Peterson",
+    "url": "https://denverpeterson.com"
+  },
+  "source": {
+    "type": "curated",
+    "homepage": "https://www.youtube.com/@aiDotEngineer"
+  },
+  "defaultRanking": "views",
+  "videos": [
+    {
+      "youtubeId": "KUEmEb71vzQ",
+      "speakers": [
+        {
+          "name": "Full Workshop",
+          "slug": "full-workshop"
+        }
+      ],
+      "organizations": [
+        "with Ilan Bigio of OpenAI"
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "kDlqpN1JyIw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "E0k9Ppq6yXY",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "kQmXtrmQ5Zg",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "D6v5rlqUIc8",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "qeDPKbWjsuk",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "7MiFIhlkBoE",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "4J8-D0sgU9A",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "ro5HkZvzfiQ",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "YYcNm2RexnY",
+      "speakers": [
+        {
+          "name": "Juan Peredo",
+          "slug": "juan-peredo"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "EUHx5ooJHuQ",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "FpJ9dPe1qYQ",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "MExbNNG_VcI",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "R2VfIjuWhgw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "OD13PiXw60o",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "xzXdLRUyjUg",
+      "speakers": [
+        {
+          "name": "Kam Lasater",
+          "slug": "kam-lasater"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "62U6FLUCPWs",
+      "speakers": [
+        {
+          "name": "Ofer Vectara",
+          "slug": "ofer-vectara"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "ya_9_niq2as",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "zuMw0pkPXpU",
+      "speakers": [
+        {
+          "name": "Roy Derks",
+          "slug": "roy-derks"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "VTJHR7rQ2KI",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "_pBfv1rbLBU",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Hp4MzVTXcKw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "UOsOfLnAX3Y",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "KVgbERRPU4M",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "3jwClx0Ft2E",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "cZ5ZJy19KMo",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "y2Drx0SDZLo",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "kjSGc7uwDo8",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "pzmbleiOfCM",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "2cEGQEllBGc",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "r0AG44qYKsI",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "In7K-4JZKR4",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "wJwTlvb_TSo",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "U3MVU6JpocU",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "kPL-6-9MVyA",
+      "speakers": [
+        {
+          "name": "Douwe Kiela",
+          "slug": "douwe-kiela"
+        }
+      ],
+      "organizations": [
+        "creator of RAG"
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "Iw_3cRf3lnM",
+      "speakers": [
+        {
+          "name": "Colin Flaherty",
+          "slug": "colin-flaherty"
+        }
+      ],
+      "organizations": [
+        "Augment Code"
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "jMoAaZP_Kkw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "OC04sP_QgTI",
+      "speakers": [
+        {
+          "name": "Aparna Dhinkaran",
+          "slug": "aparna-dhinkaran"
+        }
+      ],
+      "organizations": [
+        "CEO Arize"
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "OpVkWc3YnFc",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "3j1dHivahFQ",
+      "speakers": [
+        {
+          "name": "Paul Gilbert",
+          "slug": "paul-gilbert"
+        }
+      ],
+      "organizations": [
+        "Arista Networks"
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "UXOLprPvr-0",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "joHR2pmxDQE",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "VhPfM_aGBVc",
+      "speakers": [
+        {
+          "name": "Alexander Bricken",
+          "slug": "alexander-bricken"
+        },
+        {
+          "name": "Joe Bayley",
+          "slug": "joe-bayley"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "pPvoLjYj_mY",
+      "speakers": [
+        {
+          "name": "Waseem Alshikh",
+          "slug": "waseem-alshikh"
+        }
+      ],
+      "organizations": [
+        "Writer"
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "VZzUhELgYk4",
+      "speakers": [
+        {
+          "name": "Diamond Bishop",
+          "slug": "diamond-bishop"
+        }
+      ],
+      "organizations": [
+        "Datadog"
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "HS5a8VIKsvA",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "q_ixa5EW8DY",
+      "speakers": [
+        {
+          "name": "Heath Black",
+          "slug": "heath-black"
+        }
+      ],
+      "organizations": [
+        "SignalFire"
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "89aQ7T6cMwA",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "n9rjuBuShko",
+      "speakers": [
+        {
+          "name": "Xiaofeng Wang",
+          "slug": "xiaofeng-wang"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "BWqB6aatreE",
+      "speakers": [
+        {
+          "name": "Barr Yaron",
+          "slug": "barr-yaron"
+        }
+      ],
+      "organizations": [
+        "Amplify"
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "G7aSH6N7qY4",
+      "speakers": [
+        {
+          "name": "Don Bosco Durai",
+          "slug": "don-bosco-durai"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    },
+    {
+      "youtubeId": "xq9sz5MksVI",
+      "speakers": [
+        {
+          "name": "Shirsha Chaudhuri",
+          "slug": "shirsha-chaudhuri"
+        }
+      ],
+      "organizations": [
+        "Thomson Reuters Labs"
+      ],
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
+    }
+  ]
+}

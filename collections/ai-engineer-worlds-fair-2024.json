@@ -1,0 +1,999 @@
+{
+  "schemaVersion": "1.0",
+  "slug": "ai-engineer-worlds-fair-2024",
+  "title": "AI Engineer World's Fair 2024",
+  "description": "Talks from AI Engineer World's Fair 2024, drafted from the AI Engineer channel's own playlists. Editorial metadata is best-effort parsed and under review.",
+  "author": {
+    "name": "Denver Peterson",
+    "url": "https://denverpeterson.com"
+  },
+  "source": {
+    "type": "curated",
+    "homepage": "https://www.youtube.com/@aiDotEngineer"
+  },
+  "defaultRanking": "views",
+  "videos": [
+    {
+      "youtubeId": "PNjMwdCo_YM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "apZXpgU_klw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "himhGiWJXjo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "JbyictbPFV0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "-zzP0EUsZz4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "8k848OeLc9E",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "NamKkerrlnQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "EuC1GWhQdKE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "xhQfRSueFZI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "nZEaxaKmTG0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "7TnkqfX84gI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "90Ir4TMMbS0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "qBHfQT3YtyY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "eTTMUWP5B0s",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "-mRi-B3t6fA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "zeAyuLc_f3Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "yJHw33cVeHo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "Bey_6TUttT8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
+    },
+    {
+      "youtubeId": "lG_8rgQqxfc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
+    },
+    {
+      "youtubeId": "1B9i7FBsRVQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
+    },
+    {
+      "youtubeId": "heYmh_lsX5s",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
+    },
+    {
+      "youtubeId": "n0qemluQDtQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
+    },
+    {
+      "youtubeId": "R3hTescenDw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
+    },
+    {
+      "youtubeId": "Ju9PeKEKb24",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
+    },
+    {
+      "youtubeId": "bjNYEc908oQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
+    },
+    {
+      "youtubeId": "Dc99-zTMyMg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
+    },
+    {
+      "youtubeId": "dRQHikOrH2A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
+    },
+    {
+      "youtubeId": "x8HbIJh2wpQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
+    },
+    {
+      "youtubeId": "T7sxvrJLJ14",
+      "speakers": [
+        {
+          "name": "Vikhyat Korrapati",
+          "slug": "vikhyat-korrapati"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
+    },
+    {
+      "youtubeId": "U9DPRZ0lSIQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
+    },
+    {
+      "youtubeId": "qpmZID27t98",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
+    },
+    {
+      "youtubeId": "i2vBaFzCEJw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
+    },
+    {
+      "youtubeId": "5nOLb27hQ5w",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
+    },
+    {
+      "youtubeId": "ePMvfa8vgL8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
+    },
+    {
+      "youtubeId": "tQTB4MU_z8w",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
+    },
+    {
+      "youtubeId": "gFyBdBm0AGo",
+      "speakers": [
+        {
+          "name": "Dylan Patel",
+          "slug": "dylan-patel"
+        }
+      ],
+      "organizations": [
+        "SemiAnalysis"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
+    },
+    {
+      "youtubeId": "Xmkl27AM2VQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
+    },
+    {
+      "youtubeId": "zHYQZFy0UVk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
+    },
+    {
+      "youtubeId": "gADhNzFjGeI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
+    },
+    {
+      "youtubeId": "C1CXwRYbwuQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
+    },
+    {
+      "youtubeId": "T7NWjoD_OuY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
+    },
+    {
+      "youtubeId": "ckLXb15BnM8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
+    },
+    {
+      "youtubeId": "2Ey275TX4ZU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
+    },
+    {
+      "youtubeId": "8RbTZl7bs5U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
+    },
+    {
+      "youtubeId": "DId2KP8Ykz4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
+    },
+    {
+      "youtubeId": "cS6M6Jec0lU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
+    },
+    {
+      "youtubeId": "pZ4DIH2BVqg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
+    },
+    {
+      "youtubeId": "knDDGYHnnSI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
+    },
+    {
+      "youtubeId": "L0kBWyziFlc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
+    },
+    {
+      "youtubeId": "TNwJ1LMiENk",
+      "speakers": [
+        {
+          "name": "Kobie Crawford",
+          "slug": "kobie-crawford"
+        }
+      ],
+      "organizations": [
+        "Snorkel"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
+    },
+    {
+      "youtubeId": "zMiSRliEzv4",
+      "speakers": [
+        {
+          "name": "Joshua Snyder",
+          "slug": "joshua-snyder"
+        }
+      ],
+      "organizations": [
+        "PostHog"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
+    },
+    {
+      "youtubeId": "SKDJo2CopRs",
+      "speakers": [
+        {
+          "name": "Sunil Pai",
+          "slug": "sunil-pai"
+        },
+        {
+          "name": "Matt Carey",
+          "slug": "matt-carey"
+        }
+      ],
+      "organizations": [
+        "Cloudflare"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
+    },
+    {
+      "youtubeId": "QuuIywMG4s8",
+      "speakers": [
+        {
+          "name": "Ara Khan",
+          "slug": "ara-khan"
+        }
+      ],
+      "organizations": [
+        "Cline"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
+    },
+    {
+      "youtubeId": "XBaznoTRDFI",
+      "speakers": [
+        {
+          "name": "Phil Hetzel",
+          "slug": "phil-hetzel"
+        }
+      ],
+      "organizations": [
+        "Braintrust"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
+    },
+    {
+      "youtubeId": "-hYqt8M9u_M",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
+    },
+    {
+      "youtubeId": "nbZzSC5A6hs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
+    },
+    {
+      "youtubeId": "fOtTHWeU6B8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
+    },
+    {
+      "youtubeId": "42q8OmAF_Gw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
+    },
+    {
+      "youtubeId": "eLXF0VojuSs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
+    },
+    {
+      "youtubeId": "IIL2tE4n1Q0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
+    },
+    {
+      "youtubeId": "9tvJ_GYJA-o",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "5qNXdLbEdew",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "IxXMKT2FDRk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "khcMErjUB8k",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "uiq95JYpBGY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "KJsUHnwSvTY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "0oTlgBfzNJ0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "3E7VAZaTG9M",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "AVjrkXGnF2M",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "jdeMJJ_oNYg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "mpzktdYTcdE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "u3NofYYstaY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "gWLVu9OGvBg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "_2tZaDs-w5s",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
+    },
+    {
+      "youtubeId": "GVbPiq3Pet0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
+    },
+    {
+      "youtubeId": "utTqdQpe39A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
+    },
+    {
+      "youtubeId": "LJa1SjCkYas",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
+    },
+    {
+      "youtubeId": "uhoPM-ABuV0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
+    },
+    {
+      "youtubeId": "gL9kfxt6uo0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
+    },
+    {
+      "youtubeId": "YcOrV-TLNyQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
+    },
+    {
+      "youtubeId": "NjNEdjDvKu8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
+    },
+    {
+      "youtubeId": "Yn5HeXsS2zo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
+    },
+    {
+      "youtubeId": "qD5fPqrRHRA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
+    },
+    {
+      "youtubeId": "CoaL4JZKsWI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "idDnpGqJd80",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "2Wtq2GvUicw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "z_Xh2MzqKDM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "sKiTUuEV1rw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "k0VIgKAUkP4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "T60Tj25J4Zw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "a0WvaMRZ9hc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "2DyHW23L6Cs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "IRp7lvBlbHs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "ib-wTAvCZqg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "7_WhRAuP2Wg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "Lko9lTGD_9U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "ksgLoPxEQzM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "R7xlYs5p0yA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "zwItokY087U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "hkhDdcM5V94",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "1t-9-s1brcg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "pRM_P6UfdIc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    }
+  ]
+}

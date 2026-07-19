@@ -10,1150 +10,3124 @@
   "defaultRanking": "views",
   "videos": [
     {
-      "youtubeId": "-561cZmir5Q"
+      "youtubeId": "-561cZmir5Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "lMCxVorb9wM"
+      "youtubeId": "lMCxVorb9wM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "JJGbw4ggaFs"
+      "youtubeId": "JJGbw4ggaFs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "3z2uT5aDx_Y"
+      "youtubeId": "3z2uT5aDx_Y",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "XLEYtv3cMlw"
+      "youtubeId": "XLEYtv3cMlw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "3ySF0I5iE_0"
+      "youtubeId": "3ySF0I5iE_0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "L3RuP_q8Bwc"
+      "youtubeId": "L3RuP_q8Bwc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "eAXxdtNlK04"
+      "youtubeId": "eAXxdtNlK04",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Bck7ABCZRZI"
+      "youtubeId": "Bck7ABCZRZI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "yv6xovSsB1U"
+      "youtubeId": "yv6xovSsB1U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Fu45geO3zX8"
+      "youtubeId": "Fu45geO3zX8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "bZISsg7H7DA"
+      "youtubeId": "bZISsg7H7DA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "zU4EagB311U"
+      "youtubeId": "zU4EagB311U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "c35YoMdnI78"
+      "youtubeId": "c35YoMdnI78",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "uIiA6DquRiE"
+      "youtubeId": "uIiA6DquRiE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "RGSFUqzqErE"
+      "youtubeId": "RGSFUqzqErE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "1P1hJ36rxM0"
+      "youtubeId": "1P1hJ36rxM0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "9QebvrrY3KY"
+      "youtubeId": "9QebvrrY3KY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "eBUyTS7SzV4"
+      "youtubeId": "eBUyTS7SzV4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "Z2Erdirpudo"
+      "youtubeId": "Z2Erdirpudo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
     },
     {
-      "youtubeId": "iCj_ATyThvc"
+      "youtubeId": "iCj_ATyThvc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "ZSQb5fzRFPw"
+      "youtubeId": "ZSQb5fzRFPw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "q4Tr-DknG2M"
+      "youtubeId": "q4Tr-DknG2M",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "uU5Gv2h8-9g"
+      "youtubeId": "uU5Gv2h8-9g",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "8G_1-3IO4ZQ"
+      "youtubeId": "8G_1-3IO4ZQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "0vphxNt4wyk"
+      "youtubeId": "0vphxNt4wyk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "APqXGyCoGW4"
+      "youtubeId": "APqXGyCoGW4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "n97BCfyFIvw"
+      "youtubeId": "n97BCfyFIvw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "-CnA2lGfymY"
+      "youtubeId": "-CnA2lGfymY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "O3FEoMYvUf8"
+      "youtubeId": "O3FEoMYvUf8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "OqM67QG_Ikk"
+      "youtubeId": "OqM67QG_Ikk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "V-EDrhIhHzQ"
+      "youtubeId": "V-EDrhIhHzQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "8oyalrfwgjw"
+      "youtubeId": "8oyalrfwgjw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "7JgIS42mz7U"
+      "youtubeId": "7JgIS42mz7U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "EUsPvBeIx70"
+      "youtubeId": "EUsPvBeIx70",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "sum9DgexFRQ"
+      "youtubeId": "sum9DgexFRQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "UlFB6efYN5Q"
+      "youtubeId": "UlFB6efYN5Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "TJPInBjhE4Q"
+      "youtubeId": "TJPInBjhE4Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "5192csoTkVo"
+      "youtubeId": "5192csoTkVo",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "7P0elyLIxXo"
+      "youtubeId": "7P0elyLIxXo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "xg1zNlzw7Jk"
+      "youtubeId": "xg1zNlzw7Jk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "vJukHCIv7Ck"
+      "youtubeId": "vJukHCIv7Ck",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "jtzh-GBXBWc"
+      "youtubeId": "jtzh-GBXBWc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "RGiXcVxSD3s"
+      "youtubeId": "RGiXcVxSD3s",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "KB41dTlX1Uc"
+      "youtubeId": "KB41dTlX1Uc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "WLXxTaPagA8"
+      "youtubeId": "WLXxTaPagA8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "9arM9b7JgOo"
+      "youtubeId": "9arM9b7JgOo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "GdvKNwMcfd0"
+      "youtubeId": "GdvKNwMcfd0",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "YZQsWVeN3rE"
+      "youtubeId": "YZQsWVeN3rE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "VrpEyglYgeU"
+      "youtubeId": "VrpEyglYgeU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "WkBPX-oDMnA"
+      "youtubeId": "WkBPX-oDMnA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
     },
     {
-      "youtubeId": "ZpK5PWX2YRM"
+      "youtubeId": "ZpK5PWX2YRM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "pMggiOb18tc"
+      "youtubeId": "pMggiOb18tc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "xUnRQ9vLXxo"
+      "youtubeId": "xUnRQ9vLXxo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "grdoOC1BT1s"
+      "youtubeId": "grdoOC1BT1s",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "iRcX54EO5g8"
+      "youtubeId": "iRcX54EO5g8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
       "youtubeId": "HsxQICTLF84"
     },
     {
-      "youtubeId": "HEFSExa0xl0"
+      "youtubeId": "HEFSExa0xl0",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "MpZzWMdmQCE"
+      "youtubeId": "MpZzWMdmQCE",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "BqZrTdgBaPw"
+      "youtubeId": "BqZrTdgBaPw",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "4kYl2_mqmnQ"
+      "youtubeId": "4kYl2_mqmnQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "IQkVMvXQKLY"
+      "youtubeId": "IQkVMvXQKLY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "G6IlDzj8OjA"
+      "youtubeId": "G6IlDzj8OjA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "qdZzND79mcg"
+      "youtubeId": "qdZzND79mcg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "1IdzkRVmWAA"
+      "youtubeId": "1IdzkRVmWAA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "2e9ANoOEn28"
+      "youtubeId": "2e9ANoOEn28",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "CDqzWpwkSls"
+      "youtubeId": "CDqzWpwkSls",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "CLttOU7n6sI"
+      "youtubeId": "CLttOU7n6sI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "bRnoEpoK5m4"
+      "youtubeId": "bRnoEpoK5m4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "UcYoMg-8-L8"
+      "youtubeId": "UcYoMg-8-L8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Rx8f05JI_WA"
+      "youtubeId": "Rx8f05JI_WA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "9fubhllmsBU"
+      "youtubeId": "9fubhllmsBU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
     },
     {
-      "youtubeId": "kZsf_Sfm7RU"
+      "youtubeId": "kZsf_Sfm7RU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "2IxD9OB3XuQ"
+      "youtubeId": "2IxD9OB3XuQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "sAOBXCDiDOs"
+      "youtubeId": "sAOBXCDiDOs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "d_Ftrl3vfV0"
+      "youtubeId": "d_Ftrl3vfV0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
       "youtubeId": "I2cbIws9j10"
     },
     {
-      "youtubeId": "hVJOnuhFmTA"
+      "youtubeId": "hVJOnuhFmTA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "4sX_He5c4sI"
+      "youtubeId": "4sX_He5c4sI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "htM02KMNZnk"
+      "youtubeId": "htM02KMNZnk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "UNzCG3lw6O0"
+      "youtubeId": "UNzCG3lw6O0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "fWXJM-J0ZB8"
+      "youtubeId": "fWXJM-J0ZB8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "spNAUEgq_A8"
+      "youtubeId": "spNAUEgq_A8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "6bmM45jkMDY"
+      "youtubeId": "6bmM45jkMDY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "APh1Vx0oLmQ"
+      "youtubeId": "APh1Vx0oLmQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "pSto5YaNGUo"
+      "youtubeId": "pSto5YaNGUo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "DqtmZE6Hl0g"
+      "youtubeId": "DqtmZE6Hl0g",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "LrGCT7G_rU8"
+      "youtubeId": "LrGCT7G_rU8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Lc8zRh9muoY"
+      "youtubeId": "Lc8zRh9muoY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "65X0pQ6Lmbg"
+      "youtubeId": "65X0pQ6Lmbg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Iwe_RY-fYgI"
+      "youtubeId": "Iwe_RY-fYgI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "dRmWYHuIJxM"
+      "youtubeId": "dRmWYHuIJxM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "uiP88SpCi1Q"
+      "youtubeId": "uiP88SpCi1Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "akk6KRlcwW4"
+      "youtubeId": "akk6KRlcwW4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Akm1sqvWG4A"
+      "youtubeId": "Akm1sqvWG4A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "T0HhO4YtTfE"
+      "youtubeId": "T0HhO4YtTfE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "XovaGv4f39A"
+      "youtubeId": "XovaGv4f39A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "OXMMN-XbxwA"
+      "youtubeId": "OXMMN-XbxwA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "whue9_YquGA"
+      "youtubeId": "whue9_YquGA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "JRTAtZ5iBkU"
+      "youtubeId": "JRTAtZ5iBkU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "IddXPepIAS4"
+      "youtubeId": "IddXPepIAS4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Jx4ZFEAq6bY"
+      "youtubeId": "Jx4ZFEAq6bY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "-x5GEVnkuRw"
+      "youtubeId": "-x5GEVnkuRw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "aHhB3sjGjkI"
+      "youtubeId": "aHhB3sjGjkI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "JnubYCYunk8"
+      "youtubeId": "JnubYCYunk8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "vh2VGuQ3zhY"
+      "youtubeId": "vh2VGuQ3zhY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "ij-AU9dpJjc"
+      "youtubeId": "ij-AU9dpJjc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "ZRM_TfEZcIo"
+      "youtubeId": "ZRM_TfEZcIo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "4uFVSLgD2Q4"
+      "youtubeId": "4uFVSLgD2Q4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "jVjt-2g8NMY"
+      "youtubeId": "jVjt-2g8NMY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "UPwGaM2MKHY"
+      "youtubeId": "UPwGaM2MKHY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "3hXJI2q0Jz8"
+      "youtubeId": "3hXJI2q0Jz8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "vljxQZfJ9wY"
+      "youtubeId": "vljxQZfJ9wY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "ZD9-4fW2HhM"
+      "youtubeId": "ZD9-4fW2HhM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "IJXjTLPzvAU"
+      "youtubeId": "IJXjTLPzvAU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
     },
     {
       "youtubeId": "0S8xe9ftGTM"
     },
     {
-      "youtubeId": "ObTPqBGsEbA"
+      "youtubeId": "ObTPqBGsEbA",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "btxGmN8RvNU"
+      "youtubeId": "btxGmN8RvNU",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "gHs5ZiY80PM"
+      "youtubeId": "gHs5ZiY80PM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "c-2eEv2ou7Y"
+      "youtubeId": "c-2eEv2ou7Y",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "iUWwcG-C8OU"
+      "youtubeId": "iUWwcG-C8OU",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "ghJmWQCIHRM"
+      "youtubeId": "ghJmWQCIHRM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "so9l_MwS2yg"
+      "youtubeId": "so9l_MwS2yg",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "TNwJ1LMiENk"
+      "youtubeId": "TNwJ1LMiENk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
     },
     {
-      "youtubeId": "SS-A8sE7hkw"
+      "youtubeId": "SS-A8sE7hkw",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "zMiSRliEzv4"
+      "youtubeId": "zMiSRliEzv4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
     },
     {
-      "youtubeId": "zDGHt0LB-dA"
+      "youtubeId": "zDGHt0LB-dA",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "UM6sFg_jdlE"
+      "youtubeId": "UM6sFg_jdlE",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "Bc6Ojl2XS1w"
+      "youtubeId": "Bc6Ojl2XS1w",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
       "youtubeId": "gUMwt4-5kn0"
     },
     {
-      "youtubeId": "TUnPNY4E2fw"
+      "youtubeId": "TUnPNY4E2fw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
     },
     {
-      "youtubeId": "EcqMYoIV57A"
+      "youtubeId": "EcqMYoIV57A",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "SKDJo2CopRs"
+      "youtubeId": "SKDJo2CopRs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
     },
     {
-      "youtubeId": "JsCCrBF7F1g"
+      "youtubeId": "JsCCrBF7F1g",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "ILdE7FaAjVA"
+      "youtubeId": "ILdE7FaAjVA",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "zTZ0qunQXnM"
+      "youtubeId": "zTZ0qunQXnM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "_xIwFcnHqp4"
+      "youtubeId": "_xIwFcnHqp4",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "QuuIywMG4s8"
+      "youtubeId": "QuuIywMG4s8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
     },
     {
-      "youtubeId": "KLSuFPj2ld0"
+      "youtubeId": "KLSuFPj2ld0",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "_B4Pv9ttFgY"
+      "youtubeId": "_B4Pv9ttFgY",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "pmoDeA3RBZY"
+      "youtubeId": "pmoDeA3RBZY",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "mFLlVpnGpds"
+      "youtubeId": "mFLlVpnGpds",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "r305-aQTaU0"
+      "youtubeId": "r305-aQTaU0",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "iNkFlCiij0U"
+      "youtubeId": "iNkFlCiij0U",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "wcUJWP6WpGM"
+      "youtubeId": "wcUJWP6WpGM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "NmjGfdZLNIs"
+      "youtubeId": "NmjGfdZLNIs",
+      "event": {
+        "name": "AI Engineer Melbourne",
+        "year": 2026,
+        "city": "Melbourne"
+      }
     },
     {
-      "youtubeId": "hCMrEfPG2Yg"
+      "youtubeId": "hCMrEfPG2Yg",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "zKk7sDMGDEQ"
+      "youtubeId": "zKk7sDMGDEQ",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "504PvfXou5Y"
+      "youtubeId": "504PvfXou5Y",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "wjXowoQ7E8c"
+      "youtubeId": "wjXowoQ7E8c",
+      "event": {
+        "name": "AI Engineer Melbourne",
+        "year": 2026,
+        "city": "Melbourne"
+      }
     },
     {
-      "youtubeId": "HvZXAOZ3iv8"
+      "youtubeId": "HvZXAOZ3iv8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "YYH0DMQr30A"
+      "youtubeId": "YYH0DMQr30A",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "KA5kPbdkK2E"
+      "youtubeId": "KA5kPbdkK2E",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "hqHC6Z_lXyo"
+      "youtubeId": "hqHC6Z_lXyo",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "BM2JX9hqsVQ"
+      "youtubeId": "BM2JX9hqsVQ",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "u-rJwPPU3QA"
+      "youtubeId": "u-rJwPPU3QA",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "NuePCNMpWGc"
+      "youtubeId": "NuePCNMpWGc",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
       "youtubeId": "N7b1PJc7SFc"
     },
     {
-      "youtubeId": "UQKg0td-Bf4"
+      "youtubeId": "UQKg0td-Bf4",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "vy7o1g2iHY8"
+      "youtubeId": "vy7o1g2iHY8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "phchDt63qAA"
+      "youtubeId": "phchDt63qAA",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "3_gYbhABcAE"
+      "youtubeId": "3_gYbhABcAE",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "0jeZfjJMfmo"
+      "youtubeId": "0jeZfjJMfmo",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "B9h9ovW5H9U"
+      "youtubeId": "B9h9ovW5H9U",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "V-L0INGTEOg"
+      "youtubeId": "V-L0INGTEOg",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "XBaznoTRDFI"
+      "youtubeId": "XBaznoTRDFI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
     },
     {
-      "youtubeId": "AGkzpxMdPn8"
+      "youtubeId": "AGkzpxMdPn8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "abvQEhvRI_c"
+      "youtubeId": "abvQEhvRI_c",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "li0SaBt9RDM"
+      "youtubeId": "li0SaBt9RDM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "ugUeZ8-b-u0"
+      "youtubeId": "ugUeZ8-b-u0",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "FB-MLPhL9Ms"
+      "youtubeId": "FB-MLPhL9Ms",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "ESbWpPT_9-o"
+      "youtubeId": "ESbWpPT_9-o",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "7CrPrHgoEYk"
+      "youtubeId": "7CrPrHgoEYk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
     },
     {
-      "youtubeId": "BiG2ssibKGc"
+      "youtubeId": "BiG2ssibKGc",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "Ubwb6NzegyA"
+      "youtubeId": "Ubwb6NzegyA",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "NKwIX3CiRgU"
+      "youtubeId": "NKwIX3CiRgU",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "t4359sKBu4w"
+      "youtubeId": "t4359sKBu4w",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "7gujZrJ9L5I"
+      "youtubeId": "7gujZrJ9L5I",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "W-SX_srBa3Y"
+      "youtubeId": "W-SX_srBa3Y",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "WRBNDpUhsJQ"
+      "youtubeId": "WRBNDpUhsJQ",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "LMbeDEQO6QM"
+      "youtubeId": "LMbeDEQO6QM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "5Sui_OnSRlY"
+      "youtubeId": "5Sui_OnSRlY",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "ns9f1fjLD7Y"
+      "youtubeId": "ns9f1fjLD7Y",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "TeGsFFNqRLA"
+      "youtubeId": "TeGsFFNqRLA",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "F1DYkY1BlfM"
+      "youtubeId": "F1DYkY1BlfM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "owH1f0N-keY"
+      "youtubeId": "owH1f0N-keY",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "dyHpnnlkTc8"
+      "youtubeId": "dyHpnnlkTc8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "VaS2h-dY1-4"
+      "youtubeId": "VaS2h-dY1-4",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "JomVvNDjGb8"
+      "youtubeId": "JomVvNDjGb8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "GIRpQEfYf3U"
+      "youtubeId": "GIRpQEfYf3U",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "vNCY9kXXyDQ"
+      "youtubeId": "vNCY9kXXyDQ",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "-TiET_K-E_g"
+      "youtubeId": "-TiET_K-E_g",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "x2bH0RKPgdc"
+      "youtubeId": "x2bH0RKPgdc",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "yUmS-F9IX90"
+      "youtubeId": "yUmS-F9IX90",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "5YSJEP0HWzM"
+      "youtubeId": "5YSJEP0HWzM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
     },
     {
-      "youtubeId": "ObNKGf9YR0g"
+      "youtubeId": "ObNKGf9YR0g",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "BcWFc3H7Khg"
+      "youtubeId": "BcWFc3H7Khg",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "mR-WAvEPRwE"
+      "youtubeId": "mR-WAvEPRwE",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "C_GG5g38vLU"
+      "youtubeId": "C_GG5g38vLU",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "L2r6vLlLgs8"
+      "youtubeId": "L2r6vLlLgs8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "YNJvm7t3yq8"
+      "youtubeId": "YNJvm7t3yq8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "m12vGjfbNlo"
+      "youtubeId": "m12vGjfbNlo",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "FWEInOtngmM"
+      "youtubeId": "FWEInOtngmM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "kfSDc2eVLo4"
+      "youtubeId": "kfSDc2eVLo4",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "eW_vxrjvERk"
+      "youtubeId": "eW_vxrjvERk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
       "youtubeId": "_xQnSNlBP_w"
     },
     {
-      "youtubeId": "VMemhtlsoNk"
+      "youtubeId": "VMemhtlsoNk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "JT3OzDKrucU"
+      "youtubeId": "JT3OzDKrucU",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "4_VQBbs2iQA"
+      "youtubeId": "4_VQBbs2iQA",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "Xfl50508LZM"
+      "youtubeId": "Xfl50508LZM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "iOXM3zE-2dk"
+      "youtubeId": "iOXM3zE-2dk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "vi-2nasppAg"
+      "youtubeId": "vi-2nasppAg",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "OV56RddyFuU"
+      "youtubeId": "OV56RddyFuU",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "FlzpEGHNVKQ"
+      "youtubeId": "FlzpEGHNVKQ",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "VktrqzQgytY"
+      "youtubeId": "VktrqzQgytY",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "wflNENRSUb4"
+      "youtubeId": "wflNENRSUb4",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "X6NShR2ccOg"
+      "youtubeId": "X6NShR2ccOg",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "4VhbYlfC7Gs"
+      "youtubeId": "4VhbYlfC7Gs",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "vAIDdLKB6-w"
+      "youtubeId": "vAIDdLKB6-w",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "ohKt066uFhg"
+      "youtubeId": "ohKt066uFhg",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "zTLJNHj0DeQ"
+      "youtubeId": "zTLJNHj0DeQ",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "svCnShDvgQg"
+      "youtubeId": "svCnShDvgQg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
     },
     {
-      "youtubeId": "esY99nYXxR4"
+      "youtubeId": "esY99nYXxR4",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "ON5LIT0M4do"
+      "youtubeId": "ON5LIT0M4do",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "3jGAU2sbAyY"
+      "youtubeId": "3jGAU2sbAyY",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "P_RI1kCkRbo"
+      "youtubeId": "P_RI1kCkRbo",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "DCZZ3AJKzuc"
+      "youtubeId": "DCZZ3AJKzuc",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "VhfAVA3BG2I"
+      "youtubeId": "VhfAVA3BG2I",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "x8Yb4RidLgM"
+      "youtubeId": "x8Yb4RidLgM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "ynJyIKwjonM"
+      "youtubeId": "ynJyIKwjonM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "A48uhxfxbsM"
+      "youtubeId": "A48uhxfxbsM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "Wmp2Tku2PrI"
+      "youtubeId": "Wmp2Tku2PrI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
     },
     {
-      "youtubeId": "-aM2EDTiaMs"
+      "youtubeId": "-aM2EDTiaMs",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "pFsfax19yOM"
+      "youtubeId": "pFsfax19yOM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "ow1we5PzK-o"
+      "youtubeId": "ow1we5PzK-o",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "o-zkvb0iFDQ"
+      "youtubeId": "o-zkvb0iFDQ",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "qdh_x-uRs9g"
+      "youtubeId": "qdh_x-uRs9g",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
     },
     {
-      "youtubeId": "Lm8BLHkxiAo"
+      "youtubeId": "Lm8BLHkxiAo",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "_QAVExf_1uw"
+      "youtubeId": "_QAVExf_1uw",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "UsB70Tf5zcE"
+      "youtubeId": "UsB70Tf5zcE",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "GmAQKINjv1E"
+      "youtubeId": "GmAQKINjv1E",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "2TLXsxkz0zI"
+      "youtubeId": "2TLXsxkz0zI",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "BKWpYIWvAo4"
+      "youtubeId": "BKWpYIWvAo4",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "5ID22ACI7IM"
+      "youtubeId": "5ID22ACI7IM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "bSG9wUYaHWU"
+      "youtubeId": "bSG9wUYaHWU",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "tDArkCqjA-c"
+      "youtubeId": "tDArkCqjA-c",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "sJ2jc7leKBk"
+      "youtubeId": "sJ2jc7leKBk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "W76woOYHlvY"
+      "youtubeId": "W76woOYHlvY",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "CrqPcIZOOXA"
+      "youtubeId": "CrqPcIZOOXA",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "sPUjIBH5Cwg"
+      "youtubeId": "sPUjIBH5Cwg",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "ZdheJTfLu-s"
+      "youtubeId": "ZdheJTfLu-s",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "zepu8Kk6FBQ"
+      "youtubeId": "zepu8Kk6FBQ",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "cVzf49yg0D8"
+      "youtubeId": "cVzf49yg0D8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
       "youtubeId": "juoNbJiZUi0"
     },
     {
-      "youtubeId": "WE_Gnowy3uw"
+      "youtubeId": "WE_Gnowy3uw",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "MhHEGMFCEB0"
+      "youtubeId": "MhHEGMFCEB0",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "G_bHFmEAarM"
+      "youtubeId": "G_bHFmEAarM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "fLUtUkqYHnQ"
+      "youtubeId": "fLUtUkqYHnQ",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "rnDm57Py54A"
+      "youtubeId": "rnDm57Py54A",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "_fQ7Z_Wfouk"
+      "youtubeId": "_fQ7Z_Wfouk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "EmhRyw6xeT0"
+      "youtubeId": "EmhRyw6xeT0",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "_A367W_qvc8"
+      "youtubeId": "_A367W_qvc8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "0n3MKk7r60w"
+      "youtubeId": "0n3MKk7r60w",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "CD6R4Wf3jnY"
+      "youtubeId": "CD6R4Wf3jnY",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "ClWD8OEYgp8"
+      "youtubeId": "ClWD8OEYgp8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "YBYUvGOuotE"
+      "youtubeId": "YBYUvGOuotE",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "kR64LOqBBCU"
+      "youtubeId": "kR64LOqBBCU",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "-QFHIoCo-Ko"
+      "youtubeId": "-QFHIoCo-Ko",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "R7A8rX-09Zw"
+      "youtubeId": "R7A8rX-09Zw",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "4fntwuOoedA"
+      "youtubeId": "4fntwuOoedA",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "v4F1gFy-hqg"
+      "youtubeId": "v4F1gFy-hqg",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "XNtkiQJ49Ps"
+      "youtubeId": "XNtkiQJ49Ps",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "DeM_u2Ik0sk"
+      "youtubeId": "DeM_u2Ik0sk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "xOP1PM8fwnk"
+      "youtubeId": "xOP1PM8fwnk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "CS5Cmz5FssI"
+      "youtubeId": "CS5Cmz5FssI",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "wjk0ulMAkbc"
+      "youtubeId": "wjk0ulMAkbc",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "a2muGkT4WD4"
+      "youtubeId": "a2muGkT4WD4",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "6IxSbMhT7v4"
+      "youtubeId": "6IxSbMhT7v4",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "mYSRn6PC1mc"
+      "youtubeId": "mYSRn6PC1mc",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "XKup1pj-34M"
+      "youtubeId": "XKup1pj-34M",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "_gVFUEdhCyI"
+      "youtubeId": "_gVFUEdhCyI",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "8txf05vVVl4"
+      "youtubeId": "8txf05vVVl4",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "v3Fr2JR47KA"
+      "youtubeId": "v3Fr2JR47KA",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "zZsTVBXcbow"
+      "youtubeId": "zZsTVBXcbow",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "_Zcw_sVF6hU"
+      "youtubeId": "_Zcw_sVF6hU",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "zgNvts_2TUE"
+      "youtubeId": "zgNvts_2TUE",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "am_oeAoUhew"
+      "youtubeId": "am_oeAoUhew",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "RjfbvDXpFls"
+      "youtubeId": "RjfbvDXpFls",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "YZHPEkfy2kc"
+      "youtubeId": "YZHPEkfy2kc",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "h403btjldDQ"
+      "youtubeId": "h403btjldDQ",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "_zdroS0Hc74"
+      "youtubeId": "_zdroS0Hc74",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "VXfRt_H-V08"
+      "youtubeId": "VXfRt_H-V08",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "X4dEHRzBLmc"
+      "youtubeId": "X4dEHRzBLmc",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "XZ0boOjtbNo"
+      "youtubeId": "XZ0boOjtbNo",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "c5-kx2bwoCk"
+      "youtubeId": "c5-kx2bwoCk",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "O_IMsEg91g8"
+      "youtubeId": "O_IMsEg91g8",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      }
     },
     {
-      "youtubeId": "IEF842ZEU5A"
+      "youtubeId": "IEF842ZEU5A",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "4TxOBhDRRCM"
+      "youtubeId": "4TxOBhDRRCM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "2czYyrTzILg"
+      "youtubeId": "2czYyrTzILg",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "u0TOSBbAw7c"
+      "youtubeId": "u0TOSBbAw7c",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "cCRO3ChaYhM"
+      "youtubeId": "cCRO3ChaYhM",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "AHtGAgQ0Q_Q"
+      "youtubeId": "AHtGAgQ0Q_Q",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "BurJvbqFr4c"
+      "youtubeId": "BurJvbqFr4c",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "71V3fTaUp2Q"
+      "youtubeId": "71V3fTaUp2Q",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "U00AOI1eJUE"
+      "youtubeId": "U00AOI1eJUE",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "BEKc4P87XKo"
+      "youtubeId": "BEKc4P87XKo",
+      "event": {
+        "name": "AIE Europe",
+        "year": 2026
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "k1t2xyWMUdY"
+      "youtubeId": "k1t2xyWMUdY",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "VSdV-AdSlis"
+      "youtubeId": "VSdV-AdSlis",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "k8cnVCMYmNc"
+      "youtubeId": "k8cnVCMYmNc",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "96G7FLab8xc"
+      "youtubeId": "96G7FLab8xc",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "HY_JyxAZsiE"
+      "youtubeId": "HY_JyxAZsiE",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "-cKUW6n8hBU"
+      "youtubeId": "-cKUW6n8hBU",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "rcsliSIy_YU"
+      "youtubeId": "rcsliSIy_YU",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "SbcQYbrvAfI"
+      "youtubeId": "SbcQYbrvAfI",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "kmV-qg4uoNI"
+      "youtubeId": "kmV-qg4uoNI",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "TqC1qOfiVcQ"
+      "youtubeId": "TqC1qOfiVcQ",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "mdEh4lBO_R0"
+      "youtubeId": "mdEh4lBO_R0",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "xz0-brt56L8"
+      "youtubeId": "xz0-brt56L8",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
       "youtubeId": "Jty4s9-Jb78"
     },
     {
-      "youtubeId": "OGCG_QkCcZo"
+      "youtubeId": "OGCG_QkCcZo",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "2HNSG990Ew8"
+      "youtubeId": "2HNSG990Ew8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "RFKCzGlAU6Q"
+      "youtubeId": "RFKCzGlAU6Q",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "RhfqQKe22ZA"
+      "youtubeId": "RhfqQKe22ZA",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
       "youtubeId": "LU9KgcZDRfY"
     },
     {
-      "youtubeId": "rT2Del5pwg4"
+      "youtubeId": "rT2Del5pwg4",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
       "youtubeId": "pP_dSNz_EdQ"
     },
     {
-      "youtubeId": "ShuJ_CN6zr4"
+      "youtubeId": "ShuJ_CN6zr4",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "gvIAkmZUEZY"
+      "youtubeId": "gvIAkmZUEZY",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "MLhAA9yguwM"
+      "youtubeId": "MLhAA9yguwM",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "IoiHI7p12Ao"
+      "youtubeId": "IoiHI7p12Ao",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
       "youtubeId": "eIoohUmYpGI"
     },
     {
-      "youtubeId": "o4scJaQgnFA"
+      "youtubeId": "o4scJaQgnFA",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "PmZDupFP3UM"
+      "youtubeId": "PmZDupFP3UM",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "4mRekpZpBZs"
+      "youtubeId": "4mRekpZpBZs",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "RQ5Jt8zDBp8"
+      "youtubeId": "RQ5Jt8zDBp8",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "MGzymaYBiss"
+      "youtubeId": "MGzymaYBiss",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "ehQFj6VmuI8"
+      "youtubeId": "ehQFj6VmuI8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "6guQG_tGt0o"
+      "youtubeId": "6guQG_tGt0o",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "sYgE4ppDFOQ"
+      "youtubeId": "sYgE4ppDFOQ",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "RmJ4rTLV_x4"
+      "youtubeId": "RmJ4rTLV_x4",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "Q81AzlA-VE8"
+      "youtubeId": "Q81AzlA-VE8",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "fgkXEIbZpGc"
+      "youtubeId": "fgkXEIbZpGc",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "tHN44yJoeS8"
+      "youtubeId": "tHN44yJoeS8",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "JV-wY5pxXLo"
+      "youtubeId": "JV-wY5pxXLo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
       "youtubeId": "lY1iFbDPRlw"
     },
     {
-      "youtubeId": "v3u8xc0zLec"
+      "youtubeId": "v3u8xc0zLec",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "SZStlIhyTCY"
+      "youtubeId": "SZStlIhyTCY",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "I8fs4omN1no"
+      "youtubeId": "I8fs4omN1no",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "rgjF5o2Qjsc"
+      "youtubeId": "rgjF5o2Qjsc",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "JvosMkuNxF8"
+      "youtubeId": "JvosMkuNxF8",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
       "youtubeId": "p1CmPZ2j6Lk"
     },
     {
-      "youtubeId": "_IzZWeuTx7I"
+      "youtubeId": "_IzZWeuTx7I",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "o15AaYl7Wu0"
+      "youtubeId": "o15AaYl7Wu0",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "CEvIs9y1uog"
+      "youtubeId": "CEvIs9y1uog",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "7Dtu2bilcFs"
+      "youtubeId": "7Dtu2bilcFs",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "hwCmfThIiS4"
+      "youtubeId": "hwCmfThIiS4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "TnSGx36Ly0Q"
+      "youtubeId": "TnSGx36Ly0Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "wVl6ZjELpBk"
+      "youtubeId": "wVl6ZjELpBk",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "aqW68Is_Kj4"
+      "youtubeId": "aqW68Is_Kj4",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "rmvDxxNubIg"
+      "youtubeId": "rmvDxxNubIg",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "HN-F-OQe6j0"
+      "youtubeId": "HN-F-OQe6j0",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
-      "youtubeId": "fL1iJHtl51Q"
+      "youtubeId": "fL1iJHtl51Q",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
     },
     {
       "youtubeId": "xAfp-znTRx8"
     },
     {
-      "youtubeId": "q2nHsJVy4FE"
+      "youtubeId": "q2nHsJVy4FE",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "qLqttdO33UM"
+      "youtubeId": "qLqttdO33UM",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "qqXdLf3wy1E"
+      "youtubeId": "qqXdLf3wy1E",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "zMXKhhwiCIc"
+      "youtubeId": "zMXKhhwiCIc",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "zfvEMNmVlNY"
+      "youtubeId": "zfvEMNmVlNY",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "5eJqXtevlXg"
+      "youtubeId": "5eJqXtevlXg",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "JsKTQbT58BY"
+      "youtubeId": "JsKTQbT58BY",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "LLuKshphGOE"
+      "youtubeId": "LLuKshphGOE",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "NTBX-wxUhHs"
+      "youtubeId": "NTBX-wxUhHs",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Q5IVm_CxN2w"
+      "youtubeId": "Q5IVm_CxN2w",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "QRWdapxMdSY"
+      "youtubeId": "QRWdapxMdSY",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "WqZq8L-v9pA"
+      "youtubeId": "WqZq8L-v9pA",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "fh9LgKXBGnQ"
+      "youtubeId": "fh9LgKXBGnQ",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "flf_IKnFYnE"
+      "youtubeId": "flf_IKnFYnE",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "kWOQS3XPZ10"
+      "youtubeId": "kWOQS3XPZ10",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "o3gmwzo-Mik"
+      "youtubeId": "o3gmwzo-Mik",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "m6MF1OR_9kM"
+      "youtubeId": "m6MF1OR_9kM",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
       "youtubeId": "xmbSQz-PNMM"
     },
     {
-      "youtubeId": "cMSprbJ95jg"
+      "youtubeId": "cMSprbJ95jg",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
     },
     {
       "youtubeId": "wyUdpmj9-64"
@@ -1162,442 +3136,1191 @@
       "youtubeId": "d6dp_dwgpYQ"
     },
     {
-      "youtubeId": "bCGbuyv8PMk"
-    },
-    {
-      "youtubeId": "12v5S1n1eOY"
-    },
-    {
-      "youtubeId": "a4BV0gGmXgA"
-    },
-    {
-      "youtubeId": "h5ItAJuB3Fc"
-    },
-    {
-      "youtubeId": "08mH36_NVos"
-    },
-    {
-      "youtubeId": "CiMVKnX-CNI"
-    },
-    {
-      "youtubeId": "OMGPvW8TBHc"
-    },
-    {
-      "youtubeId": "m0dxZ-NDKHo"
-    },
-    {
-      "youtubeId": "9AQOvT8LnMI"
-    },
-    {
-      "youtubeId": "L8-5ezsoI5A"
-    },
-    {
-      "youtubeId": "avWhreBUYF0"
-    },
-    {
-      "youtubeId": "MC55hdWLq4o"
-    },
-    {
-      "youtubeId": "IHkyFhU6JEY"
-    },
-    {
-      "youtubeId": "jryZvCuA0Uc"
-    },
-    {
-      "youtubeId": "qdmxApz3EJI"
-    },
-    {
-      "youtubeId": "L8OoYeDI_ls"
-    },
-    {
-      "youtubeId": "CQGuvf6gSrM"
-    },
-    {
-      "youtubeId": "n991Yxo1aOI"
-    },
-    {
-      "youtubeId": "nxuTVd7v7dg"
-    },
-    {
-      "youtubeId": "IQc05eCvNYE"
-    },
-    {
-      "youtubeId": "-T6uZYYzkWw"
-    },
-    {
-      "youtubeId": "g03m-WFEu1U"
-    },
-    {
-      "youtubeId": "Dc3qOA9WOnE"
-    },
-    {
-      "youtubeId": "eOxOzcw70f0"
-    },
-    {
-      "youtubeId": "WJjInLeaJjo"
-    },
-    {
-      "youtubeId": "3MZS5gNElZM"
-    },
-    {
-      "youtubeId": "Dj0b_cEBHBI"
-    },
-    {
-      "youtubeId": "mQ7_Zje7WKE"
-    },
-    {
-      "youtubeId": "8SUJEqQNClw"
-    },
-    {
-      "youtubeId": "M6Vbaig1TsM"
-    },
-    {
-      "youtubeId": "2goSS66XRBk"
-    },
-    {
-      "youtubeId": "Y2qc0UhDSnc"
-    },
-    {
-      "youtubeId": "IA4lZjh9sTs"
-    },
-    {
-      "youtubeId": "MPtCBaZn84A"
-    },
-    {
-      "youtubeId": "kDczF4wBh8s"
-    },
-    {
-      "youtubeId": "1v9zBiZKlIY"
-    },
-    {
-      "youtubeId": "E71YtNbCFXY"
-    },
-    {
-      "youtubeId": "rD23-VZZHOo"
-    },
-    {
-      "youtubeId": "Gi4V8viBGYQ"
-    },
-    {
-      "youtubeId": "CCsWZ5bJlO8"
-    },
-    {
-      "youtubeId": "blmAkayzE8M"
-    },
-    {
-      "youtubeId": "kv-QAuKWllQ"
-    },
-    {
-      "youtubeId": "w7IMuYsBNr8"
-    },
-    {
-      "youtubeId": "wRJD0inpmjU"
-    },
-    {
-      "youtubeId": "W1MiZChnkfA"
-    },
-    {
-      "youtubeId": "KWmkMV0FNwQ"
-    },
-    {
-      "youtubeId": "w9u11ioHGA0"
-    },
-    {
-      "youtubeId": "xnXqpUW_Kp8"
-    },
-    {
-      "youtubeId": "jxrGodnopHo"
-    },
-    {
-      "youtubeId": "MRM7oA3JsFs"
-    },
-    {
-      "youtubeId": "PthmdT92qNg"
-    },
-    {
-      "youtubeId": "mHzJhXppwUA"
-    },
-    {
-      "youtubeId": "xzJdSi2Tsqw"
-    },
-    {
-      "youtubeId": "yG5d5UaGz1M"
-    },
-    {
-      "youtubeId": "UG9IAdmi2Dg"
-    },
-    {
-      "youtubeId": "mWKYvT9Lc50"
-    },
-    {
-      "youtubeId": "wNH3q9pqn0U"
-    },
-    {
-      "youtubeId": "1izYWsokr9s"
-    },
-    {
-      "youtubeId": "Fzb1a24hF-o"
-    },
-    {
-      "youtubeId": "YYNXFsUutbM"
-    },
-    {
-      "youtubeId": "89NuzmKokIk"
-    },
-    {
-      "youtubeId": "6AVMHZPjpTQ"
-    },
-    {
-      "youtubeId": "4Xe_iMYxBQc"
-    },
-    {
-      "youtubeId": "Ahtaha9fEM0"
-    },
-    {
-      "youtubeId": "cGLa8DsOYdk"
-    },
-    {
-      "youtubeId": "iS9YFW28XyM"
-    },
-    {
-      "youtubeId": "wXVvfFMTyzY"
+      "youtubeId": "bCGbuyv8PMk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "12v5S1n1eOY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "a4BV0gGmXgA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "h5ItAJuB3Fc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "08mH36_NVos",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "CiMVKnX-CNI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
+    },
+    {
+      "youtubeId": "OMGPvW8TBHc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "m0dxZ-NDKHo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "9AQOvT8LnMI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "L8-5ezsoI5A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "avWhreBUYF0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "MC55hdWLq4o",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "IHkyFhU6JEY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "jryZvCuA0Uc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "qdmxApz3EJI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "L8OoYeDI_ls",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "CQGuvf6gSrM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "n991Yxo1aOI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "nxuTVd7v7dg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "IQc05eCvNYE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "-T6uZYYzkWw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "g03m-WFEu1U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Dc3qOA9WOnE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "eOxOzcw70f0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "WJjInLeaJjo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Agent Reliability"
+    },
+    {
+      "youtubeId": "3MZS5gNElZM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Dj0b_cEBHBI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "mQ7_Zje7WKE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "8SUJEqQNClw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Agent Reliability"
+    },
+    {
+      "youtubeId": "M6Vbaig1TsM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "2goSS66XRBk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "Y2qc0UhDSnc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "IA4lZjh9sTs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "MPtCBaZn84A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "kDczF4wBh8s",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "1v9zBiZKlIY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "E71YtNbCFXY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "rD23-VZZHOo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "Gi4V8viBGYQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "CCsWZ5bJlO8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "blmAkayzE8M",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "kv-QAuKWllQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "w7IMuYsBNr8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "wRJD0inpmjU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "W1MiZChnkfA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "KWmkMV0FNwQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "w9u11ioHGA0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "xnXqpUW_Kp8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "jxrGodnopHo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "MRM7oA3JsFs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "PthmdT92qNg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "mHzJhXppwUA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "xzJdSi2Tsqw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "yG5d5UaGz1M",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "UG9IAdmi2Dg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "mWKYvT9Lc50",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "wNH3q9pqn0U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "1izYWsokr9s",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Agent Reliability"
+    },
+    {
+      "youtubeId": "Fzb1a24hF-o",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "YYNXFsUutbM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "89NuzmKokIk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "6AVMHZPjpTQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "4Xe_iMYxBQc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Ahtaha9fEM0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "cGLa8DsOYdk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "iS9YFW28XyM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "wXVvfFMTyzY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
       "youtubeId": "DdaAABdAqZY"
     },
     {
-      "youtubeId": "iheWKg2Tkrk"
+      "youtubeId": "iheWKg2Tkrk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
     },
     {
-      "youtubeId": "x_1EumTaXeE"
+      "youtubeId": "x_1EumTaXeE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
     },
     {
-      "youtubeId": "o_hhkJtlbSs"
+      "youtubeId": "o_hhkJtlbSs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
     },
     {
-      "youtubeId": "MI83buT_23o"
+      "youtubeId": "MI83buT_23o",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
     },
     {
-      "youtubeId": "X4BwOu0GWb8"
+      "youtubeId": "X4BwOu0GWb8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
     },
     {
-      "youtubeId": "9k3xPh-40mo"
+      "youtubeId": "9k3xPh-40mo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "o_LRtAomJCs"
+      "youtubeId": "o_LRtAomJCs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "eSvXbb2EBYc"
+      "youtubeId": "eSvXbb2EBYc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "C3geUfBR2js"
+      "youtubeId": "C3geUfBR2js",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "TquUsN1QsWs"
+      "youtubeId": "TquUsN1QsWs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "SbUxRluVRwk"
+      "youtubeId": "SbUxRluVRwk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "3WV1vT0B0cg"
+      "youtubeId": "3WV1vT0B0cg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "Zniw5c9_jx8"
+      "youtubeId": "Zniw5c9_jx8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
     },
     {
-      "youtubeId": "R30col3UPUg"
+      "youtubeId": "R30col3UPUg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "e9sLVMN76qU"
+      "youtubeId": "e9sLVMN76qU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "hxFpUcvWPcU"
+      "youtubeId": "hxFpUcvWPcU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "6WQYLQB0odc"
+      "youtubeId": "6WQYLQB0odc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "tbDDYKRFjhk"
+      "youtubeId": "tbDDYKRFjhk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
     },
     {
-      "youtubeId": "Lqq_LcBaJCc"
+      "youtubeId": "Lqq_LcBaJCc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "_zl_zimMRak"
+      "youtubeId": "_zl_zimMRak",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "kTnfJszFxCg"
+      "youtubeId": "kTnfJszFxCg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Agent Reliability"
     },
     {
-      "youtubeId": "3YGRcgZJ3yc"
+      "youtubeId": "3YGRcgZJ3yc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "zlZz0mDF2eg"
+      "youtubeId": "zlZz0mDF2eg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "sl3icG-IjHo"
+      "youtubeId": "sl3icG-IjHo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Agent Reliability"
     },
     {
-      "youtubeId": "j_TKDweOsYE"
+      "youtubeId": "j_TKDweOsYE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "vW8wLsb3Nnc"
+      "youtubeId": "vW8wLsb3Nnc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "CB-4NKDYnRs"
+      "youtubeId": "CB-4NKDYnRs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "Wv1tAxKYLeE"
+      "youtubeId": "Wv1tAxKYLeE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "kDEvo2__Ijg"
+      "youtubeId": "kDEvo2__Ijg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "Zqu0VaJw3vo"
+      "youtubeId": "Zqu0VaJw3vo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "5rMc-moNVx0"
+      "youtubeId": "5rMc-moNVx0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "Kcka7rzcxLk"
+      "youtubeId": "Kcka7rzcxLk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "TswQeKftnaw"
+      "youtubeId": "TswQeKftnaw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
     },
     {
-      "youtubeId": "6Tpm4m1YxHk"
+      "youtubeId": "6Tpm4m1YxHk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "coKKKKh8Vns"
+      "youtubeId": "coKKKKh8Vns",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "wt8gzWR6auQ"
+      "youtubeId": "wt8gzWR6auQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "ypyvj_56sBU"
+      "youtubeId": "ypyvj_56sBU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "XNneh6-eyPg"
+      "youtubeId": "XNneh6-eyPg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "yYxr6LdXNWM"
+      "youtubeId": "yYxr6LdXNWM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "XlAIgmi_Vow"
+      "youtubeId": "XlAIgmi_Vow",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "T5IMo5ntyhA"
+      "youtubeId": "T5IMo5ntyhA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "-tgQa8Fzf80"
+      "youtubeId": "-tgQa8Fzf80",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "1C2TdPkj6aQ"
+      "youtubeId": "1C2TdPkj6aQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
     },
     {
-      "youtubeId": "aopgVJBQC0o"
+      "youtubeId": "aopgVJBQC0o",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
     },
     {
-      "youtubeId": "BZtD0yYAgCQ"
+      "youtubeId": "BZtD0yYAgCQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
     },
     {
-      "youtubeId": "fmZWvE7yDZo"
+      "youtubeId": "fmZWvE7yDZo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
     },
     {
       "youtubeId": "AvVoJBxgSQk"
     },
     {
-      "youtubeId": "D4Dswf-__RM"
+      "youtubeId": "D4Dswf-__RM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "7e7eVtcygCM"
+      "youtubeId": "7e7eVtcygCM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
     },
     {
-      "youtubeId": "-OXiljTJxQU"
+      "youtubeId": "-OXiljTJxQU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "y-UGrYbJsJk"
+      "youtubeId": "y-UGrYbJsJk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
     },
     {
       "youtubeId": "8-fWbQAoqPI"
     },
     {
-      "youtubeId": "MBWGiWJDlSo"
+      "youtubeId": "MBWGiWJDlSo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "OkEGJ5G3foU"
+      "youtubeId": "OkEGJ5G3foU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
     },
     {
-      "youtubeId": "jQcsVk0KWiQ"
+      "youtubeId": "jQcsVk0KWiQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
     },
     {
-      "youtubeId": "gEDl9C8s_-4"
+      "youtubeId": "gEDl9C8s_-4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
     },
     {
-      "youtubeId": "liG97YXaTSA"
+      "youtubeId": "liG97YXaTSA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
     },
     {
-      "youtubeId": "C13jiFWNuo8"
+      "youtubeId": "C13jiFWNuo8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "EY4O9M6AsWI"
+      "youtubeId": "EY4O9M6AsWI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "_FKeSzM9fPc"
+      "youtubeId": "_FKeSzM9fPc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "huQPkrwVWwc"
+      "youtubeId": "huQPkrwVWwc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "0F8mnGPUycY"
+      "youtubeId": "0F8mnGPUycY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "RkVILz06y08"
+      "youtubeId": "RkVILz06y08",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
       "youtubeId": "xcsVkDelNis"
     },
     {
-      "youtubeId": "blW-lSd5CYQ"
+      "youtubeId": "blW-lSd5CYQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
       "youtubeId": "bmWZk9vTze0"
     },
     {
-      "youtubeId": "ExeD-8gFUMM"
+      "youtubeId": "ExeD-8gFUMM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "HOYLZ7IVgJo"
+      "youtubeId": "HOYLZ7IVgJo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
       "youtubeId": "EzwROCrSUFM"
     },
     {
-      "youtubeId": "P370D8Kmlkw"
+      "youtubeId": "P370D8Kmlkw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
     },
     {
-      "youtubeId": "LxQsQ3vZDqo"
+      "youtubeId": "LxQsQ3vZDqo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
     },
     {
-      "youtubeId": "PjaVHm_3Ljg"
+      "youtubeId": "PjaVHm_3Ljg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
     },
     {
-      "youtubeId": "AbZ4IYGbfpQ"
+      "youtubeId": "AbZ4IYGbfpQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
     },
     {
-      "youtubeId": "U0S6CfzAY5c"
+      "youtubeId": "U0S6CfzAY5c",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
     },
     {
-      "youtubeId": "XdAWgO11zuk"
+      "youtubeId": "XdAWgO11zuk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
     },
     {
-      "youtubeId": "3XmFPwjG8pg"
+      "youtubeId": "3XmFPwjG8pg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
     },
     {
-      "youtubeId": "QluDzKVfp6A"
+      "youtubeId": "QluDzKVfp6A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
     },
     {
-      "youtubeId": "2vlCqD6igVA"
+      "youtubeId": "2vlCqD6igVA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "LLM Recommendation Systems"
     },
     {
       "youtubeId": "hSXIAP3rBWI"
@@ -1606,328 +4329,884 @@
       "youtubeId": "hSdP5EiroQI"
     },
     {
-      "youtubeId": "W3khHzajE04"
+      "youtubeId": "W3khHzajE04",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
     },
     {
-      "youtubeId": "K-iYKDMFKhE"
+      "youtubeId": "K-iYKDMFKhE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
     },
     {
-      "youtubeId": "q8zoXAbmJdI"
+      "youtubeId": "q8zoXAbmJdI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
     },
     {
-      "youtubeId": "Qw9P1zvCupE"
+      "youtubeId": "Qw9P1zvCupE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
     },
     {
-      "youtubeId": "gcseUQJ6Gbg"
+      "youtubeId": "gcseUQJ6Gbg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
     },
     {
-      "youtubeId": "s8RM8uYxkoY"
+      "youtubeId": "s8RM8uYxkoY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
     },
     {
-      "youtubeId": "_BRhRh7mOX0"
+      "youtubeId": "_BRhRh7mOX0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "1MVh05GDydE"
+      "youtubeId": "1MVh05GDydE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "AXMdSqdoGHM"
+      "youtubeId": "AXMdSqdoGHM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "ZuiJjkbX0Og"
+      "youtubeId": "ZuiJjkbX0Og",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "FWlRHPZWyHE"
+      "youtubeId": "FWlRHPZWyHE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "zK9lYrLbjSg"
+      "youtubeId": "zK9lYrLbjSg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "8rABwKRsec4"
+      "youtubeId": "8rABwKRsec4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
       "youtubeId": "OKs6EO_klBg"
     },
     {
-      "youtubeId": "L6_NiGIEXZQ"
+      "youtubeId": "L6_NiGIEXZQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "8EQo4J2BWKw"
+      "youtubeId": "8EQo4J2BWKw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "wE1ZCmCLP5g"
+      "youtubeId": "wE1ZCmCLP5g",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
       "youtubeId": "I_pICAT8Bhg"
     },
     {
-      "youtubeId": "YpY83-kA7Bo"
+      "youtubeId": "YpY83-kA7Bo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "sRpqPgKeXNk"
+      "youtubeId": "sRpqPgKeXNk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "PbHm2qKnu10"
+      "youtubeId": "PbHm2qKnu10",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
     },
     {
-      "youtubeId": "P_uhFGH4J9Y"
+      "youtubeId": "P_uhFGH4J9Y",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Design Engineering"
     },
     {
-      "youtubeId": "Lue8K2jqfKk"
+      "youtubeId": "Lue8K2jqfKk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
     },
     {
-      "youtubeId": "8kMaTybvDUw"
+      "youtubeId": "8kMaTybvDUw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Agent Reliability"
     },
     {
-      "youtubeId": "FCi4jT86gSw"
+      "youtubeId": "FCi4jT86gSw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "BS92RdBvI90"
+      "youtubeId": "BS92RdBvI90",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "1__V4KTv_Gw"
+      "youtubeId": "1__V4KTv_Gw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "pQz-PgA1eJw"
+      "youtubeId": "pQz-PgA1eJw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Tiny Teams"
     },
     {
-      "youtubeId": "gmTHs5T_YAE"
+      "youtubeId": "gmTHs5T_YAE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "yASxPZ-tZe0"
+      "youtubeId": "yASxPZ-tZe0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "9iN-cPnp7xg"
+      "youtubeId": "9iN-cPnp7xg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "J-9EbJBxcbg"
+      "youtubeId": "J-9EbJBxcbg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "FZoMSupg37E"
+      "youtubeId": "FZoMSupg37E",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
     },
     {
-      "youtubeId": "F_RyElT_gJk"
+      "youtubeId": "F_RyElT_gJk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
     },
     {
       "youtubeId": "px2e2OOS2Sk"
     },
     {
-      "youtubeId": "blrovBxxN9o"
-    },
-    {
-      "youtubeId": "iXhba366fQc"
-    },
-    {
-      "youtubeId": "bUBF5V6oDKw"
-    },
-    {
-      "youtubeId": "bk0TmxoZlUY"
-    },
-    {
-      "youtubeId": "jJ45Yz1lJao"
-    },
-    {
-      "youtubeId": "spvXj9tnWAQ"
-    },
-    {
-      "youtubeId": "6NIr_cYPglk"
-    },
-    {
-      "youtubeId": "knH3fmGAteQ"
-    },
-    {
-      "youtubeId": "HT4l0DeP69I"
-    },
-    {
-      "youtubeId": "Q3NreEAdKMc"
-    },
-    {
-      "youtubeId": "ROfHHJmumcc"
-    },
-    {
-      "youtubeId": "6YdPI9YbjbI"
-    },
-    {
-      "youtubeId": "tzRvcTEapzo"
-    },
-    {
-      "youtubeId": "lArgRvBV3tQ"
-    },
-    {
-      "youtubeId": "fWY1FQwpWkY"
-    },
-    {
-      "youtubeId": "ujt0da9Z29Q"
-    },
-    {
-      "youtubeId": "YrUBFXa1KUY"
-    },
-    {
-      "youtubeId": "xJXm4Wcw4m8"
-    },
-    {
-      "youtubeId": "d9rsC6_VLoA"
-    },
-    {
-      "youtubeId": "H6MrR5NbTZA"
-    },
-    {
-      "youtubeId": "72XxWkd8Jrk"
-    },
-    {
-      "youtubeId": "l614N5W60ls"
-    },
-    {
-      "youtubeId": "EAfP8pDs7h4"
-    },
-    {
-      "youtubeId": "C1NivhYS1sI"
-    },
-    {
-      "youtubeId": "i1uPAN6uW4s"
-    },
-    {
-      "youtubeId": "tHJSZ1-ZqcA"
-    },
-    {
-      "youtubeId": "JhJKgRAmfIU"
-    },
-    {
-      "youtubeId": "G1hhmz6mXT0"
-    },
-    {
-      "youtubeId": "J4vPq2i0QzE"
-    },
-    {
-      "youtubeId": "N4vCBM5YbN0"
-    },
-    {
-      "youtubeId": "DeFF3J8T5Pk"
-    },
-    {
-      "youtubeId": "W_CYk2ogcDI"
-    },
-    {
-      "youtubeId": "pIPtpBZ6TKk"
-    },
-    {
-      "youtubeId": "W2HVdB4Jbjs"
-    },
-    {
-      "youtubeId": "640KMYtxCeI"
-    },
-    {
-      "youtubeId": "CbiR9xS2skQ"
-    },
-    {
-      "youtubeId": "gsedOXz8FX4"
-    },
-    {
-      "youtubeId": "GGxAQVbwBL4"
-    },
-    {
-      "youtubeId": "c5qJHr3DnT4"
-    },
-    {
-      "youtubeId": "CzM3cW6FdBs"
-    },
-    {
-      "youtubeId": "1C3sZbaxOmw"
-    },
-    {
-      "youtubeId": "1nOTQsfe1RU"
-    },
-    {
-      "youtubeId": "vRFqbEzzDsI"
-    },
-    {
-      "youtubeId": "KJ9eZYTWS1Y"
-    },
-    {
-      "youtubeId": "jvKf6zXrNO4"
-    },
-    {
-      "youtubeId": "jUv5WSPo9fk"
-    },
-    {
-      "youtubeId": "W_5tzQY-hVs"
-    },
-    {
-      "youtubeId": "0MqYA52iWQU"
-    },
-    {
-      "youtubeId": "WXy8Yy9xGss"
-    },
-    {
-      "youtubeId": "84Vtz2IL1Ug"
-    },
-    {
-      "youtubeId": "jVGCulhBRZI"
-    },
-    {
-      "youtubeId": "JfaLQqfXqPA"
-    },
-    {
-      "youtubeId": "JVuNPL5QO8Q"
-    },
-    {
-      "youtubeId": "sn79oS4MZFI"
-    },
-    {
-      "youtubeId": "hlcAZ2lX_ZI"
-    },
-    {
-      "youtubeId": "wFTVEDYVJT0"
-    },
-    {
-      "youtubeId": "YRGjll7uu5w"
-    },
-    {
-      "youtubeId": "Lcqat4iP_lE"
-    },
-    {
-      "youtubeId": "PHBGhUKAM-w"
-    },
-    {
-      "youtubeId": "Zz4QjZsYWK0"
-    },
-    {
-      "youtubeId": "0NHCyq8bBcM"
-    },
-    {
-      "youtubeId": "x-8pBqWiTzk"
-    },
-    {
-      "youtubeId": "n6wHJDqlS1I"
-    },
-    {
-      "youtubeId": "uFPAtKIN-FQ"
-    },
-    {
-      "youtubeId": "2Jom-4Brg6Q"
-    },
-    {
-      "youtubeId": "3YRrBFeQ1aw"
-    },
-    {
-      "youtubeId": "5s6Q-y42ZZA"
-    },
-    {
-      "youtubeId": "J3oJqan2Gv8"
-    },
-    {
-      "youtubeId": "Qvp9vw4jJQ8"
-    },
-    {
-      "youtubeId": "lp0pswT_FEI"
-    },
-    {
-      "youtubeId": "utxVvGJ4bcg"
+      "youtubeId": "blrovBxxN9o",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "iXhba366fQc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "bUBF5V6oDKw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "bk0TmxoZlUY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "jJ45Yz1lJao",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "spvXj9tnWAQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "6NIr_cYPglk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "knH3fmGAteQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "HT4l0DeP69I",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Q3NreEAdKMc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "ROfHHJmumcc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "6YdPI9YbjbI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "tzRvcTEapzo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "lArgRvBV3tQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "fWY1FQwpWkY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "ujt0da9Z29Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "YrUBFXa1KUY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "xJXm4Wcw4m8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "d9rsC6_VLoA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "H6MrR5NbTZA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "72XxWkd8Jrk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "l614N5W60ls",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "EAfP8pDs7h4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "C1NivhYS1sI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "i1uPAN6uW4s",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "tHJSZ1-ZqcA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "JhJKgRAmfIU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "G1hhmz6mXT0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "J4vPq2i0QzE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "N4vCBM5YbN0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "DeFF3J8T5Pk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "W_CYk2ogcDI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "pIPtpBZ6TKk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "W2HVdB4Jbjs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "640KMYtxCeI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "CbiR9xS2skQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "gsedOXz8FX4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "GGxAQVbwBL4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "c5qJHr3DnT4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "CzM3cW6FdBs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "1C3sZbaxOmw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "1nOTQsfe1RU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "vRFqbEzzDsI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "KJ9eZYTWS1Y",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "jvKf6zXrNO4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "jUv5WSPo9fk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "W_5tzQY-hVs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "0MqYA52iWQU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "WXy8Yy9xGss",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "84Vtz2IL1Ug",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "jVGCulhBRZI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "JfaLQqfXqPA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
+    },
+    {
+      "youtubeId": "JVuNPL5QO8Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "SWE Agents"
+    },
+    {
+      "youtubeId": "sn79oS4MZFI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "hlcAZ2lX_ZI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "wFTVEDYVJT0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "YRGjll7uu5w",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Lcqat4iP_lE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "PHBGhUKAM-w",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "Zz4QjZsYWK0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Infra"
+    },
+    {
+      "youtubeId": "0NHCyq8bBcM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "x-8pBqWiTzk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      }
+    },
+    {
+      "youtubeId": "n6wHJDqlS1I",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "uFPAtKIN-FQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "2Jom-4Brg6Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "3YRrBFeQ1aw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "5s6Q-y42ZZA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "J3oJqan2Gv8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Qvp9vw4jJQ8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "lp0pswT_FEI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "utxVvGJ4bcg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
       "youtubeId": "Vqsfn9rWXR8"
     },
     {
-      "youtubeId": "-9E9_21tx04"
+      "youtubeId": "-9E9_21tx04",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "RL + Reasoning"
     },
     {
       "youtubeId": "U-fMsbY-kHY"
@@ -1939,7 +5218,13 @@
       "youtubeId": "xhKgTkzSmuQ"
     },
     {
-      "youtubeId": "z4zXicOAF28"
+      "youtubeId": "z4zXicOAF28",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
       "youtubeId": "RR5le0K4Wtw"
@@ -1948,172 +5233,494 @@
       "youtubeId": "3k4a0PemMu4"
     },
     {
-      "youtubeId": "9u6xvcNJaxc"
+      "youtubeId": "9u6xvcNJaxc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "ZB7l4uxW3Yo"
+      "youtubeId": "ZB7l4uxW3Yo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "0ZPAvzhpGjw"
+      "youtubeId": "0ZPAvzhpGjw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "9mzfioh1Zag"
+      "youtubeId": "9mzfioh1Zag",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "A0PxE39xaMc"
+      "youtubeId": "A0PxE39xaMc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "fcPUqxfrE6Y"
+      "youtubeId": "fcPUqxfrE6Y",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "tOou_GJ9Ddk"
+      "youtubeId": "tOou_GJ9Ddk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "d7ds6m7fbqg"
+      "youtubeId": "d7ds6m7fbqg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "nnktgWtfJHE"
+      "youtubeId": "nnktgWtfJHE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "pSqpC7fFLZA"
+      "youtubeId": "pSqpC7fFLZA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "sXXl3YMU7ZI"
+      "youtubeId": "sXXl3YMU7ZI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "tYCu_57jzL8"
+      "youtubeId": "tYCu_57jzL8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "u825uxb7LnA"
+      "youtubeId": "u825uxb7LnA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "wAQK7O3WGEE"
+      "youtubeId": "wAQK7O3WGEE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "wHhlvcQgi9M"
+      "youtubeId": "wHhlvcQgi9M",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "wsFd22SL1s8"
+      "youtubeId": "wsFd22SL1s8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "y9YQc9a3gNw"
+      "youtubeId": "y9YQc9a3gNw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Ghc-qalQFLw"
+      "youtubeId": "Ghc-qalQFLw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "HIGpxVjGFBw"
+      "youtubeId": "HIGpxVjGFBw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Nqb7JTx0Pqo"
+      "youtubeId": "Nqb7JTx0Pqo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "RVN9HWKmkNU"
+      "youtubeId": "RVN9HWKmkNU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "UcW_s4BmuD0"
+      "youtubeId": "UcW_s4BmuD0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Ywl4LsvHKzU"
+      "youtubeId": "Ywl4LsvHKzU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "_-oIuRH4oGA"
+      "youtubeId": "_-oIuRH4oGA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "aDj9sY2RoG8"
+      "youtubeId": "aDj9sY2RoG8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Th5e4h-oVmc"
+      "youtubeId": "Th5e4h-oVmc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "bbq0b_FpYEY"
+      "youtubeId": "bbq0b_FpYEY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "0uj9lMI-sIo"
+      "youtubeId": "0uj9lMI-sIo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "2CXn-CByNoo"
+      "youtubeId": "2CXn-CByNoo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "8D_VdU6DBhI"
+      "youtubeId": "8D_VdU6DBhI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "CXsbjcrf_5g"
+      "youtubeId": "CXsbjcrf_5g",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Djv8Sp11UjI"
+      "youtubeId": "Djv8Sp11UjI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "5_QWh4LGoxg"
+      "youtubeId": "5_QWh4LGoxg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Bf71xMwd-Y0"
+      "youtubeId": "Bf71xMwd-Y0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "DjUIecgpYAo"
+      "youtubeId": "DjUIecgpYAo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "EnT4Wej5M5k"
+      "youtubeId": "EnT4Wej5M5k",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "eD_6jP1fkKs"
+      "youtubeId": "eD_6jP1fkKs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "EyZiAp0pelw"
+      "youtubeId": "EyZiAp0pelw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "dvft0Gp9sEE"
+      "youtubeId": "dvft0Gp9sEE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "0tVu-V3_fFw"
+      "youtubeId": "0tVu-V3_fFw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "1cQlnfwmIdU"
+      "youtubeId": "1cQlnfwmIdU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "6lTxD_oUjXQ"
+      "youtubeId": "6lTxD_oUjXQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "y6L5RkEqQ8g"
+      "youtubeId": "y6L5RkEqQ8g",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "b0xlsQ_6wUQ"
+      "youtubeId": "b0xlsQ_6wUQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2025,
+        "city": "San Francisco"
+      },
+      "track": "Online"
     },
     {
       "youtubeId": "1XvN5EBDnDw"
     },
     {
-      "youtubeId": "3j1dHivahFQ"
+      "youtubeId": "3j1dHivahFQ",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
-      "youtubeId": "KUEmEb71vzQ"
+      "youtubeId": "KUEmEb71vzQ",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "OC04sP_QgTI"
+      "youtubeId": "OC04sP_QgTI",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
-      "youtubeId": "xq9sz5MksVI"
+      "youtubeId": "xq9sz5MksVI",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
-      "youtubeId": "VZzUhELgYk4"
+      "youtubeId": "VZzUhELgYk4",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
-      "youtubeId": "pPvoLjYj_mY"
+      "youtubeId": "pPvoLjYj_mY",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
-      "youtubeId": "Iw_3cRf3lnM"
+      "youtubeId": "Iw_3cRf3lnM",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
-      "youtubeId": "kDlqpN1JyIw"
+      "youtubeId": "kDlqpN1JyIw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "BWqB6aatreE"
+      "youtubeId": "BWqB6aatreE",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
-      "youtubeId": "E0k9Ppq6yXY"
+      "youtubeId": "E0k9Ppq6yXY",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "G7aSH6N7qY4"
+      "youtubeId": "G7aSH6N7qY4",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
       "youtubeId": "2p2ErKRELHM"
@@ -2122,19 +5729,39 @@
       "youtubeId": "d5EltXhbcfA"
     },
     {
-      "youtubeId": "n9rjuBuShko"
+      "youtubeId": "n9rjuBuShko",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
-      "youtubeId": "q_ixa5EW8DY"
+      "youtubeId": "q_ixa5EW8DY",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
       "youtubeId": "ySYLsoAhXmg"
     },
     {
-      "youtubeId": "89aQ7T6cMwA"
+      "youtubeId": "89aQ7T6cMwA",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
-      "youtubeId": "VhPfM_aGBVc"
+      "youtubeId": "VhPfM_aGBVc",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
       "youtubeId": "zM9RYqCcioM"
@@ -2143,19 +5770,39 @@
       "youtubeId": "0vBKv9yAQi4"
     },
     {
-      "youtubeId": "kPL-6-9MVyA"
+      "youtubeId": "kPL-6-9MVyA",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
       "youtubeId": "MWTJIAwAAnk"
     },
     {
-      "youtubeId": "UXOLprPvr-0"
+      "youtubeId": "UXOLprPvr-0",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
-      "youtubeId": "OpVkWc3YnFc"
+      "youtubeId": "OpVkWc3YnFc",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
-      "youtubeId": "jMoAaZP_Kkw"
+      "youtubeId": "jMoAaZP_Kkw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
       "youtubeId": "D7_ipDqhtwk"
@@ -2176,7 +5823,12 @@
       "youtubeId": "-rsTkYgnNzM"
     },
     {
-      "youtubeId": "HS5a8VIKsvA"
+      "youtubeId": "HS5a8VIKsvA",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
       "youtubeId": "bVNNvWq6dKo"
@@ -2185,100 +5837,291 @@
       "youtubeId": "JIsgyk0Paic"
     },
     {
-      "youtubeId": "joHR2pmxDQE"
+      "youtubeId": "joHR2pmxDQE",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      }
     },
     {
-      "youtubeId": "kQmXtrmQ5Zg"
+      "youtubeId": "kQmXtrmQ5Zg",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "U3MVU6JpocU"
+      "youtubeId": "U3MVU6JpocU",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "2cEGQEllBGc"
+      "youtubeId": "2cEGQEllBGc",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "In7K-4JZKR4"
+      "youtubeId": "In7K-4JZKR4",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "pzmbleiOfCM"
+      "youtubeId": "pzmbleiOfCM",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "r0AG44qYKsI"
+      "youtubeId": "r0AG44qYKsI",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "wJwTlvb_TSo"
+      "youtubeId": "wJwTlvb_TSo",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "kjSGc7uwDo8"
+      "youtubeId": "kjSGc7uwDo8",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "y2Drx0SDZLo"
+      "youtubeId": "y2Drx0SDZLo",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "3jwClx0Ft2E"
+      "youtubeId": "3jwClx0Ft2E",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "cZ5ZJy19KMo"
+      "youtubeId": "cZ5ZJy19KMo",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "KVgbERRPU4M"
+      "youtubeId": "KVgbERRPU4M",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "Hp4MzVTXcKw"
+      "youtubeId": "Hp4MzVTXcKw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "UOsOfLnAX3Y"
+      "youtubeId": "UOsOfLnAX3Y",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "VTJHR7rQ2KI"
+      "youtubeId": "VTJHR7rQ2KI",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "_pBfv1rbLBU"
+      "youtubeId": "_pBfv1rbLBU",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "zuMw0pkPXpU"
+      "youtubeId": "zuMw0pkPXpU",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "62U6FLUCPWs"
+      "youtubeId": "62U6FLUCPWs",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "xzXdLRUyjUg"
+      "youtubeId": "xzXdLRUyjUg",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "ya_9_niq2as"
+      "youtubeId": "ya_9_niq2as",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "OD13PiXw60o"
+      "youtubeId": "OD13PiXw60o",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "EUHx5ooJHuQ"
+      "youtubeId": "EUHx5ooJHuQ",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "FpJ9dPe1qYQ"
+      "youtubeId": "FpJ9dPe1qYQ",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "MExbNNG_VcI"
+      "youtubeId": "MExbNNG_VcI",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "R2VfIjuWhgw"
+      "youtubeId": "R2VfIjuWhgw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "4J8-D0sgU9A"
+      "youtubeId": "4J8-D0sgU9A",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "YYcNm2RexnY"
+      "youtubeId": "YYcNm2RexnY",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "ro5HkZvzfiQ"
+      "youtubeId": "ro5HkZvzfiQ",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "7MiFIhlkBoE"
+      "youtubeId": "7MiFIhlkBoE",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "D6v5rlqUIc8"
+      "youtubeId": "D6v5rlqUIc8",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
-      "youtubeId": "qeDPKbWjsuk"
+      "youtubeId": "qeDPKbWjsuk",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
     },
     {
       "youtubeId": "D7BzTxVVMuw"
@@ -2287,175 +6130,493 @@
       "youtubeId": "L89GzWEILkM"
     },
     {
-      "youtubeId": "lG_8rgQqxfc"
+      "youtubeId": "lG_8rgQqxfc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
     },
     {
       "youtubeId": "IAdZxqjZ45U"
     },
     {
-      "youtubeId": "ePMvfa8vgL8"
+      "youtubeId": "ePMvfa8vgL8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
     },
     {
-      "youtubeId": "1B9i7FBsRVQ"
+      "youtubeId": "1B9i7FBsRVQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
     },
     {
-      "youtubeId": "ckLXb15BnM8"
+      "youtubeId": "ckLXb15BnM8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
     },
     {
-      "youtubeId": "_2tZaDs-w5s"
+      "youtubeId": "_2tZaDs-w5s",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
     },
     {
       "youtubeId": "of-SV35YqvY"
     },
     {
-      "youtubeId": "tQTB4MU_z8w"
+      "youtubeId": "tQTB4MU_z8w",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
     },
     {
-      "youtubeId": "gFyBdBm0AGo"
+      "youtubeId": "gFyBdBm0AGo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
     },
     {
-      "youtubeId": "CoaL4JZKsWI"
+      "youtubeId": "CoaL4JZKsWI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "heYmh_lsX5s"
+      "youtubeId": "heYmh_lsX5s",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
     },
     {
-      "youtubeId": "dRQHikOrH2A"
+      "youtubeId": "dRQHikOrH2A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
     },
     {
-      "youtubeId": "Xmkl27AM2VQ"
+      "youtubeId": "Xmkl27AM2VQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
     },
     {
-      "youtubeId": "zHYQZFy0UVk"
+      "youtubeId": "zHYQZFy0UVk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
     },
     {
-      "youtubeId": "-hYqt8M9u_M"
+      "youtubeId": "-hYqt8M9u_M",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
     },
     {
-      "youtubeId": "idDnpGqJd80"
+      "youtubeId": "idDnpGqJd80",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "2Wtq2GvUicw"
+      "youtubeId": "2Wtq2GvUicw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "GVbPiq3Pet0"
+      "youtubeId": "GVbPiq3Pet0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
     },
     {
       "youtubeId": "1oySeF37SZc"
     },
     {
-      "youtubeId": "2Ey275TX4ZU"
+      "youtubeId": "2Ey275TX4ZU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
     },
     {
-      "youtubeId": "LJa1SjCkYas"
+      "youtubeId": "LJa1SjCkYas",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
     },
     {
-      "youtubeId": "n0qemluQDtQ"
+      "youtubeId": "n0qemluQDtQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
     },
     {
-      "youtubeId": "utTqdQpe39A"
+      "youtubeId": "utTqdQpe39A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
     },
     {
-      "youtubeId": "z_Xh2MzqKDM"
+      "youtubeId": "z_Xh2MzqKDM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "sKiTUuEV1rw"
+      "youtubeId": "sKiTUuEV1rw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "k0VIgKAUkP4"
+      "youtubeId": "k0VIgKAUkP4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "uhoPM-ABuV0"
+      "youtubeId": "uhoPM-ABuV0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
     },
     {
-      "youtubeId": "x8HbIJh2wpQ"
+      "youtubeId": "x8HbIJh2wpQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
     },
     {
-      "youtubeId": "T60Tj25J4Zw"
+      "youtubeId": "T60Tj25J4Zw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "8RbTZl7bs5U"
+      "youtubeId": "8RbTZl7bs5U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
     },
     {
-      "youtubeId": "Ju9PeKEKb24"
+      "youtubeId": "Ju9PeKEKb24",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
     },
     {
-      "youtubeId": "NjNEdjDvKu8"
+      "youtubeId": "NjNEdjDvKu8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
     },
     {
-      "youtubeId": "R3hTescenDw"
+      "youtubeId": "R3hTescenDw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
     },
     {
-      "youtubeId": "YcOrV-TLNyQ"
+      "youtubeId": "YcOrV-TLNyQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
     },
     {
-      "youtubeId": "a0WvaMRZ9hc"
+      "youtubeId": "a0WvaMRZ9hc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "gL9kfxt6uo0"
+      "youtubeId": "gL9kfxt6uo0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Expo"
     },
     {
-      "youtubeId": "nbZzSC5A6hs"
+      "youtubeId": "nbZzSC5A6hs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
     },
     {
-      "youtubeId": "7AYUCAuFYeA"
+      "youtubeId": "7AYUCAuFYeA",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
     },
     {
-      "youtubeId": "LksXn4CLC0g"
+      "youtubeId": "LksXn4CLC0g",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
     },
     {
-      "youtubeId": "PNjMwdCo_YM"
+      "youtubeId": "PNjMwdCo_YM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "fiXjTif1nS4"
+      "youtubeId": "fiXjTif1nS4",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
     },
     {
-      "youtubeId": "pijYURicI1Y"
+      "youtubeId": "pijYURicI1Y",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
     },
     {
-      "youtubeId": "pj_hKFhnJCw"
+      "youtubeId": "pj_hKFhnJCw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
     },
     {
-      "youtubeId": "wWRRs2zBr5I"
+      "youtubeId": "wWRRs2zBr5I",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
     },
     {
-      "youtubeId": "3E7VAZaTG9M"
+      "youtubeId": "3E7VAZaTG9M",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "u3NofYYstaY"
+      "youtubeId": "u3NofYYstaY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "9tvJ_GYJA-o"
+      "youtubeId": "9tvJ_GYJA-o",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
       "youtubeId": "IbJ40EwaNlM"
     },
     {
-      "youtubeId": "jdeMJJ_oNYg"
+      "youtubeId": "jdeMJJ_oNYg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "AVjrkXGnF2M"
+      "youtubeId": "AVjrkXGnF2M",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "mpzktdYTcdE"
+      "youtubeId": "mpzktdYTcdE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "IxXMKT2FDRk"
+      "youtubeId": "IxXMKT2FDRk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "KJsUHnwSvTY"
+      "youtubeId": "KJsUHnwSvTY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "5qNXdLbEdew"
+      "youtubeId": "5qNXdLbEdew",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "khcMErjUB8k"
+      "youtubeId": "khcMErjUB8k",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "gWLVu9OGvBg"
+      "youtubeId": "gWLVu9OGvBg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
-      "youtubeId": "0oTlgBfzNJ0"
+      "youtubeId": "0oTlgBfzNJ0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
       "youtubeId": "kwnCvA9l-TY"
@@ -2476,67 +6637,175 @@
       "youtubeId": "Yyg_BoeB2LU"
     },
     {
-      "youtubeId": "T7sxvrJLJ14"
+      "youtubeId": "T7sxvrJLJ14",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
     },
     {
-      "youtubeId": "DId2KP8Ykz4"
+      "youtubeId": "DId2KP8Ykz4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
     },
     {
-      "youtubeId": "fOtTHWeU6B8"
+      "youtubeId": "fOtTHWeU6B8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
     },
     {
-      "youtubeId": "42q8OmAF_Gw"
+      "youtubeId": "42q8OmAF_Gw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
     },
     {
-      "youtubeId": "2DyHW23L6Cs"
+      "youtubeId": "2DyHW23L6Cs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
       "youtubeId": "eDr0m6R7fI4"
     },
     {
-      "youtubeId": "U9DPRZ0lSIQ"
+      "youtubeId": "U9DPRZ0lSIQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
     },
     {
-      "youtubeId": "apZXpgU_klw"
+      "youtubeId": "apZXpgU_klw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "IRp7lvBlbHs"
+      "youtubeId": "IRp7lvBlbHs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "qpmZID27t98"
+      "youtubeId": "qpmZID27t98",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
     },
     {
-      "youtubeId": "uiq95JYpBGY"
+      "youtubeId": "uiq95JYpBGY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "AI Leadership"
     },
     {
       "youtubeId": "Ve-akpov78Q"
     },
     {
-      "youtubeId": "i2vBaFzCEJw"
+      "youtubeId": "i2vBaFzCEJw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
     },
     {
       "youtubeId": "aNmfvN6S_n4"
     },
     {
-      "youtubeId": "himhGiWJXjo"
+      "youtubeId": "himhGiWJXjo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "ib-wTAvCZqg"
+      "youtubeId": "ib-wTAvCZqg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "gADhNzFjGeI"
+      "youtubeId": "gADhNzFjGeI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
     },
     {
-      "youtubeId": "C1CXwRYbwuQ"
+      "youtubeId": "C1CXwRYbwuQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
     },
     {
-      "youtubeId": "JbyictbPFV0"
+      "youtubeId": "JbyictbPFV0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "7_WhRAuP2Wg"
+      "youtubeId": "7_WhRAuP2Wg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "5nOLb27hQ5w"
+      "youtubeId": "5nOLb27hQ5w",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Multimodality"
     },
     {
       "youtubeId": "uLrOI65XbDw"
@@ -2545,100 +6814,274 @@
       "youtubeId": "gbM7k3NauNI"
     },
     {
-      "youtubeId": "eLXF0VojuSs"
+      "youtubeId": "eLXF0VojuSs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
     },
     {
-      "youtubeId": "Lko9lTGD_9U"
+      "youtubeId": "Lko9lTGD_9U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "ksgLoPxEQzM"
+      "youtubeId": "ksgLoPxEQzM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "cS6M6Jec0lU"
+      "youtubeId": "cS6M6Jec0lU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
     },
     {
-      "youtubeId": "IIL2tE4n1Q0"
+      "youtubeId": "IIL2tE4n1Q0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Evals & LLM Ops"
     },
     {
-      "youtubeId": "pZ4DIH2BVqg"
+      "youtubeId": "pZ4DIH2BVqg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
     },
     {
-      "youtubeId": "-zzP0EUsZz4"
+      "youtubeId": "-zzP0EUsZz4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "knDDGYHnnSI"
+      "youtubeId": "knDDGYHnnSI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
     },
     {
       "youtubeId": "vNssL4u5jb8"
     },
     {
-      "youtubeId": "R7xlYs5p0yA"
+      "youtubeId": "R7xlYs5p0yA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "8k848OeLc9E"
+      "youtubeId": "8k848OeLc9E",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "L0kBWyziFlc"
+      "youtubeId": "L0kBWyziFlc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "RAG & LLM Frameworks"
     },
     {
-      "youtubeId": "zwItokY087U"
+      "youtubeId": "zwItokY087U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "bjNYEc908oQ"
+      "youtubeId": "bjNYEc908oQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
     },
     {
-      "youtubeId": "hkhDdcM5V94"
+      "youtubeId": "hkhDdcM5V94",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "1t-9-s1brcg"
+      "youtubeId": "1t-9-s1brcg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "NamKkerrlnQ"
+      "youtubeId": "NamKkerrlnQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "Dc99-zTMyMg"
+      "youtubeId": "Dc99-zTMyMg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Agents"
     },
     {
-      "youtubeId": "EuC1GWhQdKE"
+      "youtubeId": "EuC1GWhQdKE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
       "youtubeId": "DuZXbinJ4Uc"
     },
     {
-      "youtubeId": "xhQfRSueFZI"
+      "youtubeId": "xhQfRSueFZI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "pRM_P6UfdIc"
+      "youtubeId": "pRM_P6UfdIc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
       "youtubeId": "TKmfBnW0mQA"
     },
     {
-      "youtubeId": "nZEaxaKmTG0"
+      "youtubeId": "nZEaxaKmTG0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "7TnkqfX84gI"
+      "youtubeId": "7TnkqfX84gI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "90Ir4TMMbS0"
+      "youtubeId": "90Ir4TMMbS0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "qBHfQT3YtyY"
+      "youtubeId": "qBHfQT3YtyY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "eTTMUWP5B0s"
+      "youtubeId": "eTTMUWP5B0s",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "-mRi-B3t6fA"
+      "youtubeId": "-mRi-B3t6fA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "zeAyuLc_f3Q"
+      "youtubeId": "zeAyuLc_f3Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
-      "youtubeId": "T7NWjoD_OuY"
+      "youtubeId": "T7NWjoD_OuY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "GPUs & Inference"
     },
     {
-      "youtubeId": "yJHw33cVeHo"
+      "youtubeId": "yJHw33cVeHo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2024,
+        "city": "San Francisco"
+      },
+      "track": "Keynotes"
     },
     {
       "youtubeId": "vaIiNZoXymg"
@@ -2656,109 +7099,319 @@
       "youtubeId": "NOONz6SwKKg"
     },
     {
-      "youtubeId": "jpKCIVlS9wM"
+      "youtubeId": "jpKCIVlS9wM",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
     },
     {
-      "youtubeId": "a0NwFm5NxGo"
+      "youtubeId": "a0NwFm5NxGo",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
     },
     {
-      "youtubeId": "_KFbT6eph5A"
+      "youtubeId": "_KFbT6eph5A",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
     },
     {
-      "youtubeId": "atwSCxWFVMg"
+      "youtubeId": "atwSCxWFVMg",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
     },
     {
-      "youtubeId": "KnndhPSVF3E"
+      "youtubeId": "KnndhPSVF3E",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Remote Talks"
     },
     {
-      "youtubeId": "AjLVoAu-u-Q"
+      "youtubeId": "AjLVoAu-u-Q",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "9-vGxMoUM9Y"
+      "youtubeId": "9-vGxMoUM9Y",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "MwqUYRQloGw"
+      "youtubeId": "MwqUYRQloGw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "MarPORTD8vo"
+      "youtubeId": "MarPORTD8vo",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "OimPoLxioYg"
+      "youtubeId": "OimPoLxioYg",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "TRjq7t2Ms5I"
+      "youtubeId": "TRjq7t2Ms5I",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "FDEmbYPgG-s"
+      "youtubeId": "FDEmbYPgG-s",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "cXPYtkosXG4"
+      "youtubeId": "cXPYtkosXG4",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "UNKDAo8YNmg"
+      "youtubeId": "UNKDAo8YNmg",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "qpPgCA664xw"
+      "youtubeId": "qpPgCA664xw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "zl4EdALzktU"
+      "youtubeId": "zl4EdALzktU",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "oJz4wveQ4oM"
+      "youtubeId": "oJz4wveQ4oM",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "yLa3i3rAdEE"
+      "youtubeId": "yLa3i3rAdEE",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "bDQn1w0idXs"
+      "youtubeId": "bDQn1w0idXs",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "N7lJY5IKVLE"
+      "youtubeId": "N7lJY5IKVLE",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "YvobVu1l7GI"
+      "youtubeId": "YvobVu1l7GI",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "C0ZUdFg-iTo"
+      "youtubeId": "C0ZUdFg-iTo",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
-      "youtubeId": "MDxEXKkxf2Q"
+      "youtubeId": "MDxEXKkxf2Q",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "PAy_GHUAICw"
+      "youtubeId": "PAy_GHUAICw",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "ieWT6X2Yh_g"
+      "youtubeId": "ieWT6X2Yh_g",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "LzeC1AQ-U5o"
+      "youtubeId": "LzeC1AQ-U5o",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "yj-wSRJwrrc"
+      "youtubeId": "yj-wSRJwrrc",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "cwjs1WAG9CM"
+      "youtubeId": "cwjs1WAG9CM",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "bNZV9s3_u44"
+      "youtubeId": "bNZV9s3_u44",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "lFMKXnpbhpQ"
+      "youtubeId": "lFMKXnpbhpQ",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "ZYoZSU58m_Y"
+      "youtubeId": "ZYoZSU58m_Y",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "ju73sWVtvU0"
+      "youtubeId": "ju73sWVtvU0",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "qaJXBMwUkoE"
+      "youtubeId": "qaJXBMwUkoE",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "dQmseZ6kz8w"
+      "youtubeId": "dQmseZ6kz8w",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Talks"
     },
     {
-      "youtubeId": "6d60zVdcCV4"
+      "youtubeId": "6d60zVdcCV4",
+      "event": {
+        "name": "AI Engineer Summit",
+        "year": 2023,
+        "city": "San Francisco"
+      },
+      "track": "Workshops"
     },
     {
       "youtubeId": "qw4PrtyvJI0"

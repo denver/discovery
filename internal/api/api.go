@@ -140,6 +140,7 @@ func parseFilters(q url.Values) (service.Filters, error) {
 		Topic:   q.Get("topic"),
 		Track:   q.Get("track"),
 		Speaker: q.Get("speaker"),
+		Event:   q.Get("event"),
 	}
 	limit, err := parseIntParam(q, "limit", 1, service.MaxLimit)
 	if err != nil {

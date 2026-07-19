@@ -1,0 +1,1441 @@
+{
+  "schemaVersion": "1.0",
+  "slug": "ai-engineer-worlds-fair-2026",
+  "title": "AI Engineer World's Fair 2026",
+  "description": "Talks from AI Engineer World's Fair 2026, drafted from the AI Engineer channel's own playlists. Editorial metadata is best-effort parsed and under review.",
+  "author": {
+    "name": "Denver Peterson",
+    "url": "https://denverpeterson.com"
+  },
+  "source": {
+    "type": "curated",
+    "homepage": "https://www.youtube.com/@aiDotEngineer"
+  },
+  "defaultRanking": "views",
+  "videos": [
+    {
+      "youtubeId": "c35YoMdnI78",
+      "speakers": [
+        {
+          "name": "Dex Horthy",
+          "slug": "dex-horthy"
+        }
+      ],
+      "organizations": [
+        "Geoff Huntley, Ian Livingstone, Greg Pstrucha, @insecure-agents"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "uIiA6DquRiE",
+      "speakers": [
+        {
+          "name": "Daniel Han",
+          "slug": "daniel-han"
+        }
+      ],
+      "organizations": [
+        "Unsloth"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "RGSFUqzqErE",
+      "speakers": [
+        {
+          "name": "Pablo Castro",
+          "slug": "pablo-castro"
+        }
+      ],
+      "organizations": [
+        "Distinguished Engineer & CVP for AI Knowledge, Microsoft"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "1P1hJ36rxM0",
+      "speakers": [
+        {
+          "name": "Benoit Schillings",
+          "slug": "benoit-schillings"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind VP of Research"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "9QebvrrY3KY",
+      "speakers": [
+        {
+          "name": "Lance Martin",
+          "slug": "lance-martin"
+        }
+      ],
+      "organizations": [
+        "Anthropic"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "eBUyTS7SzV4",
+      "speakers": [
+        {
+          "name": "Garry Tan",
+          "slug": "garry-tan"
+        }
+      ],
+      "organizations": [
+        "Y Combinator"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "Z2Erdirpudo",
+      "speakers": [
+        {
+          "name": "Eve Bouffard",
+          "slug": "eve-bouffard"
+        }
+      ],
+      "organizations": [
+        "Head of Design, Y Combinator"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "iCj_ATyThvc",
+      "speakers": [
+        {
+          "name": "Zhengyao Jiang",
+          "slug": "zhengyao-jiang"
+        }
+      ],
+      "organizations": [
+        "Weco"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "ZSQb5fzRFPw",
+      "speakers": [
+        {
+          "name": "Francesco Bonacci",
+          "slug": "francesco-bonacci"
+        }
+      ],
+      "organizations": [
+        "Cua"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "q4Tr-DknG2M",
+      "speakers": [
+        {
+          "name": "Lee Robinson",
+          "slug": "lee-robinson"
+        }
+      ],
+      "organizations": [
+        "Cursor, SpaceXAI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "uU5Gv2h8-9g",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "8G_1-3IO4ZQ",
+      "speakers": [
+        {
+          "name": "Prukalpa Sankar",
+          "slug": "prukalpa-sankar"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "0vphxNt4wyk",
+      "speakers": [
+        {
+          "name": "Philipp Schmid",
+          "slug": "philipp-schmid"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "APqXGyCoGW4",
+      "speakers": [
+        {
+          "name": "Pauline Brunet",
+          "slug": "pauline-brunet"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "n97BCfyFIvw",
+      "speakers": [
+        {
+          "name": "Addy Osmani",
+          "slug": "addy-osmani"
+        }
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "-CnA2lGfymY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "OqM67QG_Ikk",
+      "speakers": [
+        {
+          "name": "Abhishek Bhardwaj",
+          "slug": "abhishek-bhardwaj"
+        }
+      ],
+      "organizations": [
+        "OpenAI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "V-EDrhIhHzQ",
+      "speakers": [
+        {
+          "name": "Will Brown",
+          "slug": "will-brown"
+        }
+      ],
+      "organizations": [
+        "Prime Intellect"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "KB41dTlX1Uc",
+      "speakers": [
+        {
+          "name": "NVIDIA",
+          "slug": "nvidia"
+        }
+      ],
+      "organizations": [
+        "Osmantic, Roboflow, EXO Labs, @matthew_berman"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "YZQsWVeN3rE",
+      "speakers": [
+        {
+          "name": "Alex Bauer",
+          "slug": "alex-bauer"
+        }
+      ],
+      "organizations": [
+        "Upside.tech"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "Cz4v1WHVyZc",
+      "speakers": [
+        {
+          "name": "James Russo",
+          "slug": "james-russo"
+        }
+      ],
+      "organizations": [
+        "HeyGen"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "ZyIoTOAbRfs",
+      "speakers": [
+        {
+          "name": "Sean Cai",
+          "slug": "sean-cai"
+        }
+      ],
+      "organizations": [
+        "Independent / State of Data"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "VrpEyglYgeU",
+      "speakers": [
+        {
+          "name": "Tariq Shaukat",
+          "slug": "tariq-shaukat"
+        }
+      ],
+      "organizations": [
+        "Sonar"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "WkBPX-oDMnA",
+      "speakers": [
+        {
+          "name": "Geoffrey Litt",
+          "slug": "geoffrey-litt"
+        }
+      ],
+      "organizations": [
+        "Notion"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "ZpK5PWX2YRM",
+      "speakers": [
+        {
+          "name": "Alex Volkov",
+          "slug": "alex-volkov"
+        }
+      ],
+      "organizations": [
+        "ThursdAI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "pMggiOb18tc",
+      "speakers": [
+        {
+          "name": "Alexander Embiricos",
+          "slug": "alexander-embiricos"
+        },
+        {
+          "name": "Romain Huet",
+          "slug": "romain-huet"
+        },
+        {
+          "name": "Peter Steinberger",
+          "slug": "peter-steinberger"
+        }
+      ],
+      "organizations": [
+        "OpenAI"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "xUnRQ9vLXxo",
+      "speakers": [
+        {
+          "name": "Theo Browne",
+          "slug": "theo-browne"
+        }
+      ],
+      "organizations": [
+        "@t3dotgg ​"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "9fubhllmsBU",
+      "speakers": [
+        {
+          "name": "Thariq Shihipar",
+          "slug": "thariq-shihipar"
+        }
+      ],
+      "organizations": [
+        "Anthropic"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      }
+    },
+    {
+      "youtubeId": "3hXJI2q0Jz8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "UPwGaM2MKHY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "vljxQZfJ9wY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "IJXjTLPzvAU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "jVjt-2g8NMY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "ZRM_TfEZcIo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "ZD9-4fW2HhM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "ij-AU9dpJjc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "4uFVSLgD2Q4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "whue9_YquGA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "aHhB3sjGjkI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "vh2VGuQ3zhY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "IddXPepIAS4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "OXMMN-XbxwA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "-x5GEVnkuRw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "JRTAtZ5iBkU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "akk6KRlcwW4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Akm1sqvWG4A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "XovaGv4f39A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "T0HhO4YtTfE",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "uiP88SpCi1Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "dRmWYHuIJxM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Iwe_RY-fYgI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "65X0pQ6Lmbg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Lc8zRh9muoY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "LrGCT7G_rU8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "6bmM45jkMDY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "APh1Vx0oLmQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "pSto5YaNGUo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "DqtmZE6Hl0g",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Jx4ZFEAq6bY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "JnubYCYunk8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "htM02KMNZnk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "RGiXcVxSD3s",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "kZsf_Sfm7RU",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "7P0elyLIxXo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "B8l81jhvHbI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "fnLBmfsI_Fg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "m24UKZomm7k",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "4kYl2_mqmnQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "wEc9aG7cRQc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "9arM9b7JgOo",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "IQkVMvXQKLY",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "TJPInBjhE4Q",
+      "speakers": [
+        {
+          "name": "Sachin Gupta",
+          "slug": "sachin-gupta"
+        }
+      ],
+      "organizations": [
+        "Ebay"
+      ],
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "vJukHCIv7Ck",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "sAOBXCDiDOs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "WLXxTaPagA8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "EUsPvBeIx70",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Rx8f05JI_WA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "hVJOnuhFmTA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "7JgIS42mz7U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "UlFB6efYN5Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "spNAUEgq_A8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "fWXJM-J0ZB8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "0RNNfxpdbQk",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "LC3-P7v3yoI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "hMlLw1LeIK8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "2IxD9OB3XuQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "G6IlDzj8OjA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "maTp79FD9gI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "bRnoEpoK5m4",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "bZISsg7H7DA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "d_Ftrl3vfV0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Q9ycQHbDdJs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "ltv-L5oMPIs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "L3RuP_q8Bwc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "_cVfz88_j7A",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "bUJgirn4_yc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "CLttOU7n6sI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "UcYoMg-8-L8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "CDqzWpwkSls",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "2e9ANoOEn28",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "1IdzkRVmWAA",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "qdZzND79mcg",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "rX14bHH5wI0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "rCVVsxHWai8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "jtzh-GBXBWc",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "UNzCG3lw6O0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "4sX_He5c4sI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "zU4EagB311U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "lMCxVorb9wM",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Bck7ABCZRZI",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "eAXxdtNlK04",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "-561cZmir5Q",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "JJGbw4ggaFs",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "3z2uT5aDx_Y",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "XLEYtv3cMlw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Fu45geO3zX8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "3ySF0I5iE_0",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "yv6xovSsB1U",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "8oyalrfwgjw",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "sum9DgexFRQ",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "O3FEoMYvUf8",
+      "event": {
+        "name": "AI Engineer World's Fair",
+        "year": 2026,
+        "city": "San Francisco",
+        "venue": "Moscone West"
+      },
+      "track": "Online"
+    }
+  ]
+}

@@ -1,0 +1,1062 @@
+{
+  "schemaVersion": "1.0",
+  "slug": "aie-code-2025",
+  "title": "AIE CODE 2025",
+  "description": "Talks from AIE CODE 2025, drafted from the AI Engineer channel's own playlists. Editorial metadata is best-effort parsed and under review.",
+  "author": {
+    "name": "Denver Peterson",
+    "url": "https://denverpeterson.com"
+  },
+  "source": {
+    "type": "curated",
+    "homepage": "https://www.youtube.com/@aiDotEngineer"
+  },
+  "defaultRanking": "views",
+  "videos": [
+    {
+      "youtubeId": "okCHdHpAtk8",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "k1t2xyWMUdY",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "VSdV-AdSlis",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "k8cnVCMYmNc",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "96G7FLab8xc",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "HY_JyxAZsiE",
+      "speakers": [
+        {
+          "name": "Al Harris",
+          "slug": "al-harris"
+        }
+      ],
+      "organizations": [
+        "Amazon Kiro"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "-cKUW6n8hBU",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "rcsliSIy_YU",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "SbcQYbrvAfI",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "kmV-qg4uoNI",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "TqC1qOfiVcQ",
+      "speakers": [
+        {
+          "name": "Thariq Shihipar",
+          "slug": "thariq-shihipar"
+        }
+      ],
+      "organizations": [
+        "Anthropic"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "mdEh4lBO_R0",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "xz0-brt56L8",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "OGCG_QkCcZo",
+      "speakers": [
+        {
+          "name": "Jason Warner",
+          "slug": "jason-warner"
+        },
+        {
+          "name": "Eiso Kant",
+          "slug": "eiso-kant"
+        }
+      ],
+      "organizations": [
+        "Poolside"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "RFKCzGlAU6Q",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "RhfqQKe22ZA",
+      "speakers": [
+        {
+          "name": "Joel Becker",
+          "slug": "joel-becker"
+        }
+      ],
+      "organizations": [
+        "METR"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "gvIAkmZUEZY",
+      "speakers": [
+        {
+          "name": "Beyang Liu",
+          "slug": "beyang-liu"
+        }
+      ],
+      "organizations": [
+        "Amp Code"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "ShuJ_CN6zr4",
+      "speakers": [
+        {
+          "name": "Eno Reyes",
+          "slug": "eno-reyes"
+        }
+      ],
+      "organizations": [
+        "Factory AI"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "MLhAA9yguwM",
+      "speakers": [
+        {
+          "name": "Michele Catasta",
+          "slug": "michele-catasta"
+        }
+      ],
+      "organizations": [
+        "Replit"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "o4scJaQgnFA",
+      "speakers": [
+        {
+          "name": "Samir Mody",
+          "slug": "samir-mody"
+        }
+      ],
+      "organizations": [
+        "The Browser Company of New York"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "6guQG_tGt0o",
+      "speakers": [
+        {
+          "name": "Natalie Serrino",
+          "slug": "natalie-serrino"
+        }
+      ],
+      "organizations": [
+        "Gimlet Labs"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "sYgE4ppDFOQ",
+      "speakers": [
+        {
+          "name": "Jacob Kahn",
+          "slug": "jacob-kahn"
+        }
+      ],
+      "organizations": [
+        "FAIR Meta"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "tHN44yJoeS8",
+      "speakers": [
+        {
+          "name": "Naman Jain",
+          "slug": "naman-jain"
+        }
+      ],
+      "organizations": [
+        "Cursor"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "I8fs4omN1no",
+      "speakers": [
+        {
+          "name": "Nik Pash",
+          "slug": "nik-pash"
+        }
+      ],
+      "organizations": [
+        "Cline"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "_IzZWeuTx7I",
+      "speakers": [
+        {
+          "name": "Will Brown",
+          "slug": "will-brown"
+        }
+      ],
+      "organizations": [
+        "Prime Intellect"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "o15AaYl7Wu0",
+      "speakers": [
+        {
+          "name": "Rhythm Garg",
+          "slug": "rhythm-garg"
+        },
+        {
+          "name": "Linden Li",
+          "slug": "linden-li"
+        }
+      ],
+      "organizations": [
+        "Applied Compute"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "CEvIs9y1uog",
+      "speakers": [
+        {
+          "name": "Barry Zhang",
+          "slug": "barry-zhang"
+        },
+        {
+          "name": "Mahesh Murag",
+          "slug": "mahesh-murag"
+        }
+      ],
+      "organizations": [
+        "Anthropic"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "rmvDxxNubIg",
+      "speakers": [
+        {
+          "name": "Dex Horthy",
+          "slug": "dex-horthy"
+        }
+      ],
+      "organizations": [
+        "HumanLayer"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "HN-F-OQe6j0",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "fL1iJHtl51Q",
+      "speakers": [
+        {
+          "name": "Lee Robinson",
+          "slug": "lee-robinson"
+        }
+      ],
+      "organizations": [
+        "Cursor"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Coding Model & Agent Labs"
+    },
+    {
+      "youtubeId": "rT2Del5pwg4",
+      "speakers": [
+        {
+          "name": "Max Kanat-Alexander",
+          "slug": "max-kanat-alexander"
+        }
+      ],
+      "organizations": [
+        "Capital One"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "IoiHI7p12Ao",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "PmZDupFP3UM",
+      "speakers": [
+        {
+          "name": "Justin Reock",
+          "slug": "justin-reock"
+        }
+      ],
+      "organizations": [
+        "DX (acq. Atlassian)"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "4mRekpZpBZs",
+      "speakers": [
+        {
+          "name": "Arman Hezarkhani",
+          "slug": "arman-hezarkhani"
+        }
+      ],
+      "organizations": [
+        "Tenex"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "RQ5Jt8zDBp8",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "MGzymaYBiss",
+      "speakers": [
+        {
+          "name": "Dan Shipper",
+          "slug": "dan-shipper"
+        }
+      ],
+      "organizations": [
+        "Every, AI & I"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "ehQFj6VmuI8",
+      "speakers": [
+        {
+          "name": "NLW",
+          "slug": "nlw"
+        }
+      ],
+      "organizations": [
+        "Superintelligent, @AIDailyBrief⁩"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "RmJ4rTLV_x4",
+      "speakers": [
+        {
+          "name": "Lisa Orr",
+          "slug": "lisa-orr"
+        }
+      ],
+      "organizations": [
+        "Zapier"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "Q81AzlA-VE8",
+      "speakers": [
+        {
+          "name": "Lei Zhang",
+          "slug": "lei-zhang"
+        }
+      ],
+      "organizations": [
+        "Bloomberg"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "fgkXEIbZpGc",
+      "speakers": [
+        {
+          "name": "Kat Kampf",
+          "slug": "kat-kampf"
+        },
+        {
+          "name": "Ammaar Reshi",
+          "slug": "ammaar-reshi"
+        }
+      ],
+      "organizations": [
+        "Google DeepMind"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "v3u8xc0zLec",
+      "speakers": [
+        {
+          "name": "Kath Korevec",
+          "slug": "kath-korevec"
+        }
+      ],
+      "organizations": [
+        "Google Labs"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "SZStlIhyTCY",
+      "speakers": [
+        {
+          "name": "Martin Harrysson",
+          "slug": "martin-harrysson"
+        },
+        {
+          "name": "Natasha Maniar",
+          "slug": "natasha-maniar"
+        }
+      ],
+      "organizations": [
+        "McKinsey & Company"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "rgjF5o2Qjsc",
+      "speakers": [
+        {
+          "name": "Itamar Friedman",
+          "slug": "itamar-friedman"
+        }
+      ],
+      "organizations": [
+        "Qodo"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "JvosMkuNxF8",
+      "speakers": [
+        {
+          "name": "Yegor Denisov-Blanch",
+          "slug": "yegor-denisov-blanch"
+        }
+      ],
+      "organizations": [
+        "Stanford"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "7Dtu2bilcFs",
+      "speakers": [
+        {
+          "name": "Steve Yegge",
+          "slug": "steve-yegge"
+        },
+        {
+          "name": "Gene Kim",
+          "slug": "gene-kim"
+        }
+      ],
+      "organizations": [
+        "Authors, Vibe Coding"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "wVl6ZjELpBk",
+      "speakers": [
+        {
+          "name": "Bill Chen",
+          "slug": "bill-chen"
+        },
+        {
+          "name": "Brian Fioca",
+          "slug": "brian-fioca"
+        }
+      ],
+      "organizations": [
+        "OpenAI"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "aqW68Is_Kj4",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "cMSprbJ95jg",
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "AI Leadership"
+    },
+    {
+      "youtubeId": "m6MF1OR_9kM",
+      "speakers": [
+        {
+          "name": "Yuxuan Zhang",
+          "slug": "yuxuan-zhang"
+        }
+      ],
+      "organizations": [
+        "Z.ai"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "o3gmwzo-Mik",
+      "speakers": [
+        {
+          "name": "Dax Raad",
+          "slug": "dax-raad"
+        }
+      ],
+      "organizations": [
+        "OpenCode"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "NTBX-wxUhHs",
+      "speakers": [
+        {
+          "name": "Val Bercovici",
+          "slug": "val-bercovici"
+        }
+      ],
+      "organizations": [
+        "WEKA"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "LLuKshphGOE",
+      "speakers": [
+        {
+          "name": "Stephen Chin",
+          "slug": "stephen-chin"
+        }
+      ],
+      "organizations": [
+        "Neo4j"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "Q5IVm_CxN2w",
+      "speakers": [
+        {
+          "name": "Mahmoud Abdelwahab",
+          "slug": "mahmoud-abdelwahab"
+        }
+      ],
+      "organizations": [
+        "Railway"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "kWOQS3XPZ10",
+      "speakers": [
+        {
+          "name": "Ahmad Awais",
+          "slug": "ahmad-awais"
+        }
+      ],
+      "organizations": [
+        "CommandCode"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "flf_IKnFYnE",
+      "speakers": [
+        {
+          "name": "Samuel Colvin",
+          "slug": "samuel-colvin"
+        }
+      ],
+      "organizations": [
+        "Pydantic"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "fh9LgKXBGnQ",
+      "speakers": [
+        {
+          "name": "Ofer Mendelevitch",
+          "slug": "ofer-mendelevitch"
+        }
+      ],
+      "organizations": [
+        "Vectara"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "WqZq8L-v9pA",
+      "speakers": [
+        {
+          "name": "Nick Arcolano",
+          "slug": "nick-arcolano"
+        }
+      ],
+      "organizations": [
+        "Jellyfish"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "JsKTQbT58BY",
+      "speakers": [
+        {
+          "name": "Corey J. Gallon",
+          "slug": "corey-j-gallon"
+        }
+      ],
+      "organizations": [
+        "Rexmore"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "5eJqXtevlXg",
+      "speakers": [
+        {
+          "name": "Brian John",
+          "slug": "brian-john"
+        }
+      ],
+      "organizations": [
+        "Betterup"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "QRWdapxMdSY",
+      "speakers": [
+        {
+          "name": "Boris B.",
+          "slug": "boris-b"
+        }
+      ],
+      "organizations": [
+        "Catio"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "qqXdLf3wy1E",
+      "speakers": [
+        {
+          "name": "Jesse Hu",
+          "slug": "jesse-hu"
+        }
+      ],
+      "organizations": [
+        "Abundant"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "q2nHsJVy4FE",
+      "speakers": [
+        {
+          "name": "Yusuf Olokoba",
+          "slug": "yusuf-olokoba"
+        }
+      ],
+      "organizations": [
+        "Muna"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "qLqttdO33UM",
+      "speakers": [
+        {
+          "name": "Johann Schleier-Smith",
+          "slug": "johann-schleier-smith"
+        }
+      ],
+      "organizations": [
+        "Temporal"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "zMXKhhwiCIc",
+      "speakers": [
+        {
+          "name": "Alex Gavrilescu",
+          "slug": "alex-gavrilescu"
+        }
+      ],
+      "organizations": [
+        "Funstage"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    },
+    {
+      "youtubeId": "zfvEMNmVlNY",
+      "speakers": [
+        {
+          "name": "Alberto Romero",
+          "slug": "alberto-romero"
+        }
+      ],
+      "organizations": [
+        "Jointly"
+      ],
+      "event": {
+        "name": "AIE CODE",
+        "year": 2025,
+        "city": "New York"
+      },
+      "track": "Online"
+    }
+  ]
+}

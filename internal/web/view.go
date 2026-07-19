@@ -50,6 +50,7 @@ type leaderboardData struct {
 	Collection    *collections.CollectionInfo
 	LastRefreshed string
 	SortLinks     []navLink
+	EventLinks    []navLink
 	TrackLinks    []navLink
 	TopicLinks    []navLink
 	Cards         []videoCard
@@ -145,7 +146,7 @@ func newVideoCard(v *collections.Video) videoCard {
 // params, so switching one control preserves the others and default
 // URLs stay clean. Changing sort, filter, or page size resets the
 // offset; only the pager's own prev/next links pass a non-zero offset.
-func leaderboardURL(slug, sortName, track, topic string, limit, offset int) string {
+func leaderboardURL(slug, sortName, track, topic, event string, limit, offset int) string {
 	q := url.Values{}
 	if sortName != "" {
 		q.Set("sort", sortName)
@@ -155,6 +156,9 @@ func leaderboardURL(slug, sortName, track, topic string, limit, offset int) stri
 	}
 	if topic != "" {
 		q.Set("topic", topic)
+	}
+	if event != "" {
+		q.Set("event", event)
 	}
 	if limit > 0 && limit != service.DefaultLimit {
 		q.Set("limit", strconv.Itoa(limit))
@@ -172,12 +176,12 @@ func leaderboardURL(slug, sortName, track, topic string, limit, offset int) stri
 // sortLinks builds the sort tabs. Each tab carries an explicit ?sort=
 // while preserving the current track/topic and page size; resolved is
 // the strategy the service actually used and drives the active state.
-func sortLinks(slug, resolved, track, topic string, limit int) []navLink {
+func sortLinks(slug, resolved, track, topic, event string, limit int) []navLink {
 	links := make([]navLink, 0, len(sortOptions))
 	for _, o := range sortOptions {
 		links = append(links, navLink{
 			Label:  o.label,
-			URL:    leaderboardURL(slug, o.name, track, topic, limit, 0),
+			URL:    leaderboardURL(slug, o.name, track, topic, event, limit, 0),
 			Active: o.name == resolved,
 		})
 	}
@@ -186,7 +190,7 @@ func sortLinks(slug, resolved, track, topic string, limit int) []navLink {
 
 // newPager builds the pagination controls, or nil when the whole result
 // fits the smallest page size (controls would be noise).
-func newPager(slug, rawSort, track, topic string, limit, offset, total, shown int) *pager {
+func newPager(slug, rawSort, track, topic, event string, limit, offset, total, shown int) *pager {
 	if total <= pageSizes[0] {
 		return nil
 	}
@@ -201,15 +205,15 @@ func newPager(slug, rawSort, track, topic string, limit, offset, total, shown in
 		if prev < 0 {
 			prev = 0
 		}
-		p.PrevURL = leaderboardURL(slug, rawSort, track, topic, limit, prev)
+		p.PrevURL = leaderboardURL(slug, rawSort, track, topic, event, limit, prev)
 	}
 	if offset+shown < total {
-		p.NextURL = leaderboardURL(slug, rawSort, track, topic, limit, offset+shown)
+		p.NextURL = leaderboardURL(slug, rawSort, track, topic, event, limit, offset+shown)
 	}
 	for _, size := range pageSizes {
 		p.SizeLinks = append(p.SizeLinks, navLink{
 			Label:  strconv.Itoa(size),
-			URL:    leaderboardURL(slug, rawSort, track, topic, size, 0),
+			URL:    leaderboardURL(slug, rawSort, track, topic, event, size, 0),
 			Active: size == limit,
 		})
 	}
@@ -236,11 +240,12 @@ func filterLinks(values []string, current string, build func(value string) strin
 }
 
 // distinctFilterValues extracts the sorted, case-insensitively distinct
-// track and topic values present in a collection's videos. The first
-// spelling seen wins.
-func distinctFilterValues(videos []*collections.Video) (tracks, topics []string) {
+// track, topic, and event values present in a collection's videos. The
+// first spelling seen wins.
+func distinctFilterValues(videos []*collections.Video) (tracks, topics, events []string) {
 	seenTrack := map[string]bool{}
 	seenTopic := map[string]bool{}
+	seenEvent := map[string]bool{}
 	for _, v := range videos {
 		if t := v.Editorial.Track; t != "" && !seenTrack[strings.ToLower(t)] {
 			seenTrack[strings.ToLower(t)] = true
@@ -252,10 +257,15 @@ func distinctFilterValues(videos []*collections.Video) (tracks, topics []string)
 				topics = append(topics, t)
 			}
 		}
+		if e := service.EventLabel(v.Editorial.Event); e != "" && !seenEvent[strings.ToLower(e)] {
+			seenEvent[strings.ToLower(e)] = true
+			events = append(events, e)
+		}
 	}
 	sort.Strings(tracks)
 	sort.Strings(topics)
-	return tracks, topics
+	sort.Strings(events)
+	return tracks, topics, events
 }
 
 // lastSyncedLabel renders a collection's last sync time relative to now,
