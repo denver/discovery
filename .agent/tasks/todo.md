@@ -4,11 +4,11 @@ Details, acceptance criteria, and verification per task: `.agent/tasks/plan.md`
 Spec: `.agent/prd/prd.md`
 
 ## Wave 0 — Contracts (1 agent, sequential)
-- [ ] T01: Repository scaffold (go.mod, Makefile, tree, /health, CI)
-- [ ] T02: Collection JSON Schema + domain types + field-path validation
-- [ ] T03: OpenAPI contract + normalized model + Store/Ranker interfaces
-- [ ] T04: PostgreSQL schema + migrations (parallel with T03)
-- [ ] CHECKPOINT: contracts reviewed and frozen
+- [x] T01: Repository scaffold (go.mod, Makefile, tree, /health, CI)
+- [x] T02: Collection JSON Schema + domain types + field-path validation
+- [x] T03: OpenAPI contract + normalized model + Store/Ranker interfaces
+- [x] T04: PostgreSQL schema + migrations (parallel with T03)
+- [ ] CHECKPOINT: contracts reviewed and frozen (awaiting Denver's review)
 
 ## Wave 1 — Core engine (3 agents in parallel)
 - [ ] T05 (Lane A): YouTube URL normalization
