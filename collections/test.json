@@ -31,6 +31,16 @@
       "organizations": ["Y Combinator"]
     },
     {
+      "youtubeUrl": "https://www.youtube.com/watch?v=n97BCfyFIvw",
+      "speakers": [
+        { "name": "Addy Osmani", "slug": "addy-osmani" }
+      ],
+      "event": { "name": "AI Engineer World's Fair", "year": 2026, "city": "San Francisco" },
+      "track": "Keynotes",
+      "topics": ["ai-engineering", "engineering-leadership"],
+      "organizations": ["Google"]
+    },
+    {
       "youtubeUrl": "https://www.youtube.com/watch?v=eBUyTS7SzV4",
       "event": { "name": "AI Engineer World's Fair", "year": 2026, "city": "San Francisco" },
       "track": "Agents",
