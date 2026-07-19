@@ -10,7 +10,7 @@
   "defaultRanking": "views",
   "videos": [
     {
-      "youtubeUrl": "https://youtu.be/JJGbw4ggaFs?si=-GClHFcDmS7I7z_6",
+      "youtubeUrl": "https://www.youtube.com/watch?v=JJGbw4ggaFs",
       "speakers": [
         { "name": "Alexander Embiricos", "slug": "alexander-embiricos" },
         { "name": "Romain Huet", "slug": "romain-huet" }
@@ -31,7 +31,7 @@
       "organizations": ["Y Combinator"]
     },
     {
-      "youtubeUrl": "https://www.youtube.com/watch?v=eBUyTS7SzV4&t=2s",
+      "youtubeUrl": "https://www.youtube.com/watch?v=eBUyTS7SzV4",
       "event": { "name": "AI Engineer World's Fair", "year": 2026, "city": "San Francisco" },
       "track": "Agents",
       "topics": ["agents", "performance"]
