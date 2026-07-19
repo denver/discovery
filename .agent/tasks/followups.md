@@ -2,6 +2,33 @@
 
 Not in MVP scope. Revisit after Wave 3.
 
+## FE-3: Channel tracking pool (Denver's product model, 2026-07-19)
+
+The channel itself is a collection. Daily sync of every upload from a
+channel (e.g. @aiDotEngineer for the World's Fair) into database mode:
+
+- The channel collection surfaces rankings on whatever we choose:
+  views, likes, trends (windowed strategies over accrued snapshots).
+- Snapshot history enables "new & trending" (views_24h/7d, movers) and
+  "all-time best" (views) as different sorts over the same pool.
+- The curator (Denver, as admin of his lists) adds editorial tags/
+  metadata in his own collection files.
+- Curated collections split off from the channel total as sub-set
+  collections (e.g. WF26 keynotes). Because videos are deduplicated
+  across collections, a curated subset inherits the full snapshot
+  history the channel pool already accrued — curation is a view over
+  the pool, not a re-ingest.
+
+Interim implementation (live as of 2026-07-19): scripts/sync-aie-channel.sh
+regenerates collections/ai-engineer-channel.json from the channel's
+uploads playlist via the Data API, then syncs all collections into local
+postgres. Run daily (cron or manually). Proper implementation is FE-2's
+drafter plus a first-class "channel source" concept.
+
+Known gap: config supports one DISCOVERY_COLLECTION_PATH but the sync
+engine accepts multiple paths — the script works around it by syncing
+per-file. Config should grow multi-path support.
+
 ## FE-2: Collection drafter (playlist → draft collection file)
 
 Problem: YouTube metadata has NO event field — nothing marks a video as
