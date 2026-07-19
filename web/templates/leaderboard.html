@@ -1,0 +1,73 @@
+{{define "title"}}{{.Collection.Title}} · Discovery{{end}}
+
+{{define "content"}}
+    <section class="page-head">
+      <p class="crumb"><a href="/">All collections</a></p>
+      <h1>{{.Collection.Title}}</h1>
+      {{with .Collection.Description}}<p class="sub">{{.}}</p>{{end}}
+      <p class="meta">
+        <span>{{.Collection.VideoCount}} video{{if ne .Collection.VideoCount 1}}s{{end}}</span>
+        <span class="dot">·</span>
+        <span>refreshed {{.LastRefreshed}}</span>
+      </p>
+    </section>
+
+    <nav class="sorts" aria-label="Sort by">
+      {{range .SortLinks}}<a class="sort{{if .Active}} active{{end}}" href="{{.URL}}">{{.Label}}</a>{{end}}
+    </nav>
+
+    {{if .TrackLinks}}
+    <div class="filter-row">
+      <span class="filter-label">Track</span>
+      {{range .TrackLinks}}<a class="chip{{if .Active}} active{{end}}" href="{{.URL}}">{{.Label}}</a>{{end}}
+    </div>
+    {{end}}
+    {{if .TopicLinks}}
+    <div class="filter-row">
+      <span class="filter-label">Topic</span>
+      {{range .TopicLinks}}<a class="chip{{if .Active}} active{{end}}" href="{{.URL}}">{{.Label}}</a>{{end}}
+    </div>
+    {{end}}
+
+    {{if .Notice}}
+    <div class="notice">
+      <p>{{.Notice}}</p>
+    </div>
+    {{else if .Cards}}
+    <ol class="board">
+      {{range .Cards}}
+      <li class="card{{if .Featured}} is-featured{{end}}">
+        <div class="rank">
+          <span class="rank-num">{{.Rank}}</span>
+          {{if .HasMove}}<span class="move move-{{.MoveClass}}">{{.MoveLabel}}</span>{{end}}
+        </div>
+        <a class="thumb" href="{{.URL}}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
+          {{if .ThumbnailURL}}<img src="{{.ThumbnailURL}}" alt="" loading="lazy">{{else}}<span class="thumb-empty"></span>{{end}}
+        </a>
+        <div class="info">
+          <h2 class="video-title">
+            <a href="{{.URL}}" target="_blank" rel="noopener">{{.Title}}</a>
+            {{if .Featured}}<span class="badge">Featured</span>{{end}}
+          </h2>
+          <p class="byline">
+            {{with .Speakers}}<span class="speakers">{{.}}</span><span class="dot">·</span>{{end}}
+            {{with .Channel}}<span>{{.}}</span>{{end}}
+            {{with .Published}}<span class="dot">·</span><span>{{.}}</span>{{end}}
+          </p>
+          {{if .HasStats}}
+          <p class="counts">
+            <span class="count"><strong>{{.Views}}</strong> views</span>
+            <span class="count"><strong>{{.Likes}}</strong> likes</span>
+            <span class="count"><strong>{{.Comments}}</strong> comments</span>
+          </p>
+          {{else}}
+          <p class="counts counts-pending">stats pending first sync</p>
+          {{end}}
+        </div>
+      </li>
+      {{end}}
+    </ol>
+    {{else}}
+    <p class="empty">No videos match these filters.</p>
+    {{end}}
+{{end}}

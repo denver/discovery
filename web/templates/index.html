@@ -1,0 +1,28 @@
+{{define "title"}}Collections · Discovery{{end}}
+
+{{define "content"}}
+    <section class="page-head">
+      <h1>Collections</h1>
+      <p class="sub">Curated YouTube collections, ranked and refreshed.</p>
+    </section>
+
+    {{if .Collections}}
+    <ul class="collection-list">
+      {{range .Collections}}
+      <li class="collection-card">
+        <a class="collection-link" href="/c/{{.Slug}}">
+          <h2>{{.Title}}</h2>
+          {{with .Description}}<p class="desc">{{.}}</p>{{end}}
+          <p class="meta">
+            <span>{{.VideoCount}} video{{if ne .VideoCount 1}}s{{end}}</span>
+            <span class="dot">·</span>
+            <span>{{if .LastSynced}}synced {{.LastSynced}}{{else}}not synced yet{{end}}</span>
+          </p>
+        </a>
+      </li>
+      {{end}}
+    </ul>
+    {{else}}
+    <p class="empty">No collections yet.</p>
+    {{end}}
+{{end}}
