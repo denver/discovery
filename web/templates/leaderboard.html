@@ -16,23 +16,17 @@
       {{range .SortLinks}}<a class="sort{{if .Active}} active{{end}}" href="{{.URL}}">{{.Label}}</a>{{end}}
     </nav>
 
-    {{if .EventLinks}}
-    <div class="filter-row">
-      <span class="filter-label">Event</span>
-      {{range .EventLinks}}<a class="chip{{if .Active}} active{{end}}" href="{{.URL}}">{{.Label}}</a>{{end}}
-    </div>
-    {{end}}
-    {{if .TrackLinks}}
-    <div class="filter-row">
-      <span class="filter-label">Track</span>
-      {{range .TrackLinks}}<a class="chip{{if .Active}} active{{end}}" href="{{.URL}}">{{.Label}}</a>{{end}}
-    </div>
-    {{end}}
-    {{if .TopicLinks}}
-    <div class="filter-row">
-      <span class="filter-label">Topic</span>
-      {{range .TopicLinks}}<a class="chip{{if .Active}} active{{end}}" href="{{.URL}}">{{.Label}}</a>{{end}}
-    </div>
+    {{range .FilterRows}}
+    <details class="filter-row"{{if .Open}} open{{end}}>
+      <summary class="filter-summary">
+        <span class="caret" aria-hidden="true"></span>
+        <span class="filter-label">{{.Label}}</span>
+        <span class="filter-count">{{.Count}}</span>
+      </summary>
+      <div class="chips">
+        {{range .Links}}<a class="chip{{if .Active}} active{{end}}" href="{{.URL}}">{{.Label}}</a>{{end}}
+      </div>
+    </details>
     {{end}}
 
     {{if .Notice}}

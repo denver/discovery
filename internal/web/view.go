@@ -50,12 +50,36 @@ type leaderboardData struct {
 	Collection    *collections.CollectionInfo
 	LastRefreshed string
 	SortLinks     []navLink
-	EventLinks    []navLink
-	TrackLinks    []navLink
-	TopicLinks    []navLink
+	FilterRows    []filterRow
 	Cards         []videoCard
 	Notice        string
 	Pager         *pager
+}
+
+// filterRow is one collapsible filter dimension (Event, Track, Topic).
+// Open rows render expanded; a row with an active selection is always
+// open so the current filter is never hidden. Count is the number of
+// selectable values (excluding "All"), shown as a hint when collapsed.
+type filterRow struct {
+	Label string
+	Links []navLink
+	Open  bool
+	Count int
+}
+
+// newFilterRow builds one dimension's row; nil when there is nothing to
+// filter by. defaultOpen controls the collapsed state when no value is
+// selected.
+func newFilterRow(label string, links []navLink, current string, defaultOpen bool) *filterRow {
+	if len(links) == 0 {
+		return nil
+	}
+	return &filterRow{
+		Label: label,
+		Links: links,
+		Open:  current != "" || defaultOpen,
+		Count: len(links) - 1, // minus the "All" chip
+	}
 }
 
 // pager feeds the pagination controls: prev/next, a range indicator, and

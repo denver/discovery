@@ -167,15 +167,26 @@ func (h *handler) leaderboard(w http.ResponseWriter, r *http.Request) {
 	// only what the request actually asked for (rawSort), so the default
 	// sort's URLs stay clean.
 	data.SortLinks = sortLinks(slug, resolved, track, topic, event, limit)
-	data.EventLinks = filterLinks(events, event, func(v string) string {
+	eventLinks := filterLinks(events, event, func(v string) string {
 		return leaderboardURL(slug, rawSort, track, topic, v, limit, 0)
 	})
-	data.TrackLinks = filterLinks(tracks, track, func(v string) string {
+	trackLinks := filterLinks(tracks, track, func(v string) string {
 		return leaderboardURL(slug, rawSort, v, topic, event, limit, 0)
 	})
-	data.TopicLinks = filterLinks(topics, topic, func(v string) string {
+	topicLinks := filterLinks(topics, topic, func(v string) string {
 		return leaderboardURL(slug, rawSort, track, v, event, limit, 0)
 	})
+	// Event is the entry dimension and stays open; track/topic open only
+	// while active, keeping big collections' boards above the fold.
+	for _, row := range []*filterRow{
+		newFilterRow("Event", eventLinks, event, true),
+		newFilterRow("Track", trackLinks, track, false),
+		newFilterRow("Topic", topicLinks, topic, false),
+	} {
+		if row != nil {
+			data.FilterRows = append(data.FilterRows, *row)
+		}
+	}
 
 	h.render(w, r, http.StatusOK, "leaderboard", data)
 }

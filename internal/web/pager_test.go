@@ -184,3 +184,43 @@ func TestEventChipsAndFilter(t *testing.T) {
 		t.Error("event filter did not narrow results")
 	}
 }
+
+func TestFilterRowsCollapseBehavior(t *testing.T) {
+	h := newLargeHandler(t, 30) // has a "DeepCut" track, no events
+	_, body := get(t, h, "/c/big")
+	if !strings.Contains(body, `<details class="filter-row">`) {
+		t.Error("track row should render collapsed (no open attr) when inactive")
+	}
+	if strings.Contains(body, `<span class="filter-label">Event</span>`) {
+		t.Error("event row should be absent when no videos carry events")
+	}
+
+	_, body = get(t, h, "/c/big?track=DeepCut")
+	if !strings.Contains(body, `<details class="filter-row" open>`) {
+		t.Error("track row should be open while its filter is active")
+	}
+}
+
+func TestEventRowOpenByDefault(t *testing.T) {
+	ctx := context.Background()
+	store := collections.NewMemStore(collections.MemStoreOptions{})
+	t.Cleanup(func() { store.Close() })
+	coll := &collections.Collection{
+		SchemaVersion: "1.0", Slug: "ev2", Title: "E", DefaultRanking: "views",
+		Videos: []collections.VideoEntry{
+			{YouTubeID: "aaaaaaaaaaa", Event: &collections.Event{Name: "AIE CODE", Year: 2025}},
+		},
+	}
+	if err := store.UpsertCollection(ctx, coll); err != nil {
+		t.Fatal(err)
+	}
+	svc := &service.Service{Store: store, Registry: rankings.DefaultRegistry(), Now: fixedNow}
+	h, err := newHandler(svc, fixedNow)
+	if err != nil {
+		t.Fatal(err)
+	}
+	_, body := get(t, h, "/c/ev2")
+	if !strings.Contains(body, `<details class="filter-row" open>`) {
+		t.Error("event row should be open by default")
+	}
+}
