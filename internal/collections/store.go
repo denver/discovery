@@ -56,7 +56,8 @@ type Store interface {
 	ListVideos(ctx context.Context, slug string) ([]*Video, error)
 
 	// GetVideo returns one video by YouTube ID across all collections,
-	// or ErrNotFound.
+	// or ErrNotFound. Unpublished entries are reachable by direct ID;
+	// only listings filter them.
 	GetVideo(ctx context.Context, youtubeID string) (*Video, error)
 
 	// UpsertProviderData stores refreshed provider facts for videos.
@@ -74,11 +75,14 @@ type Store interface {
 	// for a collection and strategy at the given time.
 	RecordRankings(ctx context.Context, slug, strategy string, positions map[string]int, at time.Time) error
 
-	// PreviousRankings returns the prior positions for a collection and
-	// strategy; see mode-specific semantics above.
+	// PreviousRankings returns the positions recorded by the
+	// RecordRankings call before the most recent one for this
+	// (collection, strategy) pair, in both modes. A nil/empty map with
+	// nil error means no prior ranking exists.
 	PreviousRankings(ctx context.Context, slug, strategy string) (map[string]int, error)
 
 	// SetLastSyncedAt records when a collection last completed a sync.
+	// Unknown slug returns ErrNotFound.
 	SetLastSyncedAt(ctx context.Context, slug string, at time.Time) error
 
 	// Close releases underlying resources (cache file flush, DB pool).

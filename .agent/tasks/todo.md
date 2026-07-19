@@ -11,10 +11,10 @@ Spec: `.agent/prd/prd.md`
 - [ ] CHECKPOINT: contracts reviewed and frozen (awaiting Denver's review)
 
 ## Wave 1 — Core engine (3 agents in parallel)
-- [ ] T05 (Lane A): YouTube URL normalization
-- [ ] T06 (Lane A): YouTube Data API client (batch, retry, per-video errors)
-- [ ] T07 (Lane B): Ranking strategies (views, likes, comments, engagement)
-- [ ] T08 (Lane C): In-memory store + file cache + config
+- [x] T05 (Lane A): YouTube URL normalization
+- [x] T06 (Lane A): YouTube Data API client (batch, retry, per-video errors)
+- [x] T07 (Lane B): Ranking strategies (views_24h/7d/growth also done; rank_change_24h → T16)
+- [x] T08 (Lane C): In-memory store + file cache + config
 - [ ] T09: Sync engine (joins A+C; 1 agent after T06+T08)
 - [ ] CHECKPOINT: `go test ./...` green; real-key smoke sync
 

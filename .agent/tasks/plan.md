@@ -300,7 +300,7 @@ Rules for parallel agents:
 
 ## Task 16 (Lane H): Rank movement, history, and windowed strategies
 
-**Description:** Db-mode analytics: `GET /videos/{id}/history`, `GET /collections/{slug}/movers`, ranking strategies views_24h, views_7d, growth_percent_24h, rank_change_24h computed from snapshots. Safe handling of videos with <2 snapshots and zero-baseline growth (no division by zero; documented behavior).
+**Description:** Db-mode analytics: `GET /videos/{id}/history`, `GET /collections/{slug}/movers`, ranking strategies views_24h, views_7d, growth_percent_24h, rank_change_24h computed from snapshots. Note from T07: views_24h/views_7d/growth_percent_24h are already fully implemented against the History interface; only rank_change_24h remains, and it cannot be computed through History (metric snapshots only) — it needs rank-snapshot access, e.g. movers-style queries in the postgres store or a small History extension agreed at a coordination stop. Safe handling of videos with <2 snapshots and zero-baseline growth (no division by zero; documented behavior).
 
 **Acceptance criteria:**
 - [ ] History endpoint returns time-ordered snapshots; movers returns biggest rank changes over a window

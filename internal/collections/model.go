@@ -80,6 +80,8 @@ type Snapshot struct {
 }
 
 // CollectionInfo is a stored collection plus serving metadata.
+// VideoCount counts published entries only (matching what ListVideos
+// serves); the storetest conformance suite enforces this.
 type CollectionInfo struct {
 	Collection
 	VideoCount   int        `json:"videoCount"`

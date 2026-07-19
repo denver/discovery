@@ -3,3 +3,4 @@ bin/
 .discovery-cache.json
 *.test
 coverage.out
+.claude/
