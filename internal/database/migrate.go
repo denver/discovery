@@ -17,7 +17,7 @@ import (
 const migrationLockKey = 0x00d15c0e17 // "discovery", roughly
 
 // applyMigrations applies every pending migrations/*.up.sql in filename
-// order, each inside its own transaction, tracked in schema_migrations.
+// order, each inside its own transaction, tracked in discovery_schema_migrations.
 // Idempotent: already-applied versions are skipped, so calling Open on an
 // up-to-date database is a no-op.
 func applyMigrations(ctx context.Context, db *sql.DB) error {
@@ -42,12 +42,12 @@ func applyMigrations(ctx context.Context, db *sql.DB) error {
 	}()
 
 	if _, err := conn.ExecContext(ctx, `
-		CREATE TABLE IF NOT EXISTS schema_migrations (
+		CREATE TABLE IF NOT EXISTS discovery_schema_migrations (
 			version    BIGINT PRIMARY KEY,
 			name       TEXT NOT NULL,
 			applied_at TIMESTAMPTZ NOT NULL DEFAULT now()
 		)`); err != nil {
-		return fmt.Errorf("create schema_migrations: %w", err)
+		return fmt.Errorf("create discovery_schema_migrations: %w", err)
 	}
 
 	for _, name := range names {
@@ -57,7 +57,7 @@ func applyMigrations(ctx context.Context, db *sql.DB) error {
 		}
 		var applied bool
 		if err := conn.QueryRowContext(ctx,
-			`SELECT EXISTS (SELECT 1 FROM schema_migrations WHERE version = $1)`, version,
+			`SELECT EXISTS (SELECT 1 FROM discovery_schema_migrations WHERE version = $1)`, version,
 		).Scan(&applied); err != nil {
 			return fmt.Errorf("check migration %s: %w", name, err)
 		}
@@ -77,7 +77,7 @@ func applyMigrations(ctx context.Context, db *sql.DB) error {
 			return fmt.Errorf("apply migration %s: %w", name, err)
 		}
 		if _, err := tx.ExecContext(ctx,
-			`INSERT INTO schema_migrations (version, name) VALUES ($1, $2)`, version, name,
+			`INSERT INTO discovery_schema_migrations (version, name) VALUES ($1, $2)`, version, name,
 		); err != nil {
 			_ = tx.Rollback()
 			return fmt.Errorf("record migration %s: %w", name, err)

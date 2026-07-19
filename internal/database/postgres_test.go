@@ -249,7 +249,7 @@ func TestPreviousRankingsRunCounts(t *testing.T) {
 }
 
 // Opening the same database twice must be a no-op the second time, with
-// one schema_migrations row per embedded up migration.
+// one discovery_schema_migrations row per embedded up migration.
 func TestMigrationIdempotence(t *testing.T) {
 	dbURL := openTestDatabase(t)
 	ctx := context.Background()
@@ -271,8 +271,8 @@ func TestMigrationIdempotence(t *testing.T) {
 	if err != nil {
 		t.Fatalf("glob migrations: %v", err)
 	}
-	if n := countRow(t, s2.(*Store), `SELECT count(*) FROM schema_migrations`); n != len(ups) {
-		t.Errorf("schema_migrations rows = %d, want %d", n, len(ups))
+	if n := countRow(t, s2.(*Store), `SELECT count(*) FROM discovery_schema_migrations`); n != len(ups) {
+		t.Errorf("discovery_schema_migrations rows = %d, want %d", n, len(ups))
 	}
 }
 
