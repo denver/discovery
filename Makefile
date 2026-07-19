@@ -8,7 +8,7 @@ test:
 
 lint:
 	go vet ./...
-	@fmt_out=$$(gofmt -l .); if [ -n "$$fmt_out" ]; then echo "gofmt needed:"; echo "$$fmt_out"; exit 1; fi
+	@fmt_out=$$(git ls-files '*.go' | xargs gofmt -l); if [ -n "$$fmt_out" ]; then echo "gofmt needed:"; echo "$$fmt_out"; exit 1; fi
 
 lint-openapi:
 	npx -y @redocly/cli@latest lint openapi/openapi.yaml
