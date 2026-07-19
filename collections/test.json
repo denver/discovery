@@ -12,23 +12,24 @@
     {
       "youtubeUrl": "https://www.youtube.com/watch?v=JJGbw4ggaFs",
       "speakers": [
+        { "name": "May Walter", "slug": "may-walter" }
+      ],
+      "event": { "name": "AI Engineer World's Fair", "year": 2026, "city": "San Francisco" },
+      "track": "Agents",
+      "topics": ["agents", "performance"],
+      "organizations": ["Hud"]
+    },
+    {
+      "youtubeUrl": "https://www.youtube.com/watch?v=pMggiOb18tc",
+      "speakers": [
         { "name": "Alexander Embiricos", "slug": "alexander-embiricos" },
-        { "name": "Romain Huet", "slug": "romain-huet" }
+        { "name": "Romain Huet", "slug": "romain-huet" },
+        { "name": "Peter Steinberger", "slug": "peter-steinberger" }
       ],
       "event": { "name": "AI Engineer World's Fair", "year": 2026, "city": "San Francisco" },
       "track": "Keynotes",
       "topics": ["ai-engineering"],
       "organizations": ["OpenAI"]
-    },
-    {
-      "youtubeUrl": "https://www.youtube.com/watch?v=pMggiOb18tc",
-      "speakers": [
-        { "name": "Garry Tan", "slug": "garry-tan" }
-      ],
-      "event": { "name": "AI Engineer World's Fair", "year": 2026, "city": "San Francisco" },
-      "track": "Keynotes",
-      "topics": ["startups", "ai-engineering"],
-      "organizations": ["Y Combinator"]
     },
     {
       "youtubeUrl": "https://www.youtube.com/watch?v=n97BCfyFIvw",
@@ -42,9 +43,13 @@
     },
     {
       "youtubeUrl": "https://www.youtube.com/watch?v=eBUyTS7SzV4",
+      "speakers": [
+        { "name": "Garry Tan", "slug": "garry-tan" }
+      ],
       "event": { "name": "AI Engineer World's Fair", "year": 2026, "city": "San Francisco" },
-      "track": "Agents",
-      "topics": ["agents", "performance"]
+      "track": "Keynotes",
+      "topics": ["startups", "ai-engineering"],
+      "organizations": ["Y Combinator"]
     }
   ]
 }
