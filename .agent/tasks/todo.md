@@ -19,13 +19,13 @@ Spec: `.agent/prd/prd.md`
 - [x] CHECKPOINT: go test green (-race clean); real-key smoke sync passed 2026-07-19
 
 ## Wave 2 — Surfaces + DB mode (4 agents in parallel)
-- [ ] T10 (Lane D): Read API endpoints + filters + pagination
-- [ ] T11 (Lane D): POST /sync + rate limit + scheduler
-- [ ] T12 (Lane E): Server-rendered leaderboard (Product Hunt feel)
-- [ ] T13 (Lane F): CLI (validate, sync, serve, import, export)
-- [ ] T14 (Lane H): PostgreSQL store (conformance tests shared with memstore)
-- [ ] T15 (Lane H): Append-only snapshots + import/export round-trip
-- [ ] T16 (Lane H): Rank movement, history, movers, windowed strategies
+- [x] T10 (Lane D): Read API endpoints + filters + pagination
+- [x] T11 (Lane D): POST /sync + rate limit + scheduler
+- [x] T12 (Lane E): Server-rendered leaderboard (Product Hunt feel)
+- [x] T13 (Lane F): CLI (validate, sync, serve, import, export)
+- [x] T14 (Lane H): PostgreSQL store (conformance tests shared with memstore)
+- [x] T15 (Lane H): Append-only snapshots + import/export round-trip
+- [x] T16 (Lane H): Rank movement, history, movers, windowed strategies
 - [ ] CHECKPOINT: both modes work end-to-end; review before packaging
 
 ## Wave 3 — Packaging (1 agent, sequential)
