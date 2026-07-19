@@ -72,9 +72,13 @@ what you can, and ask him to run the compose smoke test himself (rule 3).
 Replace/extend `collections/example.json` with a real curated collection
 of AIE World's Fair 2026 talks (10+ videos, multiple speakers, tracks,
 topics, orgs — exercise every schema feature). `collections/test.json`
-(3 talks, Denver's picks) shows the expected editorial quality. Sources:
-ask Denver for a playlist link FIRST; if he doesn't have one, search the
-AI Engineer YouTube channel and have him approve the talk list before
+(3 talks, Denver's picks) shows the expected editorial quality. Source
+is already identified (see the signal audit in followups.md FE-2): the
+channel's own curation, playlist `PLDyBmFH9HlVc` ("AIE World's Fair 2026
+Complete Playlist", 36 videos) via Data API `playlistItems.list` — do
+NOT rely on tags (boilerplate) or descriptions (no event info on talk
+uploads). Draft the collection from that playlist, parse speakers/orgs
+from the title convention, and have Denver approve the list before
 committing. Validate with `go run ./cmd/discovery validate`. Verify by
 asking Denver to run a sync (spends his quota; ~1 unit, but it's his key).
 Grep the engine for AIE-specific logic afterward — there must be none.

@@ -34,6 +34,31 @@ discipline); new API surface is CLI-only at first. Pairs with FE-1
 Origin: Denver, 2026-07-19 — needed for the real AIE collection, where
 event membership isn't in provider metadata.
 
+### Signal audit (empirical, 2026-07-19, AI Engineer channel)
+
+Checked live against @aiDotEngineer (channel UCLKPca3kwwd-B59HNr-_lvA,
+919 videos, 82 playlists):
+
+- **Tags: useless.** Every video sampled (8/8, talks and livestreams
+  alike) carries the identical boilerplate set: ai, ai engineer,
+  ai engineering, software development, tech, startups, software
+  architecture, machine learning. Zero event signal.
+- **Description `Event:` block: livestreams only.** Day-stream videos
+  (e.g. I2cbIws9j10, "WF26: ...") have a structured block — `Event: AI
+  Engineer World's Fair 2026 / Date / Venue: Moscone West` — but 0 of 7
+  individual talk uploads have it; only 1 of 7 even mentions the fair in
+  its description. Title prefix "WF26:" appears on streams, not talks.
+- **Playlists: the real event metadata.** The channel curates precisely
+  what we need:
+  - `PLDyBmFH9HlVc` — AIE World's Fair 2026 Complete Playlist (36 videos)
+  - `PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn` — World's Fair Online Track 2026 (97)
+  - Plus per-track playlists ("<Track> @ AI Engineer") usable for track
+    tagging, and equivalents for AIE Europe / AIE CODE.
+
+Conclusion: FE-2's playlist-first design is confirmed as the only
+reliable mechanism. T18 (Wave 3) should draft the real collection from
+PLDyBmFH9HlVc.
+
 ## FE-1: Resolve endpoint (curator helper)
 
 `GET /api/v1/resolve?url=<youtube-url>` — takes a YouTube URL, returns the
