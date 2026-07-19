@@ -1,0 +1,548 @@
+openapi: 3.0.3
+info:
+  title: Discovery Engine API
+  description: |
+    REST API for Discovery Engine: ranked, filterable views over curated
+    YouTube collections. Editorial facts come from the collection source
+    file; provider facts are resolved from the YouTube Data API; PostgreSQL
+    (database mode) records what changes over time.
+
+    Endpoints marked **database mode only** return `501 Not Implemented`
+    in file mode. The YouTube API key is never exposed through any
+    response.
+  version: 1.0.0
+  license:
+    name: MIT
+servers:
+  - url: /
+# The MVP API is intentionally unauthenticated: it serves public data and
+# is designed for self-hosting. The YouTube API key stays server-side.
+security: []
+tags:
+  - name: collections
+  - name: videos
+  - name: sync
+  - name: system
+
+paths:
+  /health:
+    get:
+      tags: [system]
+      operationId: getHealth
+      summary: Liveness check
+      responses:
+        "200":
+          description: Service is up.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: ok
+
+  /api/v1/collections:
+    get:
+      tags: [collections]
+      operationId: listCollections
+      summary: List all collections
+      responses:
+        "200":
+          description: Collections ordered by slug.
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [collections]
+                properties:
+                  collections:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Collection"
+
+  /api/v1/collections/{slug}:
+    get:
+      tags: [collections]
+      operationId: getCollection
+      summary: Get one collection
+      parameters:
+        - $ref: "#/components/parameters/Slug"
+      responses:
+        "200":
+          description: The collection.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Collection"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /api/v1/collections/{slug}/videos:
+    get:
+      tags: [videos]
+      operationId: listCollectionVideos
+      summary: List a collection's videos in editorial order
+      parameters:
+        - $ref: "#/components/parameters/Slug"
+        - $ref: "#/components/parameters/Topic"
+        - $ref: "#/components/parameters/Track"
+        - $ref: "#/components/parameters/Speaker"
+        - $ref: "#/components/parameters/Limit"
+        - $ref: "#/components/parameters/Offset"
+      responses:
+        "200":
+          description: Filtered, paginated videos without ranking info.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/VideoPage"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /api/v1/collections/{slug}/rankings:
+    get:
+      tags: [videos]
+      operationId: getCollectionRankings
+      summary: Ranked videos for a collection
+      description: |
+        Videos ordered by the requested strategy, each carrying a
+        `ranking` object. `previousPosition`/`change` are present when a
+        prior ranking exists. Windowed strategies (`views_24h`,
+        `views_7d`, `growth_percent_24h`, `rank_change_24h`) are database
+        mode only and return 501 in file mode.
+      parameters:
+        - $ref: "#/components/parameters/Slug"
+        - $ref: "#/components/parameters/Sort"
+        - $ref: "#/components/parameters/Topic"
+        - $ref: "#/components/parameters/Track"
+        - $ref: "#/components/parameters/Speaker"
+        - $ref: "#/components/parameters/Limit"
+        - $ref: "#/components/parameters/Offset"
+      responses:
+        "200":
+          description: Ranked videos.
+          content:
+            application/json:
+              schema:
+                allOf:
+                  - $ref: "#/components/schemas/VideoPage"
+                  - type: object
+                    required: [strategy]
+                    properties:
+                      strategy:
+                        type: string
+                        example: views
+        "400":
+          $ref: "#/components/responses/BadRequest"
+        "404":
+          $ref: "#/components/responses/NotFound"
+        "501":
+          $ref: "#/components/responses/NotImplemented"
+
+  /api/v1/videos/{youtubeId}:
+    get:
+      tags: [videos]
+      operationId: getVideo
+      summary: Get one video by YouTube ID
+      parameters:
+        - $ref: "#/components/parameters/YouTubeID"
+      responses:
+        "200":
+          description: The normalized video.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Video"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /api/v1/videos/{youtubeId}/history:
+    get:
+      tags: [videos]
+      operationId: getVideoHistory
+      summary: Metric snapshots over time (database mode only)
+      parameters:
+        - $ref: "#/components/parameters/YouTubeID"
+        - name: since
+          in: query
+          description: RFC 3339 lower bound; defaults to 30 days ago.
+          schema:
+            type: string
+            format: date-time
+      responses:
+        "200":
+          description: Time-ordered snapshots.
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [videoId, snapshots]
+                properties:
+                  videoId:
+                    type: string
+                  snapshots:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Snapshot"
+        "404":
+          $ref: "#/components/responses/NotFound"
+        "501":
+          $ref: "#/components/responses/NotImplemented"
+
+  /api/v1/collections/{slug}/movers:
+    get:
+      tags: [videos]
+      operationId: getCollectionMovers
+      summary: Biggest rank changes over a window (database mode only)
+      parameters:
+        - $ref: "#/components/parameters/Slug"
+        - name: window
+          in: query
+          description: Time window to compare against.
+          schema:
+            type: string
+            enum: [24h, 7d]
+            default: 24h
+        - $ref: "#/components/parameters/Limit"
+      responses:
+        "200":
+          description: Videos ordered by absolute rank change, descending.
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [window, movers]
+                properties:
+                  window:
+                    type: string
+                  movers:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Video"
+        "404":
+          $ref: "#/components/responses/NotFound"
+        "501":
+          $ref: "#/components/responses/NotImplemented"
+
+  /api/v1/sync:
+    post:
+      tags: [sync]
+      operationId: triggerSync
+      summary: Trigger a synchronization run
+      description: |
+        Runs the sync engine: reload the collection source, fetch YouTube
+        metadata and statistics, recompute rankings, record snapshots.
+        At most one sync runs at a time; requests during a run or within
+        the cooldown window receive 429.
+      responses:
+        "200":
+          description: Sync completed.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/SyncResult"
+        "429":
+          description: A sync is already running or was run too recently.
+          headers:
+            Retry-After:
+              schema:
+                type: integer
+              description: Seconds until another sync is allowed.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Error"
+
+components:
+  parameters:
+    Slug:
+      name: slug
+      in: path
+      required: true
+      schema:
+        type: string
+        pattern: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    YouTubeID:
+      name: youtubeId
+      in: path
+      required: true
+      schema:
+        type: string
+        pattern: "^[A-Za-z0-9_-]{11}$"
+    Sort:
+      name: sort
+      in: query
+      description: |
+        Ranking strategy. File mode: views, likes, comments, engagement.
+        Database mode adds views_24h, views_7d, growth_percent_24h,
+        rank_change_24h. Defaults to the collection's defaultRanking,
+        then views.
+      schema:
+        type: string
+        example: views
+    Topic:
+      name: topic
+      in: query
+      description: Keep only videos tagged with this topic.
+      schema:
+        type: string
+    Track:
+      name: track
+      in: query
+      description: Keep only videos in this track (case-insensitive).
+      schema:
+        type: string
+    Speaker:
+      name: speaker
+      in: query
+      description: Keep only videos featuring this speaker slug.
+      schema:
+        type: string
+    Limit:
+      name: limit
+      in: query
+      schema:
+        type: integer
+        minimum: 1
+        maximum: 100
+        default: 25
+    Offset:
+      name: offset
+      in: query
+      schema:
+        type: integer
+        minimum: 0
+        default: 0
+
+  responses:
+    NotFound:
+      description: Resource not found.
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+    BadRequest:
+      description: Invalid query or path parameter.
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+    NotImplemented:
+      description: Requires database mode; unavailable in file mode.
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+
+  schemas:
+    Error:
+      type: object
+      required: [error]
+      properties:
+        error:
+          type: string
+          example: "collection \"unknown-slug\" not found"
+
+    Collection:
+      type: object
+      required: [slug, title, videoCount]
+      properties:
+        slug:
+          type: string
+          example: ai-engineer-worlds-fair-2026
+        title:
+          type: string
+        description:
+          type: string
+        author:
+          type: object
+          properties:
+            name:
+              type: string
+            url:
+              type: string
+              format: uri
+        source:
+          type: object
+          properties:
+            type:
+              type: string
+            homepage:
+              type: string
+              format: uri
+        defaultRanking:
+          type: string
+          example: views
+        videoCount:
+          type: integer
+        lastSyncedAt:
+          type: string
+          format: date-time
+          nullable: true
+
+    VideoPage:
+      type: object
+      required: [videos, total, limit, offset]
+      properties:
+        videos:
+          type: array
+          items:
+            $ref: "#/components/schemas/Video"
+        total:
+          type: integer
+          description: Total matches before pagination.
+        limit:
+          type: integer
+        offset:
+          type: integer
+
+    Video:
+      type: object
+      required: [id, provider, url, title, channel, editorial]
+      properties:
+        id:
+          type: string
+          example: dQw4w9WgXcQ
+        provider:
+          type: string
+          enum: [youtube]
+        url:
+          type: string
+          format: uri
+        title:
+          type: string
+          description: Resolved YouTube title, unless overridden editorially.
+        description:
+          type: string
+        thumbnailUrl:
+          type: string
+          format: uri
+        channel:
+          type: object
+          required: [id, name]
+          properties:
+            id:
+              type: string
+            name:
+              type: string
+        publishedAt:
+          type: string
+          format: date-time
+        durationSeconds:
+          type: integer
+        statistics:
+          type: object
+          nullable: true
+          description: Absent until the first successful sync.
+          required: [viewCount, likeCount, commentCount, capturedAt]
+          properties:
+            viewCount:
+              type: integer
+              format: int64
+            likeCount:
+              type: integer
+              format: int64
+            commentCount:
+              type: integer
+              format: int64
+            capturedAt:
+              type: string
+              format: date-time
+        editorial:
+          type: object
+          properties:
+            speakers:
+              type: array
+              items:
+                type: object
+                required: [name]
+                properties:
+                  name:
+                    type: string
+                  slug:
+                    type: string
+            topics:
+              type: array
+              items:
+                type: string
+            track:
+              type: string
+            event:
+              type: object
+              properties:
+                name:
+                  type: string
+                year:
+                  type: integer
+                city:
+                  type: string
+                venue:
+                  type: string
+                  nullable: true
+            organizations:
+              type: array
+              items:
+                type: string
+            featured:
+              type: boolean
+            notes:
+              type: string
+              nullable: true
+        ranking:
+          type: object
+          nullable: true
+          description: Present on ranking responses only.
+          required: [position, score, strategy]
+          properties:
+            position:
+              type: integer
+            previousPosition:
+              type: integer
+              nullable: true
+            change:
+              type: integer
+              nullable: true
+            score:
+              type: number
+            strategy:
+              type: string
+
+    Snapshot:
+      type: object
+      required: [videoId, viewCount, likeCount, commentCount, capturedAt]
+      properties:
+        videoId:
+          type: string
+        viewCount:
+          type: integer
+          format: int64
+        likeCount:
+          type: integer
+          format: int64
+        commentCount:
+          type: integer
+          format: int64
+        capturedAt:
+          type: string
+          format: date-time
+
+    SyncResult:
+      type: object
+      required: [startedAt, durationSeconds, fetched, failed]
+      properties:
+        startedAt:
+          type: string
+          format: date-time
+        durationSeconds:
+          type: number
+        fetched:
+          type: integer
+          description: Videos successfully fetched this run.
+        failed:
+          type: array
+          items:
+            type: string
+          description: YouTube IDs that could not be fetched (logged, not fatal).

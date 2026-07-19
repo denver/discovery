@@ -1,0 +1,14 @@
+DROP TRIGGER IF EXISTS rank_snapshots_append_only ON rank_snapshots;
+DROP TRIGGER IF EXISTS video_snapshots_append_only ON video_snapshots;
+DROP FUNCTION IF EXISTS forbid_snapshot_update();
+DROP TABLE IF EXISTS rank_snapshots;
+DROP TABLE IF EXISTS video_snapshots;
+DROP TABLE IF EXISTS video_organizations;
+DROP TABLE IF EXISTS organizations;
+DROP TABLE IF EXISTS video_topics;
+DROP TABLE IF EXISTS topics;
+DROP TABLE IF EXISTS video_speakers;
+DROP TABLE IF EXISTS speakers;
+DROP TABLE IF EXISTS collection_videos;
+DROP TABLE IF EXISTS videos;
+DROP TABLE IF EXISTS collections;

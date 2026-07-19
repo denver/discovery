@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/denver/discovery/openapi/collection.schema.json",
+  "title": "Discovery Engine Collection",
+  "description": "A curated, versioned list of YouTube videos with editorial metadata. Editorial facts live here; provider facts (titles, statistics) are resolved from the YouTube Data API at sync time.",
+  "type": "object",
+  "required": ["schemaVersion", "slug", "title", "videos"],
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "enum": ["1.0"],
+      "description": "Collection file schema version."
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "URL-safe unique identifier for the collection."
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "description": { "type": "string" },
+    "author": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "url": { "type": "string", "format": "uri" }
+      },
+      "additionalProperties": false
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "type": { "type": "string", "examples": ["curated"] },
+        "homepage": { "type": "string", "format": "uri" }
+      },
+      "additionalProperties": false
+    },
+    "refreshInterval": {
+      "type": "string",
+      "pattern": "^[0-9]+(ns|us|µs|ms|s|m|h)([0-9]+(ns|us|µs|ms|s|m|h))*$",
+      "description": "Go duration syntax, e.g. \"6h\" or \"30m\".",
+      "examples": ["6h"]
+    },
+    "defaultRanking": {
+      "type": "string",
+      "description": "Ranking strategy used when none is requested.",
+      "examples": ["views", "likes", "comments", "engagement"]
+    },
+    "videos": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/video" }
+    }
+  },
+  "$defs": {
+    "video": {
+      "type": "object",
+      "anyOf": [
+        { "required": ["youtubeUrl"] },
+        { "required": ["youtubeId"] }
+      ],
+      "properties": {
+        "youtubeUrl": {
+          "type": "string",
+          "format": "uri",
+          "description": "A YouTube video URL (youtube.com or youtu.be hosts only)."
+        },
+        "youtubeId": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_-]{11}$",
+          "description": "Canonical 11-character YouTube video ID."
+        },
+        "titleOverride": { "type": ["string", "null"] },
+        "descriptionOverride": { "type": ["string", "null"] },
+        "speakers": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name"],
+            "properties": {
+              "name": { "type": "string", "minLength": 1 },
+              "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "event": {
+          "type": "object",
+          "properties": {
+            "name": { "type": "string" },
+            "year": { "type": "integer", "minimum": 1990, "maximum": 2100 },
+            "city": { "type": "string" },
+            "venue": { "type": ["string", "null"] }
+          },
+          "additionalProperties": false
+        },
+        "track": { "type": "string" },
+        "topics": { "type": "array", "items": { "type": "string" } },
+        "organizations": { "type": "array", "items": { "type": "string" } },
+        "featured": { "type": "boolean", "default": false },
+        "published": { "type": "boolean", "default": true },
+        "addedAt": { "type": "string", "format": "date-time" },
+        "notes": { "type": ["string", "null"] }
+      }
+    }
+  }
+}
