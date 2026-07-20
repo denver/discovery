@@ -12,7 +12,7 @@ const validJSON = `{
   "slug": "ai-engineer-worlds-fair-2026",
   "title": "AI Engineer World's Fair 2026",
   "description": "Curated talks.",
-  "author": {"name": "Denver Peterson", "url": "https://denverpeterson.com"},
+  "author": {"name": "Ada Curator", "url": "https://example.com"},
   "source": {"type": "curated", "homepage": "https://www.ai.engineer/"},
   "refreshInterval": "6h",
   "defaultRanking": "views",
