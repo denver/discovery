@@ -15,6 +15,8 @@ CHANNELS = [
     {"handle": "howiaipodcast", "slug": "how-i-ai"},
     {"handle": "LennysPodcast", "slug": "lennys-podcast"},
     {"handle": "danmartell", "slug": "dan-martell"},
+    {"handle": "anthropic-ai", "slug": "anthropic"},
+    {"handle": "OpenAI", "slug": "openai"},
 ]
 
 

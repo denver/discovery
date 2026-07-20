@@ -1,0 +1,533 @@
+{
+  "schemaVersion": "1.0",
+  "slug": "anthropic",
+  "title": "Anthropic",
+  "description": "Every upload from Anthropic, tracked daily.",
+  "author": {
+    "name": "Denver Peterson",
+    "url": "https://denverpeterson.com"
+  },
+  "source": {
+    "type": "channel",
+    "homepage": "https://www.youtube.com/@anthropic-ai"
+  },
+  "defaultRanking": "views",
+  "videos": [
+    {
+      "youtubeId": "rKV5JcALQoQ"
+    },
+    {
+      "youtubeId": "Y9Wz2PV404E"
+    },
+    {
+      "youtubeId": "j2knrqAzYVY"
+    },
+    {
+      "youtubeId": "INGOC6-LLv0"
+    },
+    {
+      "youtubeId": "D4XTefP3Lsc"
+    },
+    {
+      "youtubeId": "dPn3GBI8lII"
+    },
+    {
+      "youtubeId": "kYJO0y8fVTA"
+    },
+    {
+      "youtubeId": "bluAmTHoEow"
+    },
+    {
+      "youtubeId": "N5yJJA0NCU0"
+    },
+    {
+      "youtubeId": "UAmKyyZ-b9E"
+    },
+    {
+      "youtubeId": "mM9TY91FECI"
+    },
+    {
+      "youtubeId": "nvbq39yVYRk"
+    },
+    {
+      "youtubeId": "rBJnWMD0Pho"
+    },
+    {
+      "youtubeId": "5KTHvKCrQ00"
+    },
+    {
+      "youtubeId": "i9U_b-8KKno"
+    },
+    {
+      "youtubeId": "Uh98_aGhAuY"
+    },
+    {
+      "youtubeId": "5_X2FNtIBEc"
+    },
+    {
+      "youtubeId": "PLyCki2K0Lg"
+    },
+    {
+      "youtubeId": "_jjSS0qGFbI"
+    },
+    {
+      "youtubeId": "Fzr_ztRD9dI"
+    },
+    {
+      "youtubeId": "wpmlqPQQy5s"
+    },
+    {
+      "youtubeId": "XpXImenrSPI"
+    },
+    {
+      "youtubeId": "tJP6SKfo49c"
+    },
+    {
+      "youtubeId": "I9aGC6Ui3eE"
+    },
+    {
+      "youtubeId": "xatyxfEevZA"
+    },
+    {
+      "youtubeId": "R-KJgjIrh24"
+    },
+    {
+      "youtubeId": "GJ5jTgcbRHA"
+    },
+    {
+      "youtubeId": "0vZ_UVLhSQQ"
+    },
+    {
+      "youtubeId": "fOxC44g8vig"
+    },
+    {
+      "youtubeId": "zrcCS9oHjtI"
+    },
+    {
+      "youtubeId": "LpGpwhORWr0"
+    },
+    {
+      "youtubeId": "56kq0VTkU4k"
+    },
+    {
+      "youtubeId": "2MJDdzSXL74"
+    },
+    {
+      "youtubeId": "lvMMZLYoDr4"
+    },
+    {
+      "youtubeId": "VHsp6Hp7Stw"
+    },
+    {
+      "youtubeId": "OwMu0pyYZBc"
+    },
+    {
+      "youtubeId": "Y6wiWlcH5jM"
+    },
+    {
+      "youtubeId": "AY3lif2E4zI"
+    },
+    {
+      "youtubeId": "NGOAUJtdk-4"
+    },
+    {
+      "youtubeId": "CBneTpXF1CQ"
+    },
+    {
+      "youtubeId": "a8PmR-fNQ_0"
+    },
+    {
+      "youtubeId": "PupmfSttxlc"
+    },
+    {
+      "youtubeId": "sHImlfVM9r4"
+    },
+    {
+      "youtubeId": "Yiy0cU6ChSw"
+    },
+    {
+      "youtubeId": "NfoFdsc2ODQ"
+    },
+    {
+      "youtubeId": "uhJJgc-0iTQ"
+    },
+    {
+      "youtubeId": "kS1MJFZWMq4"
+    },
+    {
+      "youtubeId": "IoqpBKrNaZI"
+    },
+    {
+      "youtubeId": "QTfoYDzqXn0"
+    },
+    {
+      "youtubeId": "ccQSHQ3VGIc"
+    },
+    {
+      "youtubeId": "aZLr962R6Ag"
+    },
+    {
+      "youtubeId": "Yct0MvNtdfU"
+    },
+    {
+      "youtubeId": "XuvKFsktX0Q"
+    },
+    {
+      "youtubeId": "sbkwv-HVhQU"
+    },
+    {
+      "youtubeId": "PnX30ZXxKco"
+    },
+    {
+      "youtubeId": "Tdg_lkCMzY0"
+    },
+    {
+      "youtubeId": "IypXvHej9eY"
+    },
+    {
+      "youtubeId": "BER3EhUIyz0"
+    },
+    {
+      "youtubeId": "dGiqrsv530Y"
+    },
+    {
+      "youtubeId": "vLIDHi-1PVU"
+    },
+    {
+      "youtubeId": "FDNkDBNR7AM"
+    },
+    {
+      "youtubeId": "EV89Ws8Ui9Y"
+    },
+    {
+      "youtubeId": "iF9iV4xponk"
+    },
+    {
+      "youtubeId": "mCj4kx_P2Ak"
+    },
+    {
+      "youtubeId": "EsCNkDrIGCw"
+    },
+    {
+      "youtubeId": "DAQJvGjlgVM"
+    },
+    {
+      "youtubeId": "fGKNUvivvnc"
+    },
+    {
+      "youtubeId": "UdoY2l5TZaA"
+    },
+    {
+      "youtubeId": "50AhIyybR0M"
+    },
+    {
+      "youtubeId": "8gTpgWru0Wg"
+    },
+    {
+      "youtubeId": "TUysIAtxyrQ"
+    },
+    {
+      "youtubeId": "dRsjO-88nBs"
+    },
+    {
+      "youtubeId": "gv0WHhKelSE"
+    },
+    {
+      "youtubeId": "HNzH5Us1Rvg"
+    },
+    {
+      "youtubeId": "ysPbXH0LpIE"
+    },
+    {
+      "youtubeId": "XSZP9GhhuAc"
+    },
+    {
+      "youtubeId": "fHWFF_pnqDk"
+    },
+    {
+      "youtubeId": "5zd7m3Rh5B0"
+    },
+    {
+      "youtubeId": "lUF_bjBSgXM"
+    },
+    {
+      "youtubeId": "4PtGWgEO0ME"
+    },
+    {
+      "youtubeId": "8fVHFt7Shf4"
+    },
+    {
+      "youtubeId": "LrOMUaj91hE"
+    },
+    {
+      "youtubeId": "iSn77jvjojA"
+    },
+    {
+      "youtubeId": "PBxwtabGltc"
+    },
+    {
+      "youtubeId": "k6sx_ZmthCw"
+    },
+    {
+      "youtubeId": "RCKo7OdjrCw"
+    },
+    {
+      "youtubeId": "NIvnT5ug7Dk"
+    },
+    {
+      "youtubeId": "CQywdSdi5iA"
+    },
+    {
+      "youtubeId": "liimqYe09U4"
+    },
+    {
+      "youtubeId": "ytEN_iAk09c"
+    },
+    {
+      "youtubeId": "QbLf2zb3oPc"
+    },
+    {
+      "youtubeId": "Y0KidGr9Z2Y"
+    },
+    {
+      "youtubeId": "2YCaBqP8muw"
+    },
+    {
+      "youtubeId": "DmgujoZ1mmk"
+    },
+    {
+      "youtubeId": "EljzyfdYkrc"
+    },
+    {
+      "youtubeId": "W5cga7xipRI"
+    },
+    {
+      "youtubeId": "RyvXxApfHkk"
+    },
+    {
+      "youtubeId": "W4Ua6XFfX9w"
+    },
+    {
+      "youtubeId": "4szRHy_CT7s"
+    },
+    {
+      "youtubeId": "JpGtOfSgR-c"
+    },
+    {
+      "youtubeId": "-UN9sNqQ0t4"
+    },
+    {
+      "youtubeId": "w0eYAGPEHuA"
+    },
+    {
+      "youtubeId": "BGgsoIgbT_Y"
+    },
+    {
+      "youtubeId": "FAsY40pbbnw"
+    },
+    {
+      "youtubeId": "Yf_1w00qIKc"
+    },
+    {
+      "youtubeId": "oDks2gVHu4k"
+    },
+    {
+      "youtubeId": "6eBSHbLKuN0"
+    },
+    {
+      "youtubeId": "nZCy8E5jlok"
+    },
+    {
+      "youtubeId": "EvtPBaaykdo"
+    },
+    {
+      "youtubeId": "oqUclC3gqKs"
+    },
+    {
+      "youtubeId": "L_WFEgry87M"
+    },
+    {
+      "youtubeId": "pjPxn1SFbJs"
+    },
+    {
+      "youtubeId": "9aiEirEqSwc"
+    },
+    {
+      "youtubeId": "nms47NKdlQM"
+    },
+    {
+      "youtubeId": "QY9gfEsk2PM"
+    },
+    {
+      "youtubeId": "02nFRuEo0bc"
+    },
+    {
+      "youtubeId": "CXhYDOvgpuU"
+    },
+    {
+      "youtubeId": "pyXouxa0WnY"
+    },
+    {
+      "youtubeId": "MIzq6LCMTtA"
+    },
+    {
+      "youtubeId": "Bj9BD2D3DzA"
+    },
+    {
+      "youtubeId": "WSkmFZsUpf0"
+    },
+    {
+      "youtubeId": "6Unxqr50Kqg"
+    },
+    {
+      "youtubeId": "SO43O_7jqzk"
+    },
+    {
+      "youtubeId": "BaNXYqcfDyo"
+    },
+    {
+      "youtubeId": "_Ka_AgmGW48"
+    },
+    {
+      "youtubeId": "Ta5kUdng7Zc"
+    },
+    {
+      "youtubeId": "AJpK3YTTKZ4"
+    },
+    {
+      "youtubeId": "t3nnDXa81Hs"
+    },
+    {
+      "youtubeId": "LP5OCa20Zpg"
+    },
+    {
+      "youtubeId": "IPmt8b-qLgk"
+    },
+    {
+      "youtubeId": "om2lIWXLLN4"
+    },
+    {
+      "youtubeId": "9eXV64O2Xp8"
+    },
+    {
+      "youtubeId": "VSmobknYl0E"
+    },
+    {
+      "youtubeId": "oXt2-5o_x4I"
+    },
+    {
+      "youtubeId": "vH2f7cjXjKI"
+    },
+    {
+      "youtubeId": "jqx18KgIzAE"
+    },
+    {
+      "youtubeId": "ODaHJzOyVCQ"
+    },
+    {
+      "youtubeId": "P2xtHTPDxSs"
+    },
+    {
+      "youtubeId": "b1-OuHWu88Y"
+    },
+    {
+      "youtubeId": "xgXHayDOB7Q"
+    },
+    {
+      "youtubeId": "MKKC1qFbG0I"
+    },
+    {
+      "youtubeId": "5G0zohzSeeI"
+    },
+    {
+      "youtubeId": "fccqAteps4Q"
+    },
+    {
+      "youtubeId": "FbAxP2-Jfps"
+    },
+    {
+      "youtubeId": "T9aRN5JkmL8"
+    },
+    {
+      "youtubeId": "mp1Q_dTxYws"
+    },
+    {
+      "youtubeId": "vUdNaAAc4FY"
+    },
+    {
+      "youtubeId": "cel1abeoaDM"
+    },
+    {
+      "youtubeId": "KIGBsQqZcNA"
+    },
+    {
+      "youtubeId": "nbG2DO6Xsek"
+    },
+    {
+      "youtubeId": "A598ESCoC70"
+    },
+    {
+      "youtubeId": "-dWfl7Dhb0o"
+    },
+    {
+      "youtubeId": "dhxrHvgXpSM"
+    },
+    {
+      "youtubeId": "rHqk0ZGb6qo"
+    },
+    {
+      "youtubeId": "sQar5NNGbw4"
+    },
+    {
+      "youtubeId": "iyJj9RxSsBY"
+    },
+    {
+      "youtubeId": "TxhhMTOTMDg"
+    },
+    {
+      "youtubeId": "uWnP5V_eGz8"
+    },
+    {
+      "youtubeId": "WJaqoK1PPu0"
+    },
+    {
+      "youtubeId": "V96iLwDoS3g"
+    },
+    {
+      "youtubeId": "6wkFb2_cUik"
+    },
+    {
+      "youtubeId": "LYNpWupyLwg"
+    },
+    {
+      "youtubeId": "8Mebmu5l_qY"
+    },
+    {
+      "youtubeId": "UdMdFE36dog"
+    },
+    {
+      "youtubeId": "JTLLe6_6opk"
+    },
+    {
+      "youtubeId": "sjL6Gl6ZIqs"
+    },
+    {
+      "youtubeId": "xtXvc9WIPc0"
+    },
+    {
+      "youtubeId": "OfUn6HjwXhI"
+    },
+    {
+      "youtubeId": "oVsHikXgK9Y"
+    },
+    {
+      "youtubeId": "70830iLiMEg"
+    },
+    {
+      "youtubeId": "ex-kCuNv_6A"
+    },
+    {
+      "youtubeId": "-pa9MHGrZSQ"
+    }
+  ]
+}

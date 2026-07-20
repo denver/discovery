@@ -25,3 +25,14 @@ for f in collections/*.json; do
   echo "--- sync $f"
   DISCOVERY_COLLECTION_PATH="$f" go run ./cmd/discovery sync
 done
+
+# Mixes are computed FROM the freshly synced pools (db query), then
+# synced themselves.
+if [ -n "${DISCOVERY_DATABASE_URL:-}" ]; then
+  python3 scripts/draft_mix_collections.py
+  for f in collections/denvers-radar.json; do
+    go run ./cmd/discovery validate "$f"
+    echo "--- sync $f"
+    DISCOVERY_COLLECTION_PATH="$f" go run ./cmd/discovery sync
+  done
+fi
