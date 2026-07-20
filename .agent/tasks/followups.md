@@ -19,7 +19,7 @@ channel (e.g. @aiDotEngineer for the World's Fair) into database mode:
   history the channel pool already accrued — curation is a view over
   the pool, not a re-ingest.
 
-Interim implementation (live as of 2026-07-19): scripts/sync-aie-channel.sh
+Interim implementation (live as of 2026-07-19): scripts/daily-sync.sh
 regenerates collections/ai-engineer-channel.json from the channel's
 uploads playlist via the Data API, then syncs all collections into local
 postgres. Run daily (cron or manually). Proper implementation is FE-2's

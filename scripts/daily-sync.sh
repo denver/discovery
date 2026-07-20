@@ -13,6 +13,7 @@ set -a; [ -f .env ] && source .env; set +a
 : "${YOUTUBE_API_KEY:?YOUTUBE_API_KEY not set (see .env.example)}"
 
 python3 scripts/draft_event_collections.py
+python3 scripts/draft_channel_collections.py
 
 for f in collections/*.json; do
   [ "$f" = "collections/example.json" ] && continue
