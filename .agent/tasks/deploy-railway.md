@@ -49,13 +49,19 @@ cron. Vercel is DNS-only; the main site is untouched.
    "Deploy" → run) or `railway run ./scripts/daily-sync.sh` locally
    pointed at the Railway Postgres.
 
-## Phase 3 — DNS (Denver, 2 minutes)
+## Phase 3 — DNS (deferred by decision, 2026-07-19)
 
-- App service → Settings → Networking → Custom Domain →
-  `discovery.denverpeterson.com`; copy the CNAME target.
-- Vercel → Domains → denverpeterson.com → DNS Records → add
-  `CNAME discovery → <target>.up.railway.app`.
-- TLS is automatic on both sides.
+Launch on the Railway-generated domain (`<app>.up.railway.app`) first;
+Railway provides TLS on it automatically. Bind the vanity subdomain
+later, once Denver picks the name — candidates:
+`discovery.denverpeterson.com` or `list.denverpeterson.com`.
+
+When ready: App service → Settings → Networking → Custom Domain →
+enter the chosen subdomain; copy the CNAME target; add the record in
+Vercel → Domains → denverpeterson.com → DNS Records
+(`CNAME <name> → <target>.up.railway.app`). TLS automatic on both
+sides. Changing or adding the subdomain later is non-breaking; the
+Railway domain keeps working alongside it.
 
 ## Phase 4 — verification checklist
 

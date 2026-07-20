@@ -43,6 +43,6 @@ Spec: `.agent/prd/prd.md`
 ## Deployment — Denver's instance (see deploy-railway.md)
 - [ ] Phase 1: Dockerfile + admin token guard (agent)
 - [ ] Phase 2: Railway project, Postgres, cron service (Denver + agent)
-- [ ] Phase 3: CNAME in Vercel DNS (Denver)
+- [ ] Phase 3 (deferred): vanity CNAME later — discovery. or list.denverpeterson.com
 - [ ] Phase 4: verification checklist
 - [ ] Later: OSS extraction to discovery-engine repo (post-usage-lock-in)
