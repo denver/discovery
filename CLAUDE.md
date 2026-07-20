@@ -28,13 +28,13 @@ personal, quarantined to exactly these locations:
 - `.agent/` — build history, plans, and architecture docs. Contains
   personal references and stays that way; see below.
 
-**If/when the repo goes public**, the intended split is: this repo
-stays as the engine plus a worked example (Denver's instance IS the
-example — real curation makes better docs than lorem). If the instance
-ever needs privacy, the exit is clean by construction: move
-`collections/` + script config blocks to a private repo and point the
-deploy there. Never solve a privacy concern by scrubbing engine code;
-there should be nothing to scrub.
+**The plan of record (2026-07-19):** this repo is Denver's private
+instance and deploys to Railway as-is (.agent/tasks/deploy-railway.md).
+Once usage is locked in, the engine gets extracted to a new public repo
+(working name: discovery-engine); this repo then becomes instance-only,
+consuming the engine. The boundary rules above exist so that extraction
+is mechanical — never solve a future-OSS concern by scrubbing engine
+code; there should be nothing to scrub.
 
 `.env` is gitignored and holds real secrets. Never print, commit, or
 echo its values. Railway/CI hold their own copies.
