@@ -12,18 +12,25 @@ cd "$(dirname "$0")/.."
 set -a; [ -f .env ] && source .env; set +a
 : "${YOUTUBE_API_KEY:?YOUTUBE_API_KEY not set (see .env.example)}"
 
+# Containers ship the compiled binary; local dev uses the toolchain.
+if command -v discovery >/dev/null 2>&1; then
+  DISCOVERY="discovery"
+else
+  DISCOVERY="go run ./cmd/discovery"
+fi
+
 python3 scripts/draft_event_collections.py
 python3 scripts/draft_channel_collections.py
 
 for f in collections/*.json; do
   [ "$f" = "collections/example.json" ] && continue
-  go run ./cmd/discovery validate "$f"
+  $DISCOVERY validate "$f"
 done
 
 for f in collections/*.json; do
   [ "$f" = "collections/example.json" ] && continue
   echo "--- sync $f"
-  DISCOVERY_COLLECTION_PATH="$f" go run ./cmd/discovery sync
+  DISCOVERY_COLLECTION_PATH="$f" $DISCOVERY sync
 done
 
 # Mixes are computed FROM the freshly synced pools (db query), then
@@ -31,8 +38,8 @@ done
 if [ -n "${DISCOVERY_DATABASE_URL:-}" ]; then
   python3 scripts/draft_mix_collections.py
   for f in collections/denvers-radar.json; do
-    go run ./cmd/discovery validate "$f"
+    $DISCOVERY validate "$f"
     echo "--- sync $f"
-    DISCOVERY_COLLECTION_PATH="$f" go run ./cmd/discovery sync
+    DISCOVERY_COLLECTION_PATH="$f" $DISCOVERY sync
   done
 fi

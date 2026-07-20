@@ -10,6 +10,7 @@ daily script orders this correctly.
 Requires: psql on PATH and the discovery database (db mode).
 """
 import json
+import os
 import subprocess
 
 from draft_event_collections import AUTHOR
@@ -39,7 +40,10 @@ def member_ids(sources: list[str], window_days: int) -> list[str]:
       AND v.published_at >= now() - interval '{window_days} days'
     ORDER BY v.youtube_id;
     """
-    out = subprocess.run(["psql", "-d", "discovery", "-t", "-A", "-c", sql],
+    # DISCOVERY_DATABASE_URL in hosted environments; local default socket
+    # database otherwise.
+    target = os.environ.get("DISCOVERY_DATABASE_URL") or "dbname=discovery"
+    out = subprocess.run(["psql", target, "-t", "-A", "-c", sql],
                          capture_output=True, text=True, check=True)
     return [line for line in out.stdout.splitlines() if line.strip()]
 

@@ -1,0 +1,18 @@
+# Cron service: the daily pipeline (scripts/daily-sync.sh).
+# Regenerates collection drafts from YouTube playlists and syncs
+# everything into the database. Needs the compiled binary, python3
+# (drafters), psql (mix membership queries), and bash.
+FROM golang:1.25-alpine AS build
+WORKDIR /src
+COPY go.mod go.sum ./
+RUN go mod download
+COPY . .
+RUN CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /out/discovery ./cmd/discovery
+
+FROM alpine:3.20
+RUN apk add --no-cache ca-certificates bash python3 postgresql16-client
+COPY --from=build /out/discovery /usr/local/bin/discovery
+WORKDIR /app
+COPY scripts/ ./scripts/
+COPY collections/ ./collections/
+CMD ["bash", "scripts/daily-sync.sh"]

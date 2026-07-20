@@ -73,7 +73,7 @@ func Run(logger *slog.Logger) error {
 
 	// Root mux: the API owns /health and /api/v1/*; the web UI owns
 	// everything else.
-	apiHandler := api.New(svc, engine, api.WithLogger(logger))
+	apiHandler := api.New(svc, engine, api.WithLogger(logger), api.WithAdminToken(cfg.AdminToken))
 	webHandler, err := web.New(svc)
 	if err != nil {
 		return fmt.Errorf("web templates: %w", err)

@@ -780,3 +780,54 @@ func TestMountable(t *testing.T) {
 		t.Fatalf("root path must stay unclaimed for the web UI, got %d", resp.StatusCode)
 	}
 }
+
+func TestSyncAdminToken(t *testing.T) {
+	doAuth := func(e *env, header string) *httptest.ResponseRecorder {
+		req := httptest.NewRequest(http.MethodPost, "/api/v1/sync", nil)
+		if header != "" {
+			req.Header.Set("Authorization", header)
+		}
+		rec := httptest.NewRecorder()
+		e.handler.ServeHTTP(rec, req)
+		return rec
+	}
+
+	t.Run("guard enabled", func(t *testing.T) {
+		e := newEnv(t, api.WithAdminToken("sekret-token"))
+
+		rec := doAuth(e, "")
+		wantErrorBody(t, rec, http.StatusUnauthorized)
+		if got := rec.Header().Get("WWW-Authenticate"); got == "" {
+			t.Error("401 must carry WWW-Authenticate")
+		}
+		wantErrorBody(t, doAuth(e, "Bearer wrong-token"), http.StatusUnauthorized)
+		wantErrorBody(t, doAuth(e, "sekret-token"), http.StatusUnauthorized) // missing Bearer prefix
+
+		if rec := doAuth(e, "Bearer sekret-token"); rec.Code != http.StatusOK {
+			t.Fatalf("valid token: status = %d, want 200; body: %s", rec.Code, rec.Body.String())
+		}
+	})
+
+	t.Run("guard disabled when unset", func(t *testing.T) {
+		e := newEnv(t)
+		if rec := doAuth(e, ""); rec.Code != http.StatusOK {
+			t.Fatalf("no token configured: status = %d, want 200", rec.Code)
+		}
+	})
+
+	t.Run("read endpoints never require the token", func(t *testing.T) {
+		e := newEnv(t, api.WithAdminToken("sekret-token"))
+		if rec := e.get("/api/v1/collections"); rec.Code != http.StatusOK {
+			t.Fatalf("reads must stay public: status = %d", rec.Code)
+		}
+	})
+
+	t.Run("token never leaks into responses", func(t *testing.T) {
+		e := newEnv(t, api.WithAdminToken("sekret-token"))
+		for _, rec := range []*httptest.ResponseRecorder{doAuth(e, ""), doAuth(e, "Bearer wrong")} {
+			if strings.Contains(rec.Body.String(), "sekret") {
+				t.Fatalf("response leaks token material: %s", rec.Body.String())
+			}
+		}
+	})
+}

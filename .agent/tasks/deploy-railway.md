@@ -11,14 +11,19 @@ cron. Vercel is DNS-only; the main site is untouched.
 
 ## Phase 1 — code prep (agent work, do before touching Railway)
 
-- [ ] **Dockerfile + .dockerignore.** Multi-stage, static binary,
+- [x] **Dockerfile + .dockerignore.** (2026-07-19: Dockerfile for the
+  app, Dockerfile.cron for the pipeline — cron service sets
+  RAILWAY_DOCKERFILE_PATH=Dockerfile.cron. Both build; app container
+  boot-tested.) Multi-stage, static binary,
   `CMD ["discovery", "serve"]`, collections/ copied in. This is T17's
   first half, pulled forward; compose can wait for the OSS repo.
-- [ ] **DISCOVERY_ADMIN_TOKEN guard** on `POST /api/v1/sync`: when the
+- [x] **DISCOVERY_ADMIN_TOKEN guard** (2026-07-19: bearer check with
+  constant-time compare on POST /sync, 401 + WWW-Authenticate, reads
+  stay public, 5 tests. Unset = local dev unchanged.) on `POST /api/v1/sync`: when the
   env var is set, require `Authorization: Bearer <token>` (401
   otherwise); when unset (local dev), behavior unchanged. ~30 lines +
   tests (FE-4 stage 2). Required before public traffic.
-- [ ] **CI green on main** (it already is; keep it that way).
+- [x] **CI green on main** (it already is; keep it that way).
 
 ## Phase 2 — Railway setup (Denver in dashboard, agent can pair)
 

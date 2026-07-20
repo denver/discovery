@@ -1,10 +1,23 @@
 package api
 
 import (
+	"crypto/subtle"
 	"net/http"
 	"strconv"
+	"strings"
 	"time"
 )
+
+// authorized reports whether the request carries the admin bearer token.
+// Constant-time comparison; the token never appears in logs or errors.
+func (s *server) authorized(r *http.Request) bool {
+	auth := r.Header.Get("Authorization")
+	got, ok := strings.CutPrefix(auth, "Bearer ")
+	if !ok {
+		return false
+	}
+	return subtle.ConstantTimeCompare([]byte(got), []byte(s.adminToken)) == 1
+}
 
 // handleSync runs the sync engine. Concurrency is guarded by the engine
 // itself (ErrSyncInProgress → 429); on top of that, successful manual
@@ -12,6 +25,13 @@ import (
 // with a Retry-After header. Scheduler and CLI runs bypass the cooldown
 // because they call the engine directly.
 func (s *server) handleSync(w http.ResponseWriter, r *http.Request) {
+	if s.adminToken != "" && !s.authorized(r) {
+		w.Header().Set("WWW-Authenticate", `Bearer realm="discovery admin"`)
+		s.writeJSON(w, http.StatusUnauthorized, errorBody{
+			Error: "sync requires a valid admin bearer token",
+		})
+		return
+	}
 	if s.cooldown > 0 {
 		s.mu.Lock()
 		remaining := s.cooldown - s.now().Sub(s.lastManualOK)

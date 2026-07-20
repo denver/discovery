@@ -41,7 +41,7 @@ Spec: `.agent/prd/prd.md`
 - `cmd/server/main.go` wiring is Lane D's; other lanes expose constructors, don't wire.
 
 ## Deployment — Denver's instance (see deploy-railway.md)
-- [ ] Phase 1: Dockerfile + admin token guard (agent)
+- [x] Phase 1: Dockerfile + admin token guard (agent) — done 2026-07-19
 - [ ] Phase 2: Railway project, Postgres, cron service (Denver + agent)
 - [ ] Phase 3 (deferred): vanity CNAME later — discovery. or list.denverpeterson.com
 - [ ] Phase 4: verification checklist

@@ -50,12 +50,20 @@ func WithNow(now func() time.Time) Option {
 	return func(s *server) { s.now = now }
 }
 
+// WithAdminToken requires "Authorization: Bearer <token>" on write
+// endpoints (POST /api/v1/sync). Empty disables the requirement, which
+// is the local-development default; hosted deployments must set it.
+func WithAdminToken(token string) Option {
+	return func(s *server) { s.adminToken = token }
+}
+
 type server struct {
-	svc      *service.Service
-	engine   *syncpkg.Engine
-	logger   *slog.Logger
-	cooldown time.Duration
-	now      func() time.Time
+	svc        *service.Service
+	engine     *syncpkg.Engine
+	logger     *slog.Logger
+	cooldown   time.Duration
+	adminToken string
+	now        func() time.Time
 
 	mu           stdsync.Mutex
 	lastManualOK time.Time

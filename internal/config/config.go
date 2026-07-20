@@ -58,6 +58,11 @@ type Config struct {
 	// RefreshInterval overrides the collection file's refreshInterval
 	// when set (DISCOVERY_REFRESH_INTERVAL). Zero when unset.
 	RefreshInterval time.Duration
+
+	// AdminToken guards write endpoints (POST /api/v1/sync) when set
+	// (DISCOVERY_ADMIN_TOKEN). Empty disables the guard: fine locally,
+	// required for hosted deployments. Secret; never logged.
+	AdminToken string
 }
 
 // Load reads configuration from the environment. Empty variables are
@@ -68,6 +73,7 @@ func Load() (*Config, error) {
 		YouTubeAPIKey:  EnvLookup("YOUTUBE_API_KEY"),
 		CollectionPath: EnvLookup("DISCOVERY_COLLECTION_PATH"),
 		DatabaseURL:    EnvLookup("DISCOVERY_DATABASE_URL"),
+		AdminToken:     EnvLookup("DISCOVERY_ADMIN_TOKEN"),
 		Port:           DefaultPort,
 		CachePath:      DefaultCachePath,
 	}
@@ -141,6 +147,7 @@ func (c *Config) Redacted() string {
 		fmt.Fprintf(&b, " refresh=%s", c.RefreshInterval)
 	}
 	fmt.Fprintf(&b, " youtube_api_key=%s", presence(c.YouTubeAPIKey))
+	fmt.Fprintf(&b, " admin_token=%s", presence(c.AdminToken))
 	return b.String()
 }
 
