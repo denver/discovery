@@ -116,3 +116,19 @@ can paste into a collection file.
 - Must share the sync endpoint's rate limiting (spends YouTube quota).
 - Requires an OpenAPI contract amendment before implementation.
 - Origin: Denver, 2026-07-19. Small task, Lane D shape, depends on T06.
+
+## FE-6: Headless frontend option (Vercel FE consuming the API)
+
+Denver's original mental model — frontend on Vercel, Go API behind it —
+is fully supported by the architecture but not enabled: the API sends no
+CORS headers (same-origin only today, by design). When/if a separate
+branded frontend happens (hosted "denver's list" product phase):
+
+- Add config-gated CORS middleware to internal/api
+  (DISCOVERY_CORS_ORIGIN, exact origin, no wildcard) — ~10 lines.
+- The server-rendered UI stays: it is the reference consumer and the
+  self-hosted default. A JS frontend is additive, never a replacement.
+- Until then: server-rendered monolith on Railway is the deliberate
+  choice (PRD: "lightweight server-rendered web UI").
+
+Recorded 2026-07-23 after deploy discussion.
