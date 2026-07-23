@@ -42,7 +42,7 @@ Spec: `.agent/prd/prd.md`
 
 ## Deployment — Denver's instance (see deploy-railway.md)
 - [x] Phase 1: Dockerfile + admin token guard (agent) — done 2026-07-19
-- [ ] Phase 2: Railway project, Postgres, cron service (Denver + agent)
-- [ ] Phase 3 (deferred): vanity CNAME later — discovery. or list.denverpeterson.com
-- [ ] Phase 4: verification checklist
+- [x] Phase 2: Railway project, Postgres, cron service — live 2026-07-23
+- [x] Phase 3: list.denverpeterson.com live (CNAME + TXT at registrar)
+- [x] Phase 4: verified live 2026-07-23 (health, 17 collections, 401 guard, UI 200); day-2 trending check remains
 - [ ] Later: OSS extraction to discovery-engine repo (post-usage-lock-in)

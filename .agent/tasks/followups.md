@@ -29,6 +29,54 @@ Known gap: config supports one DISCOVERY_COLLECTION_PATH but the sync
 engine accepts multiple paths — the script works around it by syncing
 per-file. Config should grow multi-path support.
 
+## FE-7: Admin console (requested 2026-07-23, post-deploy)
+
+Denver's ask: log in and update the playlists/channels without pushing
+code. The calculus changed once hosting went live — remote curation now
+requires a code push plus cron cycle, which is real friction.
+
+Design direction (keeps FE-4's "no user accounts before multi-tenant"):
+- **Auth = the existing DISCOVERY_ADMIN_TOKEN**, not accounts: a /admin
+  login form that accepts the token and sets a signed HttpOnly cookie.
+  One admin, no user table, no password reset. "Login" in the UX sense,
+  token in the security sense.
+- **The real work is sources-as-data, not the login.** Today the
+  channel/event/mix registries are Python config (CHANNELS, EVENTS,
+  MIXES in scripts/). To edit them without code pushes they must move
+  to data the cron reads: a `sources` table (or a sources.json the
+  admin console edits in the DB). Cron becomes: read registry from DB →
+  draft → sync.
+- Console v1 scope: list/add/remove tracked channels (by handle),
+  playlist→collection mappings, mix rules (sources + window); trigger
+  sync now; view last cron result. NOT in v1: per-video editorial
+  editing (files/export remain canonical for fine-grained curation).
+- Export remains the escape hatch: anything the console writes must
+  round-trip through `discovery export` so git can still capture
+  curation history.
+
+## FE-8: Recency surfacing (requested 2026-07-23)
+
+Denver's ask: slice videos by date, and surface new videos on big
+channels — a new Dan Martell upload will never crack his all-time
+top-25, but it must be discoverable.
+
+Three pieces, cheapest first:
+1. **"Newest" sort** — a publishedAt-desc ranking strategy. Trivial
+   (pure Ranker, no history needed); gives every collection a "latest
+   uploads" view immediately.
+2. **Date window filter** — `?published=30d|6w|1y` as a filter
+   dimension alongside event/track/topic, service-level (we have
+   publishedAt on every video). Composes with every sort: "this
+   month's uploads by engagement."
+3. **"Rising" sort surfaced in the UI** — views_24h/growth already
+   built; light up the tabs once hosted cron history matures (2+ days).
+   This is the real answer to "new videos need surfacing": rising
+   beats newest because it ranks new-AND-resonating.
+
+Note: mixes (FE-5/denvers-radar) already prove the pattern at the
+collection level; FE-8 brings time-slicing to every collection as a
+query, no new collections needed.
+
 ## FE-4: Admin surface, staged (decided 2026-07-19)
 
 Question: should there be login + a web UI for the admin (Denver) to
