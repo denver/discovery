@@ -21,6 +21,7 @@ CHANNELS = [
     {"handle": "DwarkeshPatel", "slug": "dwarkesh-patel"},
     {"handle": "daveebbelaar", "slug": "dave-ebbelaar"},
     {"handle": "PeterYangYT", "slug": "peter-yang"},
+    {"handle": "boundaryml", "slug": "boundaryml"},
 ]
 
 
