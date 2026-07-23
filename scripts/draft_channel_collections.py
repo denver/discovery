@@ -17,6 +17,10 @@ CHANNELS = [
     {"handle": "danmartell", "slug": "dan-martell"},
     {"handle": "anthropic-ai", "slug": "anthropic"},
     {"handle": "OpenAI", "slug": "openai"},
+    {"handle": "GregIsenberg", "slug": "greg-isenberg"},
+    {"handle": "DwarkeshPatel", "slug": "dwarkesh-patel"},
+    {"handle": "daveebbelaar", "slug": "dave-ebbelaar"},
+    {"handle": "PeterYangYT", "slug": "peter-yang"},
 ]
 
 

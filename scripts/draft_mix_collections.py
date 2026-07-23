@@ -17,6 +17,16 @@ from draft_event_collections import AUTHOR
 
 MIXES = [
     {
+        "slug": "top-creators",
+        "title": "Top Creators",
+        "description": "The all-time best across Lenny's Podcast, Greg Isenberg, "
+                       "How I AI, Dwarkesh Patel, Dave Ebbelaar, and Peter Yang. "
+                       "One leaderboard, six channels.",
+        "sources": ["lennys-podcast", "greg-isenberg", "how-i-ai",
+                    "dwarkesh-patel", "dave-ebbelaar", "peter-yang"],
+        "window_days": None,
+    },
+    {
         "slug": "denvers-radar",
         "title": "Denver's Radar",
         "description": "What's hot in the last six weeks across Dan Martell, "
@@ -29,15 +39,18 @@ MIXES = [
 ]
 
 
-def member_ids(sources: list[str], window_days: int) -> list[str]:
+def member_ids(sources: list[str], window_days: int | None) -> list[str]:
     slugs = ",".join(f"'{s}'" for s in sources)
+    recency = ""
+    if window_days is not None:
+        recency = f"AND v.published_at >= now() - interval '{window_days} days'"
     sql = f"""
     SELECT DISTINCT v.youtube_id
     FROM videos v
     JOIN collection_videos cv ON cv.video_id = v.id
     JOIN collections c ON c.id = cv.collection_id
     WHERE c.slug IN ({slugs})
-      AND v.published_at >= now() - interval '{window_days} days'
+      {recency}
     ORDER BY v.youtube_id;
     """
     # DISCOVERY_DATABASE_URL in hosted environments; local default socket
@@ -65,8 +78,8 @@ def main() -> None:
         with open(path, "w") as f:
             json.dump(coll, f, indent=2, ensure_ascii=False)
             f.write("\n")
-        print(f"{path}: {len(ids)} videos from {len(mix['sources'])} sources, "
-              f"last {mix['window_days']} days")
+        span = f"last {mix['window_days']} days" if mix["window_days"] else "all time"
+        print(f"{path}: {len(ids)} videos from {len(mix['sources'])} sources, {span}")
 
 
 if __name__ == "__main__":
